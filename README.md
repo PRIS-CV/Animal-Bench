@@ -6,7 +6,9 @@ Code release for "AnimalBench: Benchmarking Multimodal Video Models for Animal-c
 Previous benchmarks (left) relied on limited agent and the scenarios of editing-based
 benchmarks are unrealistic. Our proposed Animal-Bench (right) includes diverse animal agents,
 various realistic scenarios, and encompasses 13 different tasks.
+
 **Task Demonstration**
+
 <img width="978" alt="image" src="https://github.com/user-attachments/assets/2eccd62f-02a4-4d5a-a248-cea40d37d06c">
 
 **Effectiveness evaluation results:**
