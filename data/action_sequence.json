@@ -1,0 +1,3018 @@
+[
+    {
+        "video": "AADJBFXO.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Panting",
+            "Running",
+            "Chirping",
+            "Spitting Venom"
+        ],
+        "answer": "Chirping",
+        "start": 2.1,
+        "end": 7.6
+    },
+    {
+        "video": "AFFIMJHH.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Sleeping",
+            "Retreating",
+            "Sensing its environment",
+            "Drinking"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.0,
+        "end": 9.0
+    },
+    {
+        "video": "ARUWSVTI.mp4",
+        "question": "What was the animal doing before it started diving?",
+        "candidates": [
+            "Hugging",
+            "Keeping still",
+            "Startled",
+            "Sensing"
+        ],
+        "answer": "Keeping still",
+        "start": 11.1,
+        "end": 16.2
+    },
+    {
+        "video": "ATJXVXTD.mp4",
+        "question": "What was the animal doing before it started grooming itself?",
+        "candidates": [
+            "Sensing its environment",
+            "Eating",
+            "Giving Off Light",
+            "Attending"
+        ],
+        "answer": "Sensing its environment",
+        "start": 13.2,
+        "end": 25.1
+    },
+    {
+        "video": "AZBDVSBA.mp4",
+        "question": "What was the animal doing before it started drinking?",
+        "candidates": [
+            "Preening",
+            "Sensing its environment",
+            "Sitting",
+            "Doing A Face Dip"
+        ],
+        "answer": "Sensing its environment",
+        "start": 16.0,
+        "end": 28.4
+    },
+    {
+        "video": "BCEBQPHK.mp4",
+        "question": "What was the animal doing after it finished turning around?",
+        "candidates": [
+            "Drinking",
+            "Eating",
+            "Performing copulatory mounting",
+            "Spreading Wings"
+        ],
+        "answer": "Eating",
+        "start": 0.0,
+        "end": 19.3
+    },
+    {
+        "video": "BEKUTPTK.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Spitting",
+            "Eating",
+            "Grooming",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 2.4,
+        "end": 21.5
+    },
+    {
+        "video": "BGPQXMHZ.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Flapping",
+            "Flapping its ears",
+            "Surfacing",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 6.1,
+        "end": 25.6
+    },
+    {
+        "video": "BHTJFKOU.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Being Carried In Mouth",
+            "Wrapping Prey",
+            "Attending",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.5,
+        "end": 12.1
+    },
+    {
+        "video": "BIFTXPKK.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Carrying In Mouth",
+            "Running",
+            "Falling",
+            "Puffing its throat"
+        ],
+        "answer": "Falling",
+        "start": 9.7,
+        "end": 15.5
+    },
+    {
+        "video": "BLAZUFKM.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Turning Around",
+            "Chirping",
+            "Startled",
+            "Standing in alert"
+        ],
+        "answer": "Standing in alert",
+        "start": 0.0,
+        "end": 21.6
+    },
+    {
+        "video": "BLCCLVKA.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Standing in alert",
+            "Sensing",
+            "Lying On Top",
+            "Fighting"
+        ],
+        "answer": "Standing in alert",
+        "start": 10.1,
+        "end": 18.9
+    },
+    {
+        "video": "BROLDKEW.mp4",
+        "question": "What was the animal doing before it started running on water?",
+        "candidates": [
+            "Flying",
+            "Drinking",
+            "Retreating",
+            "Startled"
+        ],
+        "answer": "Drinking",
+        "start": 13.7,
+        "end": 18.3
+    },
+    {
+        "video": "BTCFXPTK.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Hatching",
+            "Keeping still",
+            "Retaliating",
+            "Sensing its surrounding"
+        ],
+        "answer": "Sensing its surrounding",
+        "start": 6.1,
+        "end": 9.7
+    },
+    {
+        "video": "BUPDVEUL.mp4",
+        "question": "What was the animal doing after it finished spitting venom?",
+        "candidates": [
+            "Spreading Wings",
+            "Moving",
+            "Abseiling",
+            "Keeping still"
+        ],
+        "answer": "Keeping still",
+        "start": 10.3,
+        "end": 17.1
+    },
+    {
+        "video": "BVTWKMHZ.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Sensing its environment",
+            "Gasping For Air",
+            "Disturbing Another Animal",
+            "Moving"
+        ],
+        "answer": "Sensing its environment",
+        "start": 19.5,
+        "end": 27.6
+    },
+    {
+        "video": "BWHSTVYU.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Turning Around",
+            "Drinking",
+            "Attending",
+            "Camouflaging"
+        ],
+        "answer": "Attending",
+        "start": 5.0,
+        "end": 13.3
+    },
+    {
+        "video": "BXHXBFUP.mp4",
+        "question": "What was the animal doing before it started spitting venom?",
+        "candidates": [
+            "Keeping still",
+            "Falling",
+            "Walking",
+            "Manipulating Object"
+        ],
+        "answer": "Keeping still",
+        "start": 2.3,
+        "end": 6.4
+    },
+    {
+        "video": "CAKIAJBD.mp4",
+        "question": "What was the animal doing after it finished sensing its surrounding?",
+        "candidates": [
+            "Building nest",
+            "Chirping",
+            "Flying",
+            "Displaying Defensive Pose"
+        ],
+        "answer": "Chirping",
+        "start": 10.5,
+        "end": 26.7
+    },
+    {
+        "video": "CLOGXSEK.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Drinking",
+            "Sharing Food",
+            "Attending",
+            "Entering its nest"
+        ],
+        "answer": "Drinking",
+        "start": 11.1,
+        "end": 21.8
+    },
+    {
+        "video": "CQISBJKU.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Keeping still",
+            "Flying",
+            "Being Carried In Mouth",
+            "Competing For Dominance"
+        ],
+        "answer": "Keeping still",
+        "start": 22.2,
+        "end": 26.1
+    },
+    {
+        "video": "CRLWPFUP.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Running",
+            "Spreading",
+            "Spreading Wings",
+            "Spitting venom"
+        ],
+        "answer": "Spitting venom",
+        "start": 3.0,
+        "end": 7.4
+    },
+    {
+        "video": "CUVFLPKK.mp4",
+        "question": "What was the animal doing after it finished drinking?",
+        "candidates": [
+            "Preening itself",
+            "Startled",
+            "Drinking",
+            "Sharing Food"
+        ],
+        "answer": "Preening itself",
+        "start": 2.2,
+        "end": 6.0
+    },
+    {
+        "video": "DBTEPNCR.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Chirping",
+            "Biting",
+            "Gasping For Air",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 5.3,
+        "end": 15.2
+    },
+    {
+        "video": "DCLXYSEB.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Leaning",
+            "Sensing",
+            "Shaking",
+            "Preening itself"
+        ],
+        "answer": "Preening itself",
+        "start": 2.1,
+        "end": 22.7
+    },
+    {
+        "video": "DCYOGVEI.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Walking",
+            "Surfacing",
+            "Moving",
+            "Barking"
+        ],
+        "answer": "Walking",
+        "start": 1.4,
+        "end": 7.4
+    },
+    {
+        "video": "DLPJIKDQ.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Attending",
+            "Fighting",
+            "Carrying",
+            "Preening itself"
+        ],
+        "answer": "Preening itself",
+        "start": 28.4,
+        "end": 34.3
+    },
+    {
+        "video": "DNZKFWMK.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Spitting Venom",
+            "Moving",
+            "Doing A Backward Tilt",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.6,
+        "end": 22.2
+    },
+    {
+        "video": "DSMPPEUL.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Hugging",
+            "Chirping",
+            "Defensive Rearing",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 13.2,
+        "end": 20.7
+    },
+    {
+        "video": "DTDGPIBW.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Doing Push Up",
+            "Flapping its tail",
+            "Standing",
+            "Flying"
+        ],
+        "answer": "Flapping its tail",
+        "start": 3.0,
+        "end": 9.5
+    },
+    {
+        "video": "DTMZORAC.mp4",
+        "question": "What was the animal doing before it started eating?",
+        "candidates": [
+            "Sensing its environment",
+            "Digging",
+            "Performing copulatory mounting",
+            "Walking"
+        ],
+        "answer": "Sensing its environment",
+        "start": 12.6,
+        "end": 18.6
+    },
+    {
+        "video": "DXZGTMVW.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Sensing its surrounding",
+            "Fleeing",
+            "Sensing",
+            "Doing somersault"
+        ],
+        "answer": "Sensing its surrounding",
+        "start": 12.9,
+        "end": 21.9
+    },
+    {
+        "video": "EDCMAVYU.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Attending",
+            "Walking",
+            "Hugging",
+            "Doing A Side Tilt"
+        ],
+        "answer": "Walking",
+        "start": 13.0,
+        "end": 20.1
+    },
+    {
+        "video": "EVYFEUOY.mp4",
+        "question": "What was the animal doing after it finished shaking its head?",
+        "candidates": [
+            "Jumping",
+            "Attending",
+            "Holding Hands",
+            "Retreating"
+        ],
+        "answer": "Attending",
+        "start": 4.9,
+        "end": 8.9
+    },
+    {
+        "video": "EXTXYEUL.mp4",
+        "question": "What was the animal doing before it started sensing its surrounding?",
+        "candidates": [
+            "Startled",
+            "Spitting venom",
+            "Attending",
+            "Spreading Wings"
+        ],
+        "answer": "Spitting venom",
+        "start": 0.0,
+        "end": 12.0
+    },
+    {
+        "video": "FAULBEZZ.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Walking",
+            "Playing Dead",
+            "Spitting Venom",
+            "Attacking"
+        ],
+        "answer": "Walking",
+        "start": 0.0,
+        "end": 3.1
+    },
+    {
+        "video": "FCKUNGQD.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Fleeing",
+            "Jumping",
+            "Flying",
+            "Trapped"
+        ],
+        "answer": "Jumping",
+        "start": 53.0,
+        "end": 60.3
+    },
+    {
+        "video": "FDSKAONO.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Waving",
+            "Shaking Head",
+            "Shaking",
+            "Chirping"
+        ],
+        "answer": "Chirping",
+        "start": 0.0,
+        "end": 8.0
+    },
+    {
+        "video": "FHJHIEOD.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Shaking",
+            "Keeping still",
+            "Chirping",
+            "Doing A Chin Dip"
+        ],
+        "answer": "Chirping",
+        "start": 12.0,
+        "end": 24.6
+    },
+    {
+        "video": "FHKYIBQT.mp4",
+        "question": "What was the animal doing after it finished climbing?",
+        "candidates": [
+            "Hopping",
+            "Exploring",
+            "Running",
+            "Biting"
+        ],
+        "answer": "Exploring",
+        "start": 22.8,
+        "end": 27.3
+    },
+    {
+        "video": "FHUKVGEG.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Wrapping Itself Around Prey",
+            "Washing",
+            "Licking",
+            "Keeping still"
+        ],
+        "answer": "Licking",
+        "start": 0.8,
+        "end": 5.6
+    },
+    {
+        "video": "FRFJJLSQ.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Sleeping",
+            "Grooming",
+            "Keeping still",
+            "Attending"
+        ],
+        "answer": "Keeping still",
+        "start": 29.8,
+        "end": 33.8
+    },
+    {
+        "video": "FXEIPPIF.mp4",
+        "question": "What was the animal doing after it finished walking?",
+        "candidates": [
+            "Coiling",
+            "Jumping",
+            "Falling",
+            "Displaying Defensive Pose"
+        ],
+        "answer": "Falling",
+        "start": 1.8,
+        "end": 6.0
+    },
+    {
+        "video": "GDEOMHGW.mp4",
+        "question": "What was the animal doing before it started spreading its wings?",
+        "candidates": [
+            "Eating",
+            "Sensing its environment",
+            "Wrapping Prey",
+            "Struggling"
+        ],
+        "answer": "Sensing its environment",
+        "start": 10.6,
+        "end": 14.1
+    },
+    {
+        "video": "GJZDKPLS.mp4",
+        "question": "What was the animal doing after it finished running?",
+        "candidates": [
+            "Attending",
+            "Moving",
+            "Grooming",
+            "Spreading"
+        ],
+        "answer": "Attending",
+        "start": 1.8,
+        "end": 13.0
+    },
+    {
+        "video": "GKIBRMCW.mp4",
+        "question": "What was the animal doing before it started eating?",
+        "candidates": [
+            "Walking",
+            "Preening",
+            "Defecating",
+            "Manipulating Object"
+        ],
+        "answer": "Walking",
+        "start": 10.9,
+        "end": 19.5
+    },
+    {
+        "video": "GMKVUEOD.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Pecking",
+            "Waving",
+            "Swimming",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 17.5,
+        "end": 27.0
+    },
+    {
+        "video": "GPCHWQTX.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Showing Affection",
+            "Attending",
+            "Climbing",
+            "Running"
+        ],
+        "answer": "Attending",
+        "start": 23.6,
+        "end": 29.7
+    },
+    {
+        "video": "GPSASVEI.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Biting",
+            "Jumping",
+            "Walking",
+            "Rattling"
+        ],
+        "answer": "Walking",
+        "start": 1.5,
+        "end": 9.4
+    },
+    {
+        "video": "GRVJDEUL.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Keeping still",
+            "Spitting venom",
+            "Being Carried In Mouth",
+            "Performing sexual pursuit"
+        ],
+        "answer": "Spitting venom",
+        "start": 1.2,
+        "end": 7.3
+    },
+    {
+        "video": "GTCOPCND.mp4",
+        "question": "What was the animal doing after it finished moving?",
+        "candidates": [
+            "Fighting",
+            "Landing",
+            "Keeping still",
+            "Wrapping Prey"
+        ],
+        "answer": "Keeping still",
+        "start": 19.5,
+        "end": 26.2
+    },
+    {
+        "video": "GTDVCVKA.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Playing",
+            "Sensing its environment",
+            "Flapping",
+            "Surfacing"
+        ],
+        "answer": "Sensing its environment",
+        "start": 1.4,
+        "end": 11.5
+    },
+    {
+        "video": "GYICOVEI.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Attacking",
+            "Surfacing",
+            "Sleeping in its nest",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 1.5,
+        "end": 8.1
+    },
+    {
+        "video": "HFCTQLHH.mp4",
+        "question": "What was the animal doing after it finished moving?",
+        "candidates": [
+            "Panting",
+            "Keeping still",
+            "Shaking Head",
+            "Hugging"
+        ],
+        "answer": "Keeping still",
+        "start": 4.8,
+        "end": 17.0
+    },
+    {
+        "video": "HQBCDPKK.mp4",
+        "question": "What was the animal doing after it finished preening itself?",
+        "candidates": [
+            "Biting",
+            "Drinking",
+            "Performing allo-grooming",
+            "Swimming"
+        ],
+        "answer": "Drinking",
+        "start": 0.5,
+        "end": 4.2
+    },
+    {
+        "video": "HSLHGVMP.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Attending",
+            "Gasping For Air",
+            "Eating",
+            "Climbing"
+        ],
+        "answer": "Eating",
+        "start": 22.1,
+        "end": 25.4
+    },
+    {
+        "video": "HYCVCVTI.mp4",
+        "question": "What was the animal doing before it started diving?",
+        "candidates": [
+            "Exiting Nest",
+            "Hugging",
+            "Keeping still",
+            "Chirping"
+        ],
+        "answer": "Keeping still",
+        "start": 0.0,
+        "end": 15.2
+    },
+    {
+        "video": "IAVWNFUP.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Keeping still",
+            "Diving",
+            "Jumping",
+            "Displaying Defensive Pose"
+        ],
+        "answer": "Keeping still",
+        "start": 10.0,
+        "end": 19.7
+    },
+    {
+        "video": "IDWXEBQT.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Climbing",
+            "Keeping still",
+            "Hatching",
+            "Fighting"
+        ],
+        "answer": "Climbing",
+        "start": 29.7,
+        "end": 39.1
+    },
+    {
+        "video": "IHICJMVW.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Performing sexual pursuit",
+            "Surfacing",
+            "Chirping",
+            "Shaking Head"
+        ],
+        "answer": "Chirping",
+        "start": 1.5,
+        "end": 6.9
+    },
+    {
+        "video": "IKXCRVKA.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Performing allo-preening",
+            "Grooming",
+            "Keeping still",
+            "Moving"
+        ],
+        "answer": "Keeping still",
+        "start": 11.0,
+        "end": 17.3
+    },
+    {
+        "video": "IMCPRLSQ.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Retreating",
+            "Preening",
+            "Falling",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 7.3,
+        "end": 13.2
+    },
+    {
+        "video": "IMMISPLS.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Turning Around",
+            "Flying",
+            "Walking",
+            "Dancing On Water"
+        ],
+        "answer": "Walking",
+        "start": 10.0,
+        "end": 14.1
+    },
+    {
+        "video": "IPUGTHPH.mp4",
+        "question": "What was the animal doing before it started eating?",
+        "candidates": [
+            "Exploring",
+            "Immobilized",
+            "Standing",
+            "Jumping"
+        ],
+        "answer": "Exploring",
+        "start": 10.8,
+        "end": 18.1
+    },
+    {
+        "video": "IRIYCFXO.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Sensing",
+            "Displaying Defensive Pose",
+            "Waving",
+            "Shaking its head"
+        ],
+        "answer": "Shaking its head",
+        "start": 10.0,
+        "end": 17.4
+    },
+    {
+        "video": "IRJTNZON.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Displaying Defensive Pose",
+            "Sensing its environment",
+            "Drinking",
+            "Having A Flehmen Response"
+        ],
+        "answer": "Sensing its environment",
+        "start": 14.2,
+        "end": 21.2
+    },
+    {
+        "video": "IRVTEUXS.mp4",
+        "question": "What was the animal doing before it started spitting venom?",
+        "candidates": [
+            "Standing in alert",
+            "Disturbing Another Animal",
+            "Sensing its environment",
+            "Attacking"
+        ],
+        "answer": "Sensing its environment",
+        "start": 10.7,
+        "end": 14.0
+    },
+    {
+        "video": "ISKIEKTH.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Exiting Nest",
+            "Flapping its tail",
+            "Swimming",
+            "Disturbing Another Animal"
+        ],
+        "answer": "Flapping its tail",
+        "start": 3.5,
+        "end": 10.1
+    },
+    {
+        "video": "ISQFYLDC.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Barking",
+            "Moving",
+            "Swimming",
+            "Dying"
+        ],
+        "answer": "Moving",
+        "start": 12.7,
+        "end": 22.6
+    },
+    {
+        "video": "IUCXFPKL.mp4",
+        "question": "What was the animal doing after it finished jumping?",
+        "candidates": [
+            "Flapping",
+            "Playing",
+            "Keeping still",
+            "Retaliating"
+        ],
+        "answer": "Keeping still",
+        "start": 11.4,
+        "end": 14.8
+    },
+    {
+        "video": "IVBIGUOY.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Flying",
+            "Hissing",
+            "Climbing",
+            "Jumping"
+        ],
+        "answer": "Flying",
+        "start": 11.4,
+        "end": 24.8
+    },
+    {
+        "video": "IWRXTPTK.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Attending",
+            "Shaking Head",
+            "Climbing",
+            "Defecating"
+        ],
+        "answer": "Attending",
+        "start": 0.7,
+        "end": 13.2
+    },
+    {
+        "video": "IXCQUEOD.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Struggling",
+            "Unmounting",
+            "Flying",
+            "Running"
+        ],
+        "answer": "Flying",
+        "start": 15.5,
+        "end": 26.5
+    },
+    {
+        "video": "IZYNJFUP.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Attending",
+            "Landing",
+            "Exiting Nest",
+            "Turning Around"
+        ],
+        "answer": "Attending",
+        "start": 10.3,
+        "end": 23.3
+    },
+    {
+        "video": "JBQKCZLK.mp4",
+        "question": "What was the animal doing before it started eating?",
+        "candidates": [
+            "Chirping",
+            "Waving",
+            "Sensing its environment",
+            "Hugging"
+        ],
+        "answer": "Sensing its environment",
+        "start": 10.6,
+        "end": 30.1
+    },
+    {
+        "video": "JCNICFGA.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Sensing",
+            "Urinating",
+            "Climbing",
+            "Turning around"
+        ],
+        "answer": "Turning around",
+        "start": 18.0,
+        "end": 23.9
+    },
+    {
+        "video": "JFRYSVKA.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Disturbing Another Animal",
+            "Landing",
+            "Gliding",
+            "Chirping"
+        ],
+        "answer": "Chirping",
+        "start": 16.7,
+        "end": 25.8
+    },
+    {
+        "video": "JIGVWJKU.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Swimming",
+            "Carrying In Mouth",
+            "Panting",
+            "Falling"
+        ],
+        "answer": "Falling",
+        "start": 16.9,
+        "end": 29.2
+    },
+    {
+        "video": "JSKINBXG.mp4",
+        "question": "What was the animal doing after it finished walking?",
+        "candidates": [
+            "Doing A Face Dip",
+            "Landing",
+            "Giving Birth",
+            "Keeping still"
+        ],
+        "answer": "Keeping still",
+        "start": 1.9,
+        "end": 5.4
+    },
+    {
+        "video": "JZLJXKOU.mp4",
+        "question": "What was the animal doing before it started jumping?",
+        "candidates": [
+            "Carrying In Mouth",
+            "Chirping",
+            "Jumping",
+            "Dead"
+        ],
+        "answer": "Chirping",
+        "start": 1.1,
+        "end": 5.3
+    },
+    {
+        "video": "KKWHYJIR.mp4",
+        "question": "What was the animal doing before it started gliding?",
+        "candidates": [
+            "Flying",
+            "Shaking",
+            "Jumping",
+            "Stinging"
+        ],
+        "answer": "Flying",
+        "start": 0.1,
+        "end": 18.9
+    },
+    {
+        "video": "KOFQODFS.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Swimming",
+            "Doing A Side Tilt",
+            "Digging",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 13.1,
+        "end": 19.1
+    },
+    {
+        "video": "KSVGJHFB.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Standing in alert",
+            "Shaking Head",
+            "Displaying Defensive Pose",
+            "Keeping still"
+        ],
+        "answer": "Keeping still",
+        "start": 16.0,
+        "end": 31.6
+    },
+    {
+        "video": "KTHATUPH.mp4",
+        "question": "What was the animal doing after it finished shaking its entire body while standing up from the water?",
+        "candidates": [
+            "Swimming",
+            "Having A Flehmen Response",
+            "Turning Around",
+            "Flying"
+        ],
+        "answer": "Swimming",
+        "start": 1.9,
+        "end": 9.4
+    },
+    {
+        "video": "KTLFKUDI.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Chirping",
+            "Flying",
+            "Pecking",
+            "Showing Affection"
+        ],
+        "answer": "Chirping",
+        "start": 0.4,
+        "end": 3.7
+    },
+    {
+        "video": "KUDJLBGU.mp4",
+        "question": "What was the animal doing after it finished exiting its nest?",
+        "candidates": [
+            "Retaliating",
+            "Flying",
+            "Rubbing its head",
+            "Drinking"
+        ],
+        "answer": "Flying",
+        "start": 20.9,
+        "end": 24.4
+    },
+    {
+        "video": "KUEIVLHH.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Wrapping Itself Around Prey",
+            "Landing",
+            "Keeping still",
+            "Retreating"
+        ],
+        "answer": "Keeping still",
+        "start": 4.4,
+        "end": 22.9
+    },
+    {
+        "video": "KVMATRDX.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Sensing its environment",
+            "Running",
+            "Lying on its side",
+            "Turning Around"
+        ],
+        "answer": "Sensing its environment",
+        "start": 3.2,
+        "end": 7.8
+    },
+    {
+        "video": "LAIVPLKY.mp4",
+        "question": "What was the animal doing before it started doing push up?",
+        "candidates": [
+            "Moving",
+            "Carrying In Mouth",
+            "Sensing its environment",
+            "Performing sexual pursuit"
+        ],
+        "answer": "Sensing its environment",
+        "start": 2.8,
+        "end": 6.1
+    },
+    {
+        "video": "LGOLTADX.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Detaching As A Parasite",
+            "Eating",
+            "Sensing its environment",
+            "Fighting"
+        ],
+        "answer": "Sensing its environment",
+        "start": 2.5,
+        "end": 6.5
+    },
+    {
+        "video": "LJSJCJVR.mp4",
+        "question": "What was the animal doing after it finished preening itself?",
+        "candidates": [
+            "Dead",
+            "Sensing",
+            "Washing",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 14.7,
+        "end": 31.3
+    },
+    {
+        "video": "LLOPTEBY.mp4",
+        "question": "What was the animal doing before it started jumping?",
+        "candidates": [
+            "Keeping still",
+            "Grooming",
+            "Jumping",
+            "Pulling"
+        ],
+        "answer": "Keeping still",
+        "start": 24.3,
+        "end": 32.9
+    },
+    {
+        "video": "LLYWBONO.mp4",
+        "question": "What was the animal doing before it started turning around?",
+        "candidates": [
+            "Landing",
+            "Sensing its surrounding",
+            "Retaliating",
+            "Doing A Back Kick"
+        ],
+        "answer": "Sensing its surrounding",
+        "start": 23.5,
+        "end": 30.6
+    },
+    {
+        "video": "LRKQQIWV.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Preening itself",
+            "Shaking Head",
+            "Carrying In Mouth",
+            "Performing allo-preening"
+        ],
+        "answer": "Preening itself",
+        "start": 0.0,
+        "end": 22.6
+    },
+    {
+        "video": "LXAMNBQT.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Spreading Wings",
+            "Attacking",
+            "Performing allo-preening",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 20.4,
+        "end": 26.5
+    },
+    {
+        "video": "LYNIGQTX.mp4",
+        "question": "What was the animal doing before it started defecating?",
+        "candidates": [
+            "Flapping its wings",
+            "Unrolling",
+            "Biting",
+            "Attending"
+        ],
+        "answer": "Flapping its wings",
+        "start": 3.5,
+        "end": 7.5
+    },
+    {
+        "video": "MGMQTBQT.mp4",
+        "question": "What was the animal doing before it started climbing?",
+        "candidates": [
+            "Spreading Wings",
+            "Jumping",
+            "Attacking",
+            "Squatting"
+        ],
+        "answer": "Jumping",
+        "start": 17.0,
+        "end": 25.4
+    },
+    {
+        "video": "MINAJVKA.mp4",
+        "question": "What was the animal doing before it started turning around?",
+        "candidates": [
+            "Walking",
+            "Struggling",
+            "Wrapping Prey",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.9,
+        "end": 6.8
+    },
+    {
+        "video": "MPGETPKK.mp4",
+        "question": "What was the animal doing after it finished drinking?",
+        "candidates": [
+            "Walking",
+            "Flying",
+            "Falling",
+            "Disturbing Another Animal"
+        ],
+        "answer": "Walking",
+        "start": 3.0,
+        "end": 10.8
+    },
+    {
+        "video": "MTNDNWMK.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Flapping Tail",
+            "Flying",
+            "Resting",
+            "Yawning"
+        ],
+        "answer": "Yawning",
+        "start": 25.4,
+        "end": 34.9
+    },
+    {
+        "video": "MUOEQPKK.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Unrolling",
+            "Hugging",
+            "Preening",
+            "Preening itself"
+        ],
+        "answer": "Preening itself",
+        "start": 0.3,
+        "end": 7.9
+    },
+    {
+        "video": "MWHYJKOU.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Chirping",
+            "Performing copulatory mounting",
+            "Carrying In Mouth",
+            "Attacking"
+        ],
+        "answer": "Chirping",
+        "start": 0.9,
+        "end": 4.0
+    },
+    {
+        "video": "MYUEMCIN.mp4",
+        "question": "What was the animal doing after it finished biting and gnawing at the leaf?",
+        "candidates": [
+            "Flying",
+            "Eating",
+            "Barking",
+            "Hugging"
+        ],
+        "answer": "Flying",
+        "start": 13.5,
+        "end": 35.3
+    },
+    {
+        "video": "NAQJCJVR.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Flapping its ears",
+            "Sensing its environment",
+            "Drinking",
+            "Spreading Wings"
+        ],
+        "answer": "Sensing its environment",
+        "start": 3.4,
+        "end": 14.7
+    },
+    {
+        "video": "NINCOEOD.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Sensing its environment",
+            "Holding Hands",
+            "Swimming",
+            "Carrying In Mouth"
+        ],
+        "answer": "Sensing its environment",
+        "start": 13.7,
+        "end": 16.9
+    },
+    {
+        "video": "NLZSSWMK.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Moving",
+            "Eating",
+            "Undergoing Chrysalis",
+            "Standing"
+        ],
+        "answer": "Moving",
+        "start": 1.8,
+        "end": 13.6
+    },
+    {
+        "video": "NTJIVVKA.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Doing A Neck Raise",
+            "Swimming",
+            "Sensing its environment",
+            "Retreating"
+        ],
+        "answer": "Sensing its environment",
+        "start": 10.4,
+        "end": 17.5
+    },
+    {
+        "video": "NTYFJVKA.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Flapping Tail",
+            "Standing in alert",
+            "Hissing",
+            "Flying"
+        ],
+        "answer": "Standing in alert",
+        "start": 19.4,
+        "end": 28.2
+    },
+    {
+        "video": "NVFINYTZ.mp4",
+        "question": "What was the animal doing before it started shaking its head?",
+        "candidates": [
+            "Flying",
+            "Performing sexual pursuit",
+            "Retreating",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.2,
+        "end": 21.4
+    },
+    {
+        "video": "OBKUVKGZ.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Hugging",
+            "Flapping its tail",
+            "Flapping",
+            "Performing Sexual Display"
+        ],
+        "answer": "Flapping its tail",
+        "start": 15.0,
+        "end": 25.0
+    },
+    {
+        "video": "ODXQUPKK.mp4",
+        "question": "What was the animal doing before it started preening itself?",
+        "candidates": [
+            "Sensing",
+            "Entering its nest",
+            "Hugging",
+            "Drinking"
+        ],
+        "answer": "Drinking",
+        "start": 2.4,
+        "end": 7.4
+    },
+    {
+        "video": "OHQALLSQ.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Keeping still",
+            "Puffing its throat",
+            "Dying",
+            "Flying"
+        ],
+        "answer": "Keeping still",
+        "start": 0.0,
+        "end": 3.4
+    },
+    {
+        "video": "ONNFFTKX.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Coiling",
+            "Being Eaten",
+            "Drinking",
+            "Flapping its wings"
+        ],
+        "answer": "Flapping its wings",
+        "start": 6.5,
+        "end": 13.1
+    },
+    {
+        "video": "ORDRPXEC.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Dancing On Water",
+            "Sensing",
+            "Sensing its environment",
+            "Flapping Tail"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.9,
+        "end": 17.9
+    },
+    {
+        "video": "OVCSTLSQ.mp4",
+        "question": "What was the animal doing before it started flapping its wings?",
+        "candidates": [
+            "Chirping",
+            "Jumping",
+            "Calling",
+            "Retreating"
+        ],
+        "answer": "Chirping",
+        "start": 18.3,
+        "end": 21.6
+    },
+    {
+        "video": "PBCHTFGA.mp4",
+        "question": "What was the animal doing after it finished turning around?",
+        "candidates": [
+            "Standing",
+            "Exiting Cocoon",
+            "Attacking",
+            "Walking in the snow"
+        ],
+        "answer": "Walking in the snow",
+        "start": 12.7,
+        "end": 24.2
+    },
+    {
+        "video": "PBELNHSA.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Trapped",
+            "Fleeing",
+            "Sensing its environment",
+            "Jumping"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.6,
+        "end": 21.8
+    },
+    {
+        "video": "PBFKVVEI.mp4",
+        "question": "What was the animal doing before it started eating?",
+        "candidates": [
+            "Lying on its side",
+            "Spitting Venom",
+            "Raising its neck",
+            "Swimming"
+        ],
+        "answer": "Raising its neck",
+        "start": 0.7,
+        "end": 5.9
+    },
+    {
+        "video": "PBSPUHSA.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Spreading Wings",
+            "Flying",
+            "Jumping",
+            "Playing Dead"
+        ],
+        "answer": "Flying",
+        "start": 26.1,
+        "end": 30.5
+    },
+    {
+        "video": "PRASVPLS.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Moving",
+            "Startled",
+            "Fleeing",
+            "Flapping its wings"
+        ],
+        "answer": "Flapping its wings",
+        "start": 10.1,
+        "end": 14.5
+    },
+    {
+        "video": "PSDSYQCN.mp4",
+        "question": "What was the animal doing before it started climbing?",
+        "candidates": [
+            "Climbing",
+            "Swimming In Circles",
+            "Preening",
+            "Walking"
+        ],
+        "answer": "Walking",
+        "start": 11.1,
+        "end": 14.8
+    },
+    {
+        "video": "PUYCXONO.mp4",
+        "question": "What was the animal doing after it finished turning around?",
+        "candidates": [
+            "Chirping",
+            "Swimming",
+            "Playing",
+            "Displaying Defensive Pose"
+        ],
+        "answer": "Chirping",
+        "start": 5.1,
+        "end": 9.8
+    },
+    {
+        "video": "PXFKZHFB.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Keeping still",
+            "Sensing its environment",
+            "Carrying In Mouth",
+            "Molting"
+        ],
+        "answer": "Sensing its environment",
+        "start": 15.7,
+        "end": 29.2
+    },
+    {
+        "video": "QBTMASBA.mp4",
+        "question": "What was the animal doing before it started jumping?",
+        "candidates": [
+            "Performing allo-grooming",
+            "Doing A Face Dip",
+            "Sensing its environment",
+            "Flying"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.6,
+        "end": 17.4
+    },
+    {
+        "video": "QIHORRAC.mp4",
+        "question": "What was the animal doing before it started flapping its wings?",
+        "candidates": [
+            "Spitting Venom",
+            "Jumping",
+            "Sensing its environment",
+            "Performing allo-grooming"
+        ],
+        "answer": "Sensing its environment",
+        "start": 22.6,
+        "end": 25.9
+    },
+    {
+        "video": "QJCTVSEB.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Eating",
+            "Chirping",
+            "Trapped",
+            "Carrying In Mouth"
+        ],
+        "answer": "Chirping",
+        "start": 2.4,
+        "end": 16.9
+    },
+    {
+        "video": "QKRMLJVY.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Entering its nest",
+            "Displaying Defensive Pose",
+            "Flapping its wings",
+            "Running"
+        ],
+        "answer": "Flapping its wings",
+        "start": 6.5,
+        "end": 16.0
+    },
+    {
+        "video": "QMEICVKA.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Hugging",
+            "Attacking",
+            "Panting",
+            "Flapping its wings"
+        ],
+        "answer": "Flapping its wings",
+        "start": 0.8,
+        "end": 14.1
+    },
+    {
+        "video": "QOXGNZQU.mp4",
+        "question": "What was the animal doing before it started running?",
+        "candidates": [
+            "Walking on the leaves",
+            "Doing A Side Tilt",
+            "Sensing",
+            "Sharing Food"
+        ],
+        "answer": "Walking on the leaves",
+        "start": 13.7,
+        "end": 26.8
+    },
+    {
+        "video": "QOXRJDCC.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Flapping its wings",
+            "Pulling",
+            "Running",
+            "Fleeing"
+        ],
+        "answer": "Flapping its wings",
+        "start": 17.0,
+        "end": 20.7
+    },
+    {
+        "video": "QQRQYDXI.mp4",
+        "question": "What was the animal doing before it started grooming itself?",
+        "candidates": [
+            "Walking",
+            "Manipulating the piece of purple algae and puts it on its head",
+            "Hugging",
+            "Camouflaging"
+        ],
+        "answer": "Manipulating the piece of purple algae and puts it on its head",
+        "start": 13.7,
+        "end": 22.7
+    },
+    {
+        "video": "QSGPHBGG.mp4",
+        "question": "What was the animal doing before it started shaking its wings?",
+        "candidates": [
+            "Camouflaging",
+            "Running",
+            "Chirping",
+            "Biting"
+        ],
+        "answer": "Chirping",
+        "start": 7.0,
+        "end": 15.9
+    },
+    {
+        "video": "QTCQXNHV.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Falling",
+            "Flapping Tail",
+            "Sensing its environment",
+            "Keeping still"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.0,
+        "end": 7.0
+    },
+    {
+        "video": "QVBKXVEI.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Preying",
+            "Dying",
+            "Walking",
+            "Shaking Head"
+        ],
+        "answer": "Walking",
+        "start": 0.7,
+        "end": 7.7
+    },
+    {
+        "video": "QZPZKLSQ.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Turning Around",
+            "Keeping still",
+            "Performing sexual pursuit",
+            "Moving"
+        ],
+        "answer": "Moving",
+        "start": 12.2,
+        "end": 19.0
+    },
+    {
+        "video": "RBEXSVEI.mp4",
+        "question": "What was the animal doing after it finished preening itself?",
+        "candidates": [
+            "Giving Off Light",
+            "Flying",
+            "Sensing its environment",
+            "Being Eaten"
+        ],
+        "answer": "Sensing its environment",
+        "start": 3.5,
+        "end": 9.9
+    },
+    {
+        "video": "RCZXYCDA.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Walking",
+            "Keeping still",
+            "Pounding",
+            "Doing A Face Dip"
+        ],
+        "answer": "Keeping still",
+        "start": 64.8,
+        "end": 72.2
+    },
+    {
+        "video": "RJTALPTK.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Chirping",
+            "Sensing",
+            "Manipulating Object",
+            "Exiting Cocoon"
+        ],
+        "answer": "Chirping",
+        "start": 1.9,
+        "end": 10.7
+    },
+    {
+        "video": "RMGPUVEI.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Digging",
+            "Giving Off Light",
+            "Defecating",
+            "Jumping"
+        ],
+        "answer": "Defecating",
+        "start": 14.2,
+        "end": 17.5
+    },
+    {
+        "video": "RMZXUFAU.mp4",
+        "question": "What was the animal doing before it started sensing its surrounding?",
+        "candidates": [
+            "Exiting its nest",
+            "Spitting Venom",
+            "Keeping still",
+            "Walking On Water"
+        ],
+        "answer": "Exiting its nest",
+        "start": 0.6,
+        "end": 4.2
+    },
+    {
+        "video": "RNWADBQT.mp4",
+        "question": "What was the animal doing after it finished doing a push up on the tree trunk?",
+        "candidates": [
+            "Keeping still",
+            "Dying",
+            "Doing somersault",
+            "Running"
+        ],
+        "answer": "Keeping still",
+        "start": 11.4,
+        "end": 17.2
+    },
+    {
+        "video": "RWHGCGIW.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Showing Affection",
+            "Digging",
+            "Sensing",
+            "Preening itself"
+        ],
+        "answer": "Preening itself",
+        "start": 3.2,
+        "end": 9.1
+    },
+    {
+        "video": "RZPJIEUL.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Attending",
+            "Stinging",
+            "Struggling",
+            "Swimming"
+        ],
+        "answer": "Attending",
+        "start": 3.7,
+        "end": 7.2
+    },
+    {
+        "video": "SHFYWEUL.mp4",
+        "question": "What was the animal doing after it finished sensing its surrounding?",
+        "candidates": [
+            "Doing A Backward Tilt",
+            "Washing",
+            "Spitting venom",
+            "Drinking"
+        ],
+        "answer": "Spitting venom",
+        "start": 3.2,
+        "end": 9.7
+    },
+    {
+        "video": "SHSVMKTH.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Sensing",
+            "Manipulating Object",
+            "Chirping",
+            "Defensive Rearing"
+        ],
+        "answer": "Chirping",
+        "start": 0.1,
+        "end": 29.9
+    },
+    {
+        "video": "SJMXVNCR.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Biting",
+            "Attending",
+            "Waving",
+            "Attacking"
+        ],
+        "answer": "Attending",
+        "start": 16.3,
+        "end": 20.3
+    },
+    {
+        "video": "SNXISFYS.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Keeping still",
+            "Moving",
+            "Sharing Food",
+            "Spitting"
+        ],
+        "answer": "Keeping still",
+        "start": 10.9,
+        "end": 15.8
+    },
+    {
+        "video": "SPHOGEUL.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Undergoing Chrysalis",
+            "Spitting venom",
+            "Walking",
+            "Shaking"
+        ],
+        "answer": "Spitting venom",
+        "start": 2.0,
+        "end": 6.7
+    },
+    {
+        "video": "SQYPFFXO.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Immobilized",
+            "Carrying In Mouth",
+            "Preening",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 1.9,
+        "end": 6.2
+    },
+    {
+        "video": "SRORREUL.mp4",
+        "question": "What was the animal doing before it started spitting venom?",
+        "candidates": [
+            "Attending",
+            "Undergoing Chrysalis",
+            "Sensing its environment",
+            "Flapping Tail"
+        ],
+        "answer": "Sensing its environment",
+        "start": 3.9,
+        "end": 8.8
+    },
+    {
+        "video": "TBVHHCIW.mp4",
+        "question": "What was the animal doing before it started jumping?",
+        "candidates": [
+            "Playing",
+            "Moving",
+            "Sharing Food",
+            "Sensing its environment"
+        ],
+        "answer": "Sensing its environment",
+        "start": 15.4,
+        "end": 25.1
+    },
+    {
+        "video": "TDWPAVEI.mp4",
+        "question": "What was the animal doing after it finished exploring?",
+        "candidates": [
+            "Dead",
+            "Eating",
+            "Doing A Face Dip",
+            "Walking"
+        ],
+        "answer": "Eating",
+        "start": 5.6,
+        "end": 9.0
+    },
+    {
+        "video": "THOCFGHA.mp4",
+        "question": "What was the animal doing after it finished jumping?",
+        "candidates": [
+            "Landing",
+            "Chirping",
+            "Coiling",
+            "Grooming"
+        ],
+        "answer": "Chirping",
+        "start": 1.5,
+        "end": 30.6
+    },
+    {
+        "video": "TIAZQVOG.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Moving",
+            "Lying On Top",
+            "Flapping Tail",
+            "Flapping"
+        ],
+        "answer": "Moving",
+        "start": 0.0,
+        "end": 8.0
+    },
+    {
+        "video": "TJTSGIWV.mp4",
+        "question": "What was the animal doing after it finished standing?",
+        "candidates": [
+            "Leaning",
+            "Running",
+            "Flapping its wings",
+            "Digging"
+        ],
+        "answer": "Flapping its wings",
+        "start": 16.2,
+        "end": 22.1
+    },
+    {
+        "video": "TLWVWIWV.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Shaking its head",
+            "Spreading Wings",
+            "Moving",
+            "Doing A Neck Raise"
+        ],
+        "answer": "Shaking its head",
+        "start": 0.0,
+        "end": 4.6
+    },
+    {
+        "video": "TQRAQRAC.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Drinking",
+            "Surfacing",
+            "Panting",
+            "Walking"
+        ],
+        "answer": "Walking",
+        "start": 18.5,
+        "end": 29.4
+    },
+    {
+        "video": "TTQSGHFB.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Spitting Venom",
+            "Chirping",
+            "Gliding",
+            "Keeping still"
+        ],
+        "answer": "Chirping",
+        "start": 13.8,
+        "end": 21.0
+    },
+    {
+        "video": "TXGPTUXS.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Jumping",
+            "Keeping still",
+            "Spreading",
+            "Being Eaten"
+        ],
+        "answer": "Keeping still",
+        "start": 11.4,
+        "end": 26.0
+    },
+    {
+        "video": "TZUKOVTI.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Pounding",
+            "Keeping still",
+            "Surfacing",
+            "Shaking its head"
+        ],
+        "answer": "Shaking its head",
+        "start": 23.8,
+        "end": 28.0
+    },
+    {
+        "video": "TZUWEJBD.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Manipulating Object",
+            "Shaking its lower body, while standing on the branch",
+            "Waving",
+            "Shaking Head"
+        ],
+        "answer": "Shaking its lower body, while standing on the branch",
+        "start": 14.8,
+        "end": 24.7
+    },
+    {
+        "video": "UEWCRPTK.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Preening",
+            "Flapping Tail",
+            "Attending",
+            "Spitting"
+        ],
+        "answer": "Attending",
+        "start": 4.8,
+        "end": 8.1
+    },
+    {
+        "video": "UJSJVUXS.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Retaliating",
+            "Attending",
+            "Lying On Top",
+            "Keeping still"
+        ],
+        "answer": "Keeping still",
+        "start": 18.1,
+        "end": 23.5
+    },
+    {
+        "video": "UKQLMBQT.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Dead",
+            "Manipulating Object",
+            "Sensing",
+            "Moving"
+        ],
+        "answer": "Moving",
+        "start": 4.0,
+        "end": 12.4
+    },
+    {
+        "video": "UPGXGHFB.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Fighting",
+            "Being Dragged",
+            "Chirping",
+            "Attacking"
+        ],
+        "answer": "Chirping",
+        "start": 11.8,
+        "end": 21.3
+    },
+    {
+        "video": "UXYPPMCW.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Eating",
+            "Manipulating Object",
+            "Swinging",
+            "Attending"
+        ],
+        "answer": "Eating",
+        "start": 14.5,
+        "end": 19.2
+    },
+    {
+        "video": "UYCQFAFG.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Carrying In Mouth",
+            "Falling",
+            "Climbing",
+            "Attacking"
+        ],
+        "answer": "Climbing",
+        "start": 36.7,
+        "end": 42.1
+    },
+    {
+        "video": "UZDJAUOY.mp4",
+        "question": "What was the animal doing after it finished shaking its head?",
+        "candidates": [
+            "Retaliating",
+            "Drinking",
+            "Falling",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 17.8,
+        "end": 21.8
+    },
+    {
+        "video": "VPJMPMHZ.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Running",
+            "Flapping Tail",
+            "Moving",
+            "Wrapping Prey"
+        ],
+        "answer": "Moving",
+        "start": 10.3,
+        "end": 14.3
+    },
+    {
+        "video": "VQUZHTKX.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Attending",
+            "Grooming",
+            "Molting",
+            "Preening"
+        ],
+        "answer": "Attending",
+        "start": 10.0,
+        "end": 15.6
+    },
+    {
+        "video": "WBFSIEOD.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Pecking",
+            "Hanging",
+            "Drinking",
+            "Chirping"
+        ],
+        "answer": "Chirping",
+        "start": 7.4,
+        "end": 27.6
+    },
+    {
+        "video": "WGCOIDCC.mp4",
+        "question": "What was the animal doing after it finished turning around?",
+        "candidates": [
+            "Entering its nest",
+            "Walking",
+            "Landing",
+            "Grooming"
+        ],
+        "answer": "Walking",
+        "start": 21.3,
+        "end": 39.9
+    },
+    {
+        "video": "WMTZKPKK.mp4",
+        "question": "What was the animal doing before it started falling?",
+        "candidates": [
+            "Performing copulatory mounting",
+            "Chasing",
+            "Shaking",
+            "Running"
+        ],
+        "answer": "Performing copulatory mounting",
+        "start": 9.3,
+        "end": 14.1
+    },
+    {
+        "video": "WRROVNCR.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Biting",
+            "Detaching As A Parasite",
+            "Chirping",
+            "Swimming"
+        ],
+        "answer": "Swimming",
+        "start": 14.7,
+        "end": 28.0
+    },
+    {
+        "video": "WSDZMLKY.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Retaliating",
+            "Landing",
+            "Rubbing its head",
+            "Running"
+        ],
+        "answer": "Running",
+        "start": 14.3,
+        "end": 18.1
+    },
+    {
+        "video": "WTUVGKWA.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Sitting",
+            "Fleeing",
+            "Licking",
+            "Drinking"
+        ],
+        "answer": "Licking",
+        "start": 11.4,
+        "end": 15.3
+    },
+    {
+        "video": "XCZBOVMW.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Landing",
+            "Keeping still",
+            "Performing Sexual Display",
+            "Exploring"
+        ],
+        "answer": "Keeping still",
+        "start": 2.6,
+        "end": 32.8
+    },
+    {
+        "video": "XDFOVMYV.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Disturbing Another Animal",
+            "Sensing its environment",
+            "Drifting",
+            "Jumping"
+        ],
+        "answer": "Sensing its environment",
+        "start": 14.3,
+        "end": 22.5
+    },
+    {
+        "video": "XIRACOTL.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Dancing On Water",
+            "Landing",
+            "Keeping still",
+            "Digging"
+        ],
+        "answer": "Keeping still",
+        "start": 12.9,
+        "end": 16.0
+    },
+    {
+        "video": "XQEECVKA.mp4",
+        "question": "What was the animal doing before it started turning around?",
+        "candidates": [
+            "Sensing its environment",
+            "Swimming",
+            "Performing allo-grooming",
+            "Retaliating"
+        ],
+        "answer": "Sensing its environment",
+        "start": 3.8,
+        "end": 13.3
+    },
+    {
+        "video": "YFZSJHXM.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Barking",
+            "Attending",
+            "Manipulating Object",
+            "Drinking"
+        ],
+        "answer": "Attending",
+        "start": 0.1,
+        "end": 18.8
+    },
+    {
+        "video": "YGRJVQRY.mp4",
+        "question": "What was the animal doing after it finished moving?",
+        "candidates": [
+            "Exploring",
+            "Building nest",
+            "Drinking",
+            "Hugging"
+        ],
+        "answer": "Exploring",
+        "start": 43.1,
+        "end": 61.1
+    },
+    {
+        "video": "YPYRZMVW.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Sensing its surrounding",
+            "Lying on its side",
+            "Flying",
+            "Biting"
+        ],
+        "answer": "Sensing its surrounding",
+        "start": 0.0,
+        "end": 12.5
+    },
+    {
+        "video": "YRGSLUDI.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Sensing its environment",
+            "Flapping Tail",
+            "Spitting",
+            "Flying"
+        ],
+        "answer": "Sensing its environment",
+        "start": 1.7,
+        "end": 6.2
+    },
+    {
+        "video": "YRMOOVEI.mp4",
+        "question": "What was the animal doing after it finished preening itself?",
+        "candidates": [
+            "Jumping",
+            "Sharing Food",
+            "Shaking its head",
+            "Molting"
+        ],
+        "answer": "Shaking its head",
+        "start": 0.0,
+        "end": 5.8
+    },
+    {
+        "video": "YZOACPTK.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Entering its nest",
+            "Chirping",
+            "Fleeing",
+            "Jumping"
+        ],
+        "answer": "Chirping",
+        "start": 1.1,
+        "end": 23.2
+    },
+    {
+        "video": "ZECFUVYU.mp4",
+        "question": "What was the animal doing after it finished walking?",
+        "candidates": [
+            "Swaying",
+            "Attending",
+            "Manipulating Object",
+            "Shaking Head"
+        ],
+        "answer": "Attending",
+        "start": 2.8,
+        "end": 8.3
+    },
+    {
+        "video": "ZGVJAVEI.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Diving",
+            "Disturbing Another Animal",
+            "Sensing its surrounding",
+            "Keeping still"
+        ],
+        "answer": "Sensing its surrounding",
+        "start": 2.0,
+        "end": 8.0
+    },
+    {
+        "video": "ZIRDWPTK.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Chirping",
+            "Attending",
+            "Doing somersault",
+            "Washing"
+        ],
+        "answer": "Chirping",
+        "start": 0.0,
+        "end": 33.8
+    },
+    {
+        "video": "ZKILBPKK.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Gliding",
+            "Walking",
+            "Sharing Food",
+            "Shaking its head"
+        ],
+        "answer": "Shaking its head",
+        "start": 0.8,
+        "end": 11.2
+    },
+    {
+        "video": "ZMCNHNCR.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Chirping",
+            "Attacking",
+            "Barking",
+            "Disturbing Another Animal"
+        ],
+        "answer": "Chirping",
+        "start": 0.2,
+        "end": 29.4
+    },
+    {
+        "video": "ZMWBXEUL.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Doing Push Up",
+            "Landing",
+            "Keeping still",
+            "Doing A Face Dip"
+        ],
+        "answer": "Keeping still",
+        "start": 0.0,
+        "end": 4.6
+    },
+    {
+        "video": "ZNYWVJIR.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Sensing",
+            "Keeping still",
+            "Fleeing",
+            "Being Carried"
+        ],
+        "answer": "Keeping still",
+        "start": 0.0,
+        "end": 4.5
+    },
+    {
+        "video": "ZQYQSVYU.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Digging",
+            "Attending",
+            "Giving Birth",
+            "Walking"
+        ],
+        "answer": "Walking",
+        "start": 12.8,
+        "end": 18.7
+    },
+    {
+        "video": "BYGJIUDI.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Keeping still",
+            "Flapping Tail",
+            "Drinking",
+            "Running On Water"
+        ],
+        "answer": "Keeping still",
+        "start": 0.3,
+        "end": 11.7
+    },
+    {
+        "video": "EBRFGVEI.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Dying",
+            "Eating",
+            "Urinating",
+            "Chirping"
+        ],
+        "answer": "Eating",
+        "start": 4.6,
+        "end": 19.2
+    },
+    {
+        "video": "EVULYUDI.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Shaking its head",
+            "Performing Sexual Display",
+            "Surfacing",
+            "Landing"
+        ],
+        "answer": "Shaking its head",
+        "start": 2.4,
+        "end": 6.9
+    },
+    {
+        "video": "FHXAJTKX.mp4",
+        "question": "What was the animal doing before it started flying?",
+        "candidates": [
+            "Sensing its environment",
+            "Jumping",
+            "Being Carried In Mouth",
+            "Dancing On Water"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.0,
+        "end": 26.2
+    },
+    {
+        "video": "FTOHYPLS.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Dancing",
+            "Running",
+            "Being Carried In Mouth",
+            "Drinking"
+        ],
+        "answer": "Running",
+        "start": 10.7,
+        "end": 15.8
+    },
+    {
+        "video": "GQNAQZLK.mp4",
+        "question": "What was the animal doing after it finished walking?",
+        "candidates": [
+            "Sensing",
+            "Retreating",
+            "Sensing its environment",
+            "Dancing"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.0,
+        "end": 3.7
+    },
+    {
+        "video": "GTRYPFXO.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Eating",
+            "Being Carried",
+            "Keeping still",
+            "Spitting Venom"
+        ],
+        "answer": "Keeping still",
+        "start": 3.7,
+        "end": 8.7
+    },
+    {
+        "video": "HLDCYVOG.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Keeping still",
+            "Preening",
+            "Startled",
+            "Surfacing"
+        ],
+        "answer": "Keeping still",
+        "start": 34.1,
+        "end": 50.2
+    },
+    {
+        "video": "HWBJCUXS.mp4",
+        "question": "What was the animal doing before it started moving?",
+        "candidates": [
+            "Hugging",
+            "Attending",
+            "Attacking",
+            "Doing A Neck Raise"
+        ],
+        "answer": "Attending",
+        "start": 0.0,
+        "end": 22.2
+    },
+    {
+        "video": "IATQKPAF.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Rubbing its head",
+            "Dying",
+            "Keeping still",
+            "Attending"
+        ],
+        "answer": "Attending",
+        "start": 18.4,
+        "end": 26.2
+    },
+    {
+        "video": "IOFVUFNJ.mp4",
+        "question": "What was the animal doing after it finished sensing its environment?",
+        "candidates": [
+            "Attending",
+            "Landing",
+            "Manipulating Object",
+            "Doing A Neck Raise"
+        ],
+        "answer": "Attending",
+        "start": 10.5,
+        "end": 15.4
+    },
+    {
+        "video": "JICPXPKK.mp4",
+        "question": "What was the animal doing after it finished drinking?",
+        "candidates": [
+            "Preening itself",
+            "Moving",
+            "Washing",
+            "Wrapping Itself Around Prey"
+        ],
+        "answer": "Preening itself",
+        "start": 1.6,
+        "end": 6.3
+    },
+    {
+        "video": "KYUVBVEI.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Attending",
+            "Competing For Dominance",
+            "Doing A Face Dip",
+            "Flapping"
+        ],
+        "answer": "Attending",
+        "start": 3.3,
+        "end": 6.4
+    },
+    {
+        "video": "LYOQOPKK.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Disturbing Another Animal",
+            "Preening itself",
+            "Escaping",
+            "Shaking Head"
+        ],
+        "answer": "Preening itself",
+        "start": 3.6,
+        "end": 7.9
+    },
+    {
+        "video": "MADYNFUG.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Walking",
+            "Attending",
+            "Disturbing Another Animal",
+            "Performing allo-preening"
+        ],
+        "answer": "Walking",
+        "start": 3.1,
+        "end": 6.7
+    },
+    {
+        "video": "MNRKZTKX.mp4",
+        "question": "What was the animal doing after it finished eating?",
+        "candidates": [
+            "Standing in alert",
+            "Flapping its wings",
+            "Flapping Tail",
+            "Swimming"
+        ],
+        "answer": "Flapping its wings",
+        "start": 1.4,
+        "end": 5.5
+    },
+    {
+        "video": "MQUDCKRF.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Biting",
+            "Panting",
+            "Keeping still",
+            "Preening"
+        ],
+        "answer": "Keeping still",
+        "start": 2.4,
+        "end": 23.7
+    },
+    {
+        "video": "MWUPPVEI.mp4",
+        "question": "What was the animal doing after it finished shaking its head?",
+        "candidates": [
+            "Sensing its environment",
+            "Retaliating",
+            "Sensing",
+            "Coiling"
+        ],
+        "answer": "Sensing its environment",
+        "start": 11.8,
+        "end": 17.2
+    },
+    {
+        "video": "NDYPVUPH.mp4",
+        "question": "What was the animal doing before it started pecking?",
+        "candidates": [
+            "Biting",
+            "Jumping",
+            "Performing Sexual Display",
+            "Flying"
+        ],
+        "answer": "Jumping",
+        "start": 1.1,
+        "end": 15.4
+    },
+    {
+        "video": "NSWIKSUS.mp4",
+        "question": "What was the animal doing before it started chirping?",
+        "candidates": [
+            "Drinking",
+            "Sensing its environment",
+            "Performing allo-grooming",
+            "Grooming"
+        ],
+        "answer": "Sensing its environment",
+        "start": 18.1,
+        "end": 28.3
+    },
+    {
+        "video": "PKEDKPKK.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Spitting Venom",
+            "Attacking",
+            "Preening itself",
+            "Flapping its ears"
+        ],
+        "answer": "Preening itself",
+        "start": 0.4,
+        "end": 10.7
+    },
+    {
+        "video": "PKUFNPTK.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Swimming",
+            "Doing A Chin Dip",
+            "Flying",
+            "Fleeing"
+        ],
+        "answer": "Flying",
+        "start": 0.3,
+        "end": 11.1
+    },
+    {
+        "video": "SOUHLUDI.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Chirping",
+            "Carrying In Mouth",
+            "Leaning",
+            "Jumping"
+        ],
+        "answer": "Chirping",
+        "start": 0.0,
+        "end": 3.6
+    },
+    {
+        "video": "TKHNQVEI.mp4",
+        "question": "What was the animal doing before it started preening itself?",
+        "candidates": [
+            "Flapping",
+            "Eating",
+            "Drifting",
+            "Retaliating"
+        ],
+        "answer": "Eating",
+        "start": 0.7,
+        "end": 6.8
+    },
+    {
+        "video": "TVAWJLQI.mp4",
+        "question": "What was the animal doing after it finished attending?",
+        "candidates": [
+            "Attending",
+            "Lying On Top",
+            "Grooming itself",
+            "Doing A Face Dip"
+        ],
+        "answer": "Grooming itself",
+        "start": 22.9,
+        "end": 26.1
+    },
+    {
+        "video": "UFTSXPKK.mp4",
+        "question": "What was the animal doing after it finished drinking?",
+        "candidates": [
+            "Jumping",
+            "Moving",
+            "Diving",
+            "Washing"
+        ],
+        "answer": "Jumping",
+        "start": 1.8,
+        "end": 7.1
+    },
+    {
+        "video": "UKTYAAYR.mp4",
+        "question": "What was the animal doing after it finished shaking its head?",
+        "candidates": [
+            "Unrolling",
+            "Digging",
+            "Attending",
+            "Walking"
+        ],
+        "answer": "Attending",
+        "start": 31.2,
+        "end": 35.7
+    },
+    {
+        "video": "UTBSIXRE.mp4",
+        "question": "What was the animal doing before it started keeping still?",
+        "candidates": [
+            "Preening",
+            "Eating",
+            "Shaking",
+            "Calling"
+        ],
+        "answer": "Eating",
+        "start": 15.1,
+        "end": 21.8
+    },
+    {
+        "video": "UTHHVFXO.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Chirping",
+            "Drinking",
+            "Trapped",
+            "Being Eaten"
+        ],
+        "answer": "Chirping",
+        "start": 3.5,
+        "end": 12.4
+    },
+    {
+        "video": "UUOBUTKX.mp4",
+        "question": "What was the animal doing before it started flapping its wings?",
+        "candidates": [
+            "Pulling",
+            "Sensing its environment",
+            "Grooming",
+            "Attending"
+        ],
+        "answer": "Sensing its environment",
+        "start": 0.0,
+        "end": 7.1
+    },
+    {
+        "video": "UWMXPTKX.mp4",
+        "question": "What was the animal doing before it started sensing its environment?",
+        "candidates": [
+            "Struggling",
+            "Leaning",
+            "Flapping",
+            "Shaking its head"
+        ],
+        "answer": "Shaking its head",
+        "start": 0.9,
+        "end": 11.1
+    },
+    {
+        "video": "VWQUHBXG.mp4",
+        "question": "What was the animal doing after it finished walking?",
+        "candidates": [
+            "Lying on its side",
+            "Spreading Wings",
+            "Running",
+            "Preening itself"
+        ],
+        "answer": "Preening itself",
+        "start": 20.5,
+        "end": 30.0
+    },
+    {
+        "video": "WQBRBUDI.mp4",
+        "question": "What was the animal doing after it finished chirping?",
+        "candidates": [
+            "Digging",
+            "Drinking",
+            "Attending",
+            "Lying Down"
+        ],
+        "answer": "Attending",
+        "start": 1.8,
+        "end": 12.4
+    },
+    {
+        "video": "XKAPAPTK.mp4",
+        "question": "What was the animal doing after it finished sensing its surrounding?",
+        "candidates": [
+            "Yawning",
+            "Landing",
+            "Keeping still",
+            "Fighting"
+        ],
+        "answer": "Keeping still",
+        "start": 6.1,
+        "end": 12.6
+    },
+    {
+        "video": "XYKLXPKK.mp4",
+        "question": "What was the animal doing before it started walking?",
+        "candidates": [
+            "Sensing",
+            "Preening itself",
+            "Pecking",
+            "Building nest"
+        ],
+        "answer": "Preening itself",
+        "start": 1.4,
+        "end": 5.2
+    },
+    {
+        "video": "YYYKNZLK.mp4",
+        "question": "What was the animal doing before it started attending?",
+        "candidates": [
+            "Fleeing",
+            "Eating",
+            "Sinking",
+            "Landing"
+        ],
+        "answer": "Eating",
+        "start": 1.6,
+        "end": 6.0
+    },
+    {
+        "video": "ZJTUOJVR.mp4",
+        "question": "What was the animal doing before it started preening itself?",
+        "candidates": [
+            "Sensing its environment",
+            "Landing",
+            "Fighting",
+            "Holding Hands"
+        ],
+        "answer": "Sensing its environment",
+        "start": 26.4,
+        "end": 31.5
+    },
+    {
+        "video": "ZWNPHWBO.mp4",
+        "question": "What was the animal doing after it finished keeping still?",
+        "candidates": [
+            "Sensing its environment",
+            "Swimming",
+            "Panting",
+            "Turning Around"
+        ],
+        "answer": "Sensing its environment",
+        "start": 15.8,
+        "end": 31.3
+    }
+]
