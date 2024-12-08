@@ -1,0 +1,272 @@
+[
+    {
+        "video": "U8IQY0QBIWc.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "b6xuColulm0.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "tKiWYf5I6ME.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "IVfWGI632mQ.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "gUxcrjncOPA_2.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "TryxYovjKR4.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "bLlf3bUxXDI.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RnDTJmkc5QI.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YodZrOohW9g.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "uUyGkElAZJ8.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "anKqYUT05kU.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "05HdE5Z1aXc.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "SlCVtGFkk_c.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "w46P5N9bucc.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "xsfimZm3Cxk.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "5CMI4LIKBk8.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "u0rVUuZ8_Ew_1.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "it6_uXb_lNQ.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "qGG3f_Gvz_c.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "cGME0iaCqUs.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "oSnjbeON69Q.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "aq62FF8lRIU.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "h6aeHyrQehs.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "iwihZRkKgp8.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YhdtaJYbU5w_2.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "tuFeEg8MTno_2.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "F98a7KhESLg.mp4",
+        "question": "Is the animal in this video feeling sick?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    }
+]

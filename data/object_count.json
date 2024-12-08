@@ -1,0 +1,1916 @@
+[
+    {
+        "video": "video10.mp4",
+        "question": "how many his dogs does man introduce?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video10.mp4",
+        "question": "how many dogs is a man holding in his hand?",
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video10.mp4",
+        "question": "how many dogs does a man hold?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video182.mp4",
+        "question": "how many lions are walking in the forest?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video182.mp4",
+        "question": "how many male lions are walking?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video342.mp4",
+        "question": "how many whales swim in a sea of love?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video394.mp4",
+        "question": "how many cute dogs are shown?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video446.mp4",
+        "question": "how many dogs are out fishing on a beautiful day?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video571.mp4",
+        "question": "how many animals loving each other?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video571.mp4",
+        "question": "how many animals are in the bucket?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video571.mp4",
+        "question": "how many kittens does bed s are gently on the baby?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video685.mp4",
+        "question": "how many birds get really angry?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video685.mp4",
+        "question": "how many birds are being very angry?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video828.mp4",
+        "question": "how many cartoon puppies are playing ball with a purple cartoon monkey?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1242.mp4",
+        "question": "how many playful cats play with a blue ball in a hallway?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1242.mp4",
+        "question": "how many cats play while one is swiping at the ball the other is in?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1242.mp4",
+        "question": "how many kitty cats play with a bal while one is inside the ball?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1242.mp4",
+        "question": "how many cats are playing together with a small green ball?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1397.mp4",
+        "question": "how many dogs are playing in the pool?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many small monkeys are eating?",
+        "candidates": [
+            "two",
+            "five",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many baby monkeys plays very closely as a person hands them something?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many baby monkeys eat something on a tree branch?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many small monkeys are playing?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many baby monkeys watch the world around the moneys?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1423.mp4",
+        "question": "how many cute monkeys are playing around in the top of the tree?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1437.mp4",
+        "question": "how many dogs are playing in the water?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1437.mp4",
+        "question": "how many dogs play in the pool?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many animated dogs talk to each other?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many dogs are communicating?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many dogs are arguing?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many dogs are talking?",
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many little dogs are shown in darkness here?",
+        "candidates": [
+            "two",
+            "five",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1443.mp4",
+        "question": "how many animated dogs are walking along the road?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1466.mp4",
+        "question": "how many cats are walking?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video1466.mp4",
+        "question": "how many cats are walking around?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2133.mp4",
+        "question": "how many lions chase down an animal?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2133.mp4",
+        "question": "how many lions are chasing after a goat?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2181.mp4",
+        "question": "how many antelope did a leopard attacking?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2181.mp4",
+        "question": "how many antelope does a leopard attack?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many tigers are in a field?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many tigers then jump into a small pool of soap and water in their pen?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many tigers investigate?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many bengal tigers play in a small pool of foamy water in an area enclosed by a tall fence?",
+        "candidates": [
+            "two",
+            "five",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many young tiger start to take a dip in a kiddie pool?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2314.mp4",
+        "question": "how many tigers are in the zoo and that walk in the area?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2319.mp4",
+        "question": "how many cats panting at each other while laying in a cat bed?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2433.mp4",
+        "question": "how many dogs are playing in a lush grassy patch?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2458.mp4",
+        "question": "how many animals are in a field fighting or playing with each other as someone films them?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2458.mp4",
+        "question": "how many wild animals were fighting in the deep forest?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2516.mp4",
+        "question": "how many puppies are playing together?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "five"
+    },
+    {
+        "video": "video2681.mp4",
+        "question": "how many animals are fighting while a man narrates what is happening?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2681.mp4",
+        "question": "how many animals are fighting?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2681.mp4",
+        "question": "how many deers are fighting?",
+        "candidates": [
+            "four",
+            "five",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2906.mp4",
+        "question": "how many tigers are interacting with each other in side by side cages?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2906.mp4",
+        "question": "how many tigers are blocked by a fence they would like to reach each other?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2906.mp4",
+        "question": "how many large tigers are moving restlessly in a zoo with no one around?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2906.mp4",
+        "question": "how many tigers are arrested in different jail?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video2906.mp4",
+        "question": "how many tigers follow one another back and forth from opposite sides of a chain link fence?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3044.mp4",
+        "question": "how many raccoons are eating pizza?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video3044.mp4",
+        "question": "how many raccoons steal pieces of pizza?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video3044.mp4",
+        "question": "how many racoons steal pizza to eat?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video3044.mp4",
+        "question": "how many racoons are eating pizza?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video3282.mp4",
+        "question": "how many monkeys jump on a bed?",
+        "candidates": [
+            "four",
+            "five",
+            "two",
+            "three"
+        ],
+        "answer": "four"
+    },
+    {
+        "video": "video3357.mp4",
+        "question": "how many horses are trotting around in and enclosure?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3357.mp4",
+        "question": "how many black horses are in a wooden fence?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3357.mp4",
+        "question": "how many horses are playing with each other?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3357.mp4",
+        "question": "how many black horses are playing outside?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3599.mp4",
+        "question": "how many cats are laying with each other?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3599.mp4",
+        "question": "how many cats lay down?",
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3599.mp4",
+        "question": "how many cats are fighting each other?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many monkeys are sitting on a wood handrail after a man feeds them?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many monkeys are having fun?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many gray monkeys sit next to each other?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many monkeys sit on a log?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many monkeys is someone feeding a banana outside?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3774.mp4",
+        "question": "how many monkeys are eating banana?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3833.mp4",
+        "question": "how many big snakes are eating each other on the rock?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3833.mp4",
+        "question": "how many big snakes are moving?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3891.mp4",
+        "question": "how many ducklings does a nest rolling over each other while music s really cute nd two kittens are playing together in a nest?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video3891.mp4",
+        "question": "how many kittens does a nest rolling over each other while music s really cute three ducklings nd are playing together in a nest?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3907.mp4",
+        "question": "how many dogs play games?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3907.mp4",
+        "question": "how many animated dogs are playing tug of war?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers play in a sudsy tub of water?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers are taking a bubble bath together in their cage?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers is taking bath in their bath tub?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers are having a shower in the small pool?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers play in a large tub filled with a bubble bath?",
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tigers are playing in a tub filled with bubbles and soap?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many tiger cubs are playing around in a pool during bath time?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video3943.mp4",
+        "question": "how many big tigers play in a tub of soap and water?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4205.mp4",
+        "question": "how many dogs are in the yard?",
+        "candidates": [
+            "two",
+            "four",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4205.mp4",
+        "question": "how many dogs are playing outside?",
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4261.mp4",
+        "question": "how many tigers interact with a boy prince about the rain?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4330.mp4",
+        "question": "how many horses are wandering here and there?",
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4330.mp4",
+        "question": "how many horses are playing in a pasture outdoors?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4330.mp4",
+        "question": "how many horses are grazing?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4330.mp4",
+        "question": "how many horses are trotting outside?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4330.mp4",
+        "question": "how many horses are playing outside?",
+        "candidates": [
+            "five",
+            "three",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video4508.mp4",
+        "question": "how many animals are out of breath after running?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5004.mp4",
+        "question": "how many cats are playing on a wood floor with a robotic prototype that mimics someone teasing the cats with string?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5004.mp4",
+        "question": "how many cats play with a robotic toy swinging a string?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5014.mp4",
+        "question": "how many monkeys are jumping on the bed?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5014.mp4",
+        "question": "how many injured monkeys are lying in bed while three are jumping on a bed?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5014.mp4",
+        "question": "how many cartoon monkeys are shown jumping on a bed until one of them falls off?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video5023.mp4",
+        "question": "how many cats are fighting?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5272.mp4",
+        "question": "how many monkeys play?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5272.mp4",
+        "question": "how many monkeys jump from a branch?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5272.mp4",
+        "question": "how many monkeys are jumping from a tree in forest?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5272.mp4",
+        "question": "how many monkeys are holding each other's hands?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5339.mp4",
+        "question": "how many tigers are shown?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5521.mp4",
+        "question": "how many birds are screaming?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video5550.mp4",
+        "question": "how many animated dogs present videos?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5649.mp4",
+        "question": "how many horses are running on the green grass outdoors?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5715.mp4",
+        "question": "how many cats are playing with each other?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5715.mp4",
+        "question": "how many cats play together?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5725.mp4",
+        "question": "how many male cats are vying for a female cat?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5905.mp4",
+        "question": "how many birds are flying around on the screen one spinning wildly?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video5910.mp4",
+        "question": "how many young ducklings is a cat nurturing?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video5910.mp4",
+        "question": "how many little birds are with a small kitten?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video5969.mp4",
+        "question": "how many large dogs are sniffing?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5969.mp4",
+        "question": "how many large dogs are investigating as a man sits down with a baby?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video5969.mp4",
+        "question": "how many dogs come up to look?",
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6106.mp4",
+        "question": "how many cats play in a glass fishbowl while piano music plays?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6106.mp4",
+        "question": "how many cats were doing something funny in the home?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6106.mp4",
+        "question": "how many house cats are doing silly things with a bowl?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6280.mp4",
+        "question": "how many golden fishes are swimming in an aquarium with fewplanta?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "five"
+    },
+    {
+        "video": "video6402.mp4",
+        "question": "how many cartoon dogs go for a walk?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6433.mp4",
+        "question": "how many dogs are sitting among pumpkins in a video game?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys are playing?",
+        "candidates": [
+            "three",
+            "two",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys stand on a rock a fight over branch with leaves?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys are fighting for a plant with leaves?",
+        "candidates": [
+            "three",
+            "two",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys are playing eith each other?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys wrestle together in the park?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys play?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6680.mp4",
+        "question": "how many monkeys are having nice time together?",
+        "candidates": [
+            "five",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6705.mp4",
+        "question": "how many dogs is the woman carrying on the road while someone is doing cycling?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video6988.mp4",
+        "question": "how many cats talk to their owner?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7061.mp4",
+        "question": "how many fishes are playing in an acquarium tank?",
+        "candidates": [
+            "two",
+            "four",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7061.mp4",
+        "question": "how many red fishes are playing in a fish tank?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7061.mp4",
+        "question": "how many fishes are moving in a water aquarium?",
+        "candidates": [
+            "five",
+            "two",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7338.mp4",
+        "question": "how many cartoon dogs are startled by a loud sound?",
+        "candidates": [
+            "three",
+            "four",
+            "five",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7338.mp4",
+        "question": "how many cartoon dogs speak to one another?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video7350.mp4",
+        "question": "how many snakes are shown in containers?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8084.mp4",
+        "question": "how many cats walk down a ladder through trap door?",
+        "candidates": [
+            "three",
+            "five",
+            "four",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8084.mp4",
+        "question": "how many cats are upstairs until one of them pushes the other down a ladder?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8084.mp4",
+        "question": "how many black cats are trying to jump into the hole?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8084.mp4",
+        "question": "how many cats sit in attic?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8084.mp4",
+        "question": "how many cats are near an opening in the floor of the room?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8183.mp4",
+        "question": "how many birds pant?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video8183.mp4",
+        "question": "how many birds look at a woman?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video8186.mp4",
+        "question": "how many dogs are shown?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8186.mp4",
+        "question": "how many different puppies are featured individually a white puppy yawning during a car ride and a doberman puppy who is being urged to speak?",
+        "candidates": [
+            "four",
+            "five",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8220.mp4",
+        "question": "how many dogs are playing around a parked motorcycle?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8220.mp4",
+        "question": "how many dogs seems to be interacting with a bike rider?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8220.mp4",
+        "question": "how many dogs stand next to a sport motorcycle?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8220.mp4",
+        "question": "how many dogs walk around a motorcycle?",
+        "candidates": [
+            "two",
+            "five",
+            "three",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8274.mp4",
+        "question": "how many puppies play around near a potty mat?",
+        "candidates": [
+            "four",
+            "five",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8274.mp4",
+        "question": "how many small dogs did a short clip showcasing?",
+        "candidates": [
+            "five",
+            "four",
+            "three",
+            "two"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8350.mp4",
+        "question": "how many legs does dog only have?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video8469.mp4",
+        "question": "how many birds are shown in a cage while a man whispers something to them?",
+        "candidates": [
+            "four",
+            "three",
+            "five",
+            "two"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video8760.mp4",
+        "question": "how many dogs are playing dead for their owners?",
+        "candidates": [
+            "three",
+            "four",
+            "two",
+            "five"
+        ],
+        "answer": "three"
+    },
+    {
+        "video": "video9170.mp4",
+        "question": "how many cats greet each other?",
+        "candidates": [
+            "five",
+            "three",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9170.mp4",
+        "question": "how many cats are kissing each other in the living room?",
+        "candidates": [
+            "two",
+            "four",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9170.mp4",
+        "question": "how many cats are playing on a counter?",
+        "candidates": [
+            "two",
+            "three",
+            "four",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9477.mp4",
+        "question": "how many animated lions are battling to protect their territory atop a cliff?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9477.mp4",
+        "question": "how many animated lions were fighting each other on hill side?",
+        "candidates": [
+            "four",
+            "two",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9622.mp4",
+        "question": "how many dogs cross the road?",
+        "candidates": [
+            "five",
+            "four",
+            "two",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9622.mp4",
+        "question": "how many dogs walk across a busy street?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9656.mp4",
+        "question": "how many dogs are princess dancing are eating spaghetti?",
+        "candidates": [
+            "four",
+            "three",
+            "two",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9732.mp4",
+        "question": "how many rhinos are having sex?",
+        "candidates": [
+            "four",
+            "two",
+            "three",
+            "five"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9732.mp4",
+        "question": "how many animals are mating?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9732.mp4",
+        "question": "how many animals have intercourse?",
+        "candidates": [
+            "two",
+            "four",
+            "five",
+            "three"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9732.mp4",
+        "question": "how many animals are having sex?",
+        "candidates": [
+            "two",
+            "three",
+            "five",
+            "four"
+        ],
+        "answer": "two"
+    },
+    {
+        "video": "video9734.mp4",
+        "question": "how many dogs are talking to a duck?",
+        "candidates": [
+            "three",
+            "five",
+            "two",
+            "four"
+        ],
+        "answer": "two"
+    }
+]

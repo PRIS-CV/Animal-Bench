@@ -1,0 +1,4346 @@
+[
+    {
+        "video": "7173974984.mp4",
+        "question": "why did the dog stopped moving forward near the end of the video?",
+        "candidates": [
+            "man step on leash",
+            "pick up ball",
+            "look at the lady sitting",
+            "eat the food",
+            "imbalanced"
+        ],
+        "answer": "man step on leash"
+    },
+    {
+        "video": "4180731134.mp4",
+        "question": "why did the black dog ran after the white dog ran towards the grass near the end of the video?",
+        "candidates": [
+            "it was chased",
+            "brown dog took its toy",
+            "play with ball",
+            "playing with each other",
+            "attracted by it"
+        ],
+        "answer": "playing with each other"
+    },
+    {
+        "video": "4480383711.mp4",
+        "question": "why is the dog panting when he waits for the food?",
+        "candidates": [
+            "distracted",
+            "excited",
+            "blocking child s path",
+            "show excitement",
+            "salivating to food"
+        ],
+        "answer": "salivating to food"
+    },
+    {
+        "video": "2694001531.mp4",
+        "question": "why did the elephant climb up the edge of the pool after it splashed around in the pool?",
+        "candidates": [
+            "support",
+            "to get foam",
+            "play with water",
+            "part of the route",
+            "drink"
+        ],
+        "answer": "support"
+    },
+    {
+        "video": "4006245844.mp4",
+        "question": "why are the pigs sniffing around the field?",
+        "candidates": [
+            "happy",
+            "protect them",
+            "protecting the black lamb",
+            "catch bubbles",
+            "find food"
+        ],
+        "answer": "find food"
+    },
+    {
+        "video": "11106167914.mp4",
+        "question": "why did the bird have to remove the branch away before digging?",
+        "candidates": [
+            "obstacle",
+            "see what is underneath",
+            "prevent getting washed away",
+            "restricted environment",
+            "quench thirst"
+        ],
+        "answer": "obstacle"
+    },
+    {
+        "video": "3960090482.mp4",
+        "question": "why does the dog in middle walk faster than the other two dogs initally?",
+        "candidates": [
+            "excited",
+            "guide direction",
+            "to go through the course",
+            "playing",
+            "playing with woman"
+        ],
+        "answer": "excited"
+    },
+    {
+        "video": "5246766161.mp4",
+        "question": "why is the dog s head looking down the ground?",
+        "candidates": [
+            "lick the pupies",
+            "looking at food",
+            "let person caress",
+            "smelling the ground",
+            "curious about toy"
+        ],
+        "answer": "looking at food"
+    },
+    {
+        "video": "5149181269.mp4",
+        "question": "why did the baby reach his hand out to the dog?",
+        "candidates": [
+            "touch dog",
+            "get its attention",
+            "blocking child s path",
+            "share toy with baby",
+            "lady to control dog"
+        ],
+        "answer": "touch dog"
+    },
+    {
+        "video": "4515138520.mp4",
+        "question": "why is the dog wearing a leash?",
+        "candidates": [
+            "lift it stand up",
+            "sniffing around",
+            "playing with the toy",
+            "prevent it from running away",
+            "to keep him close"
+        ],
+        "answer": "prevent it from running away"
+    },
+    {
+        "video": "6335144338.mp4",
+        "question": "why did the elephant at the back get out of the pool before splashing back in in the waters?",
+        "candidates": [
+            "create balance for themselves",
+            "keep his leaves clean",
+            "stop swimming",
+            "playing",
+            "take food"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "4959773843.mp4",
+        "question": "why are the dogs moving their heads at the beginning of the video?",
+        "candidates": [
+            "trying to move it",
+            "get rid of snow",
+            "fetch toy",
+            "curious",
+            "looking at camera"
+        ],
+        "answer": "looking at camera"
+    },
+    {
+        "video": "4764302721.mp4",
+        "question": "why is the dog not walking by itself?",
+        "candidates": [
+            "carried by man",
+            "playing with leaves",
+            "sniffing around",
+            "dog is injured",
+            "playing with dog"
+        ],
+        "answer": "carried by man"
+    },
+    {
+        "video": "3960090482.mp4",
+        "question": "why are the dogs held by leashes?",
+        "candidates": [
+            "domesticated",
+            "to play with them",
+            "to keep him close",
+            "prevent running away",
+            "show it s domestic"
+        ],
+        "answer": "prevent running away"
+    },
+    {
+        "video": "3013777566.mp4",
+        "question": "why does the small white dog grab the ball?",
+        "candidates": [
+            "bite the dog",
+            "playing fetch",
+            "interested to play ball",
+            "to play with the dogs",
+            "looks more fun to play with"
+        ],
+        "answer": "playing fetch"
+    },
+    {
+        "video": "4486495295.mp4",
+        "question": "why does the dog constantly look up?",
+        "candidates": [
+            "getting fed",
+            "to keep him close",
+            "cannot run away",
+            "follows the cameraman",
+            "keep balance"
+        ],
+        "answer": "getting fed"
+    },
+    {
+        "video": "3710731159.mp4",
+        "question": "why are both horses constantly shaking their heads?",
+        "candidates": [
+            "upset",
+            "reading from the book",
+            "boxing match",
+            "want to play",
+            "rubbing each other"
+        ],
+        "answer": "rubbing each other"
+    },
+    {
+        "video": "8706704920.mp4",
+        "question": "why did the white dog sniff on the ground when he walks on the grass?",
+        "candidates": [
+            "for food",
+            "curious",
+            "quench thirst",
+            "learning to walk",
+            "sniffing"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "3841894188.mp4",
+        "question": "why did the dog run into the water?",
+        "candidates": [
+            "catch the ball",
+            "show excitement",
+            "taking a bath",
+            "diving",
+            "to show him where to go"
+        ],
+        "answer": "catch the ball"
+    },
+    {
+        "video": "4112204909.mp4",
+        "question": "why does the bigger elephant walking at the back slow down for awhile at the beginning?",
+        "candidates": [
+            "enjoys getting scratched",
+            "posing for a photo",
+            "to sit up",
+            "waiting for baby elephant",
+            "bigger elephant walking more quickly"
+        ],
+        "answer": "waiting for baby elephant"
+    },
+    {
+        "video": "6159095415.mp4",
+        "question": "why did the dogs run up the shore when the waves come up?",
+        "candidates": [
+            "escape from the wind",
+            "scared",
+            "want to feel the water",
+            "enjoy the scenery",
+            "take surfboard from the man"
+        ],
+        "answer": "scared"
+    },
+    {
+        "video": "4563745007.mp4",
+        "question": "why are there so much dog s fur on the table?",
+        "candidates": [
+            "for the dog to eat",
+            "bored",
+            "festive party",
+            "from the dog",
+            "lady feeding them"
+        ],
+        "answer": "from the dog"
+    },
+    {
+        "video": "5609003294.mp4",
+        "question": "why does the dog stop jumping after awhile?",
+        "candidates": [
+            "resting",
+            "wants some more rubs",
+            "scratching himself",
+            "take the food",
+            "going to sleep"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "5370747323.mp4",
+        "question": "why does the dog put one paw on the skateboard?",
+        "candidates": [
+            "dog shop",
+            "take the food",
+            "touch dog",
+            "enjoying in snow",
+            "move it"
+        ],
+        "answer": "move it"
+    },
+    {
+        "video": "7766406300.mp4",
+        "question": "why are the elephant putting their trunk near their mouth?",
+        "candidates": [
+            "prevent falling in water",
+            "picture on wall",
+            "play with them",
+            "massage",
+            "to eat the grass"
+        ],
+        "answer": "to eat the grass"
+    },
+    {
+        "video": "4333253921.mp4",
+        "question": "why is the dog resting on the laptop?",
+        "candidates": [
+            "doing some work",
+            "comfortable",
+            "using it",
+            "play with the boy",
+            "sleepy"
+        ],
+        "answer": "comfortable"
+    },
+    {
+        "video": "5791265795.mp4",
+        "question": "why did the cat bend down a few times in the video?",
+        "candidates": [
+            "touching her clothes",
+            "to bite toy",
+            "the cat is careless",
+            "defend itself",
+            "wants to catch something in tv"
+        ],
+        "answer": "to bite toy"
+    },
+    {
+        "video": "2527361748.mp4",
+        "question": "why are the dogs in a group?",
+        "candidates": [
+            "playing with it by biting",
+            "move them away",
+            "gathering",
+            "ca nt run away",
+            "good play mate"
+        ],
+        "answer": "gathering"
+    },
+    {
+        "video": "8115079130.mp4",
+        "question": "why does the white dog bring its face towards the brown dog?",
+        "candidates": [
+            "want to drink water",
+            "to sniff",
+            "play around",
+            "bite the dog",
+            "eating"
+        ],
+        "answer": "bite the dog"
+    },
+    {
+        "video": "5278707109.mp4",
+        "question": "why did the dog stretch its paw out?",
+        "candidates": [
+            "take the food",
+            "playing",
+            "dancing",
+            "performance act",
+            "tear out meat"
+        ],
+        "answer": "take the food"
+    },
+    {
+        "video": "3916729882.mp4",
+        "question": "why is the dog following the cat around?",
+        "candidates": [
+            "to play with it",
+            "guiding the girl",
+            "chasing the cat",
+            "curious",
+            "to catch the laser"
+        ],
+        "answer": "chasing the cat"
+    },
+    {
+        "video": "8152470819.mp4",
+        "question": "why does the black and white cat lie on the blue mattress?",
+        "candidates": [
+            "looking for food",
+            "ambush the black cat",
+            "drink water",
+            "relaxing",
+            "caress the cat"
+        ],
+        "answer": "relaxing"
+    },
+    {
+        "video": "4946916131.mp4",
+        "question": "why did the cat turn around in the middle?",
+        "candidates": [
+            "follow toy",
+            "trying to reach the height",
+            "yawn",
+            "go near camera",
+            "change playing position"
+        ],
+        "answer": "go near camera"
+    },
+    {
+        "video": "6974457528.mp4",
+        "question": "why was the dog lifting its head up and staring up after the middle part of the video?",
+        "candidates": [
+            "react to the lady",
+            "person throw toy to ground",
+            "to look at bird",
+            "waiting for more food",
+            "lie on floor"
+        ],
+        "answer": "waiting for more food"
+    },
+    {
+        "video": "2408892013.mp4",
+        "question": "why does the black dog bark enthusiastically before the camera pans to the other dogs?",
+        "candidates": [
+            "eager to start moving",
+            "black dog takes away its toy",
+            "obstacle course",
+            "wants to play",
+            "attracted by it"
+        ],
+        "answer": "eager to start moving"
+    },
+    {
+        "video": "4931493992.mp4",
+        "question": "why is the cat lying on the table?",
+        "candidates": [
+            "drink water",
+            "to rest",
+            "trying to reach the height",
+            "comfortable",
+            "someone put her there"
+        ],
+        "answer": "someone put her there"
+    },
+    {
+        "video": "6537701021.mp4",
+        "question": "why does the puppy watches the cat after she jumps?",
+        "candidates": [
+            "excited",
+            "want to attack cat",
+            "cautious",
+            "try to play with cat",
+            "notices what cat does"
+        ],
+        "answer": "notices what cat does"
+    },
+    {
+        "video": "6804020709.mp4",
+        "question": "why did the cat raise its paws towards tne dog when the dog tries to play with it?",
+        "candidates": [
+            "scared at the black cat",
+            "hit dog",
+            "playing with him",
+            "take the food",
+            "try to intimidate dog"
+        ],
+        "answer": "hit dog"
+    },
+    {
+        "video": "4170536877.mp4",
+        "question": "why is the dog sleeping on man s lap?",
+        "candidates": [
+            "playing with baby",
+            "comfortable",
+            "can not sit by himself",
+            "seek comfort",
+            "resting"
+        ],
+        "answer": "comfortable"
+    },
+    {
+        "video": "9578365556.mp4",
+        "question": "why did the black dog run way at the end?",
+        "candidates": [
+            "defense",
+            "scared",
+            "follow the ball",
+            "playing in the water",
+            "wanted to swim in the pool"
+        ],
+        "answer": "scared"
+    },
+    {
+        "video": "2408892013.mp4",
+        "question": "why are the dogs stationary at their position and not moving forward?",
+        "candidates": [
+            "resting",
+            "restricted environment",
+            "ensure the dog s on right path",
+            "waiting for instructions",
+            "owner put it on"
+        ],
+        "answer": "waiting for instructions"
+    },
+    {
+        "video": "3565727684.mp4",
+        "question": "why is the black monkey stretching its arms up as it moves around?",
+        "candidates": [
+            "swinging",
+            "it is playing with the grey cat",
+            "happy",
+            "ticklish",
+            "lie down"
+        ],
+        "answer": "swinging"
+    },
+    {
+        "video": "3605714471.mp4",
+        "question": "why did the black dog run over to join the white dog?",
+        "candidates": [
+            "play",
+            "afraid of it",
+            "to show him where to go",
+            "defense",
+            "play with white dog"
+        ],
+        "answer": "play"
+    },
+    {
+        "video": "4112204909.mp4",
+        "question": "why is it safe for the elephants to cross the road?",
+        "candidates": [
+            "prevent falling in water",
+            "feeding the elephant",
+            "happy",
+            "cars stopped",
+            "to get cooled with water"
+        ],
+        "answer": "cars stopped"
+    },
+    {
+        "video": "4761634747.mp4",
+        "question": "why do the ducks move away from each other?",
+        "candidates": [
+            "shocked from the clap",
+            "eating",
+            "find food themselves",
+            "eating pieces of bread",
+            "competition"
+        ],
+        "answer": "find food themselves"
+    },
+    {
+        "video": "8715893813.mp4",
+        "question": "why are all the dogs surrounding the man with purple crocs?",
+        "candidates": [
+            "black dog takes away its toy",
+            "like him",
+            "stay afloat",
+            "to pat it",
+            "for food"
+        ],
+        "answer": "for food"
+    },
+    {
+        "video": "2872500033.mp4",
+        "question": "why did the black cat turned to the camera in the middle of the video?",
+        "candidates": [
+            "resting",
+            "caress the cat",
+            "curious",
+            "find another comfortable place",
+            "to play"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "3731607668.mp4",
+        "question": "why does the dog on the couch tug its head to the couch?",
+        "candidates": [
+            "scratching",
+            "curious what inside",
+            "happy",
+            "play with the person",
+            "saw something through window"
+        ],
+        "answer": "scratching"
+    },
+    {
+        "video": "9394673735.mp4",
+        "question": "why did not the pigs find food within the fence?",
+        "candidates": [
+            "dig their face into the mud",
+            "sleeping",
+            "not fed yet",
+            "controlled by owner",
+            "waiting instructions to rear pigs"
+        ],
+        "answer": "not fed yet"
+    },
+    {
+        "video": "4503497193.mp4",
+        "question": "why is the cat walking slowly?",
+        "candidates": [
+            "carefully look for food",
+            "injured",
+            "it is scared",
+            "stay stable",
+            "busy working"
+        ],
+        "answer": "injured"
+    },
+    {
+        "video": "6631583821.mp4",
+        "question": "why did nt the boy in grey catch the ball at the end of the video?",
+        "candidates": [
+            "tripped",
+            "did not see the ball",
+            "fell asleep",
+            "girl intercepted",
+            "missed the ball"
+        ],
+        "answer": "missed the ball"
+    },
+    {
+        "video": "4429343253.mp4",
+        "question": "why is the smaller dog sitting and looking up at the start of the video?",
+        "candidates": [
+            "for food",
+            "play with larger dog",
+            "felt the carpet moving",
+            "reaching for food",
+            "waiting for a ball"
+        ],
+        "answer": "waiting for a ball"
+    },
+    {
+        "video": "5033596068.mp4",
+        "question": "why did the cat move its arms above the kitty after licking it for awhile?",
+        "candidates": [
+            "prevent hitting kitty",
+            "to shield from sunlight",
+            "to stretch",
+            "lick in another way",
+            "keep it warm"
+        ],
+        "answer": "lick in another way"
+    },
+    {
+        "video": "7071234637.mp4",
+        "question": "why did the dog turn around with the girl in the end of the video?",
+        "candidates": [
+            "entangled by the leash",
+            "lose interest in lady",
+            "to balance the cycle",
+            "affectionate to dog",
+            "excited"
+        ],
+        "answer": "entangled by the leash"
+    },
+    {
+        "video": "2694001531.mp4",
+        "question": "why did the elephant throw its head into the water?",
+        "candidates": [
+            "play with water",
+            "dry itself",
+            "playing",
+            "to get cooled with water",
+            "protect from the sun"
+        ],
+        "answer": "play with water"
+    },
+    {
+        "video": "3076771705.mp4",
+        "question": "why did the cat lick the small bowl but not the big mixing bowl?",
+        "candidates": [
+            "eat food from baby hand",
+            "clean itself",
+            "brown cat inside",
+            "more food",
+            "check for food"
+        ],
+        "answer": "more food"
+    },
+    {
+        "video": "2622708989.mp4",
+        "question": "why did the dog put his nose near the ground at the beginning of the video?",
+        "candidates": [
+            "to look at something above",
+            "sniff for food",
+            "play with it",
+            "to pass to white dog",
+            "excited"
+        ],
+        "answer": "sniff for food"
+    },
+    {
+        "video": "7517856842.mp4",
+        "question": "why did the dog come near to the flower at the start?",
+        "candidates": [
+            "follows the cameraman",
+            "controlled by owner",
+            "get its attention",
+            "curious",
+            "smelling the flower"
+        ],
+        "answer": "smelling the flower"
+    },
+    {
+        "video": "5609003294.mp4",
+        "question": "why does the dog keep jumping?",
+        "candidates": [
+            "getting fed",
+            "try to bite the chair",
+            "playing with man",
+            "to fight with cat",
+            "begging for food"
+        ],
+        "answer": "to fight with cat"
+    },
+    {
+        "video": "6595410921.mp4",
+        "question": "why do the dogs look at person s hand in the beginning?",
+        "candidates": [
+            "to see him throw the ball",
+            "domesticated",
+            "get its attention",
+            "wants to play with toy",
+            "to check it"
+        ],
+        "answer": "to see him throw the ball"
+    },
+    {
+        "video": "3207722621.mp4",
+        "question": "why are the dogs lying on a pillow?",
+        "candidates": [
+            "saw something through window",
+            "to play with dog",
+            "show affection",
+            "eating",
+            "resting"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "3932783395.mp4",
+        "question": "why did the dog closed its eyes for a while while it is being pat?",
+        "candidates": [
+            "observe the dog s behavior change",
+            "play together",
+            "engrossed into music",
+            "enjoy the feeling",
+            "to rest"
+        ],
+        "answer": "enjoy the feeling"
+    },
+    {
+        "video": "4772810451.mp4",
+        "question": "why was the white dog running near the end?",
+        "candidates": [
+            "to get the green toy",
+            "balance dog",
+            "it is being chased",
+            "chasing it",
+            "running towards the camera man"
+        ],
+        "answer": "running towards the camera man"
+    },
+    {
+        "video": "5875494562.mp4",
+        "question": "why did the cat push the hands away?",
+        "candidates": [
+            "scared of dog",
+            "camera go too near",
+            "uncomfortable",
+            "just woke up",
+            "adult pulled tail"
+        ],
+        "answer": "uncomfortable"
+    },
+    {
+        "video": "4959773843.mp4",
+        "question": "why did the black dog bend down near the end of the video?",
+        "candidates": [
+            "take it to play",
+            "grab ball",
+            "put something on the floor",
+            "looking at man",
+            "trying to move it"
+        ],
+        "answer": "grab ball"
+    },
+    {
+        "video": "8634740778.mp4",
+        "question": "why did the brown dog come back and nudge the white dog after some time?",
+        "candidates": [
+            "chase the smaller dog",
+            "make space for the dog",
+            "want to drink water",
+            "catch the ball",
+            "play with it"
+        ],
+        "answer": "play with it"
+    },
+    {
+        "video": "3916729882.mp4",
+        "question": "why did the dog lean towards the cat a few times in the video?",
+        "candidates": [
+            "playing",
+            "to play",
+            "get its attention",
+            "chase the tail of the toy",
+            "sniff the cat"
+        ],
+        "answer": "sniff the cat"
+    },
+    {
+        "video": "3334424180.mp4",
+        "question": "why did the dog slide on the floor at the start?",
+        "candidates": [
+            "waiting for toy",
+            "the person pushed it",
+            "let it walk",
+            "not experienced in crawling",
+            "boy is playing"
+        ],
+        "answer": "the person pushed it"
+    },
+    {
+        "video": "3410092329.mp4",
+        "question": "why did the dog walk towards the human s leg?",
+        "candidates": [
+            "try to climb on the lap",
+            "lift it stand up",
+            "domesticated",
+            "caressing for dog",
+            "jump and fight"
+        ],
+        "answer": "try to climb on the lap"
+    },
+    {
+        "video": "4180731134.mp4",
+        "question": "why did the white dog ran towards the grass when the man swung his hand in the middle of the video?",
+        "candidates": [
+            "ready to play flying fox",
+            "done with drill",
+            "follow the direction of man swinging",
+            "to catch it",
+            "playing with each other"
+        ],
+        "answer": "follow the direction of man swinging"
+    },
+    {
+        "video": "3413667541.mp4",
+        "question": "why did the pig moved to other end?",
+        "candidates": [
+            "instruct the boy",
+            "check the cleaning parts",
+            "find shadow",
+            "wave pushed him",
+            "stuck in snow"
+        ],
+        "answer": "find shadow"
+    },
+    {
+        "video": "4112159581.mp4",
+        "question": "why is the elephant moving his trunk towards his mouth?",
+        "candidates": [
+            "zoo",
+            "eat and drink",
+            "paw at the dog",
+            "group together",
+            "observing elephant eating"
+        ],
+        "answer": "eat and drink"
+    },
+    {
+        "video": "5928207977.mp4",
+        "question": "why did the cat push the person s hand away when she tries to approach it just after the start?",
+        "candidates": [
+            "prevent from shoplifting",
+            "cycle away",
+            "wants to lie there",
+            "scare the rat",
+            "catch ball"
+        ],
+        "answer": "wants to lie there"
+    },
+    {
+        "video": "13486822104.mp4",
+        "question": "why did the brown pigeon flap its wings when it is on top of the black pigeon?",
+        "candidates": [
+            "guy in black kicked",
+            "escaping",
+            "to stabilize itself",
+            "it is playing with the grey cat",
+            "to record them"
+        ],
+        "answer": "to stabilize itself"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why does the dog progressively use more force to pull the toy with it s head?",
+        "candidates": [
+            "playing with man",
+            "grab attention of dog",
+            "scratch more",
+            "hard to bite",
+            "wants the toy"
+        ],
+        "answer": "hard to bite"
+    },
+    {
+        "video": "4458207675.mp4",
+        "question": "why are the dogs putting their nose everywhere on the van?",
+        "candidates": [
+            "playing",
+            "eat food",
+            "breathe",
+            "play with each other",
+            "want to get up"
+        ],
+        "answer": "want to get up"
+    },
+    {
+        "video": "5252056583.mp4",
+        "question": "why are the dogs running around in the video?",
+        "candidates": [
+            "playing",
+            "chasing the car",
+            "fetch ball",
+            "dig hole",
+            "fetch toy"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "3339364524.mp4",
+        "question": "why are the grey and brown dogs sitting so obediently at the start of the video?",
+        "candidates": [
+            "get attention",
+            "wants more food",
+            "to drink water",
+            "wants to play catch",
+            "waiting for treats"
+        ],
+        "answer": "waiting for treats"
+    },
+    {
+        "video": "4112159581.mp4",
+        "question": "why did the birds flapped their wings at the end of the video?",
+        "candidates": [
+            "distracted by the other bird",
+            "to move",
+            "react to the lady",
+            "adjust her hair",
+            "strong winds"
+        ],
+        "answer": "to move"
+    },
+    {
+        "video": "5370747323.mp4",
+        "question": "why does the dog stop at the end?",
+        "candidates": [
+            "let person caress",
+            "check the cleaning parts",
+            "observe the dog s behavior change",
+            "wall in front",
+            "hits the curbside"
+        ],
+        "answer": "hits the curbside"
+    },
+    {
+        "video": "4112159581.mp4",
+        "question": "why did the heads of the birds moved as they walked?",
+        "candidates": [
+            "get to the paper",
+            "food net",
+            "check for predator",
+            "one flock",
+            "moves with the body"
+        ],
+        "answer": "moves with the body"
+    },
+    {
+        "video": "2723196432.mp4",
+        "question": "why did the bird bend its head into the plate?",
+        "candidates": [
+            "to drink the water",
+            "to feed baby",
+            "look",
+            "want to play",
+            "feed the bird"
+        ],
+        "answer": "to drink the water"
+    },
+    {
+        "video": "6537701021.mp4",
+        "question": "why does the cat jumps from the couch after resting a while?",
+        "candidates": [
+            "follow toy",
+            "go somewhere",
+            "play with dog",
+            "want to look for food",
+            "woman plays fetch with it"
+        ],
+        "answer": "go somewhere"
+    },
+    {
+        "video": "3916729882.mp4",
+        "question": "why is the cat moving around in the video?",
+        "candidates": [
+            "to brush at the right spot",
+            "chase the tail of the toy",
+            "follow toy",
+            "to play",
+            "saw the person"
+        ],
+        "answer": "chase the tail of the toy"
+    },
+    {
+        "video": "8651274358.mp4",
+        "question": "why does the dog move close to the camera in between?",
+        "candidates": [
+            "curious",
+            "to eat food",
+            "run away",
+            "wants to climb onto person",
+            "hungry"
+        ],
+        "answer": "wants to climb onto person"
+    },
+    {
+        "video": "4354621230.mp4",
+        "question": "why do the birds peck the ground?",
+        "candidates": [
+            "check for predator",
+            "eating",
+            "communicating",
+            "rest",
+            "searching for food"
+        ],
+        "answer": "searching for food"
+    },
+    {
+        "video": "2872500033.mp4",
+        "question": "why did the brown cat leave the spot under the red chair at the end of the video?",
+        "candidates": [
+            "jump up the orange chair",
+            "distracted",
+            "pulled down by gey cat",
+            "get the food",
+            "out of its reach"
+        ],
+        "answer": "jump up the orange chair"
+    },
+    {
+        "video": "4932801175.mp4",
+        "question": "why does the horse leave a trail of dust?",
+        "candidates": [
+            "part of the outfit",
+            "it kicks up sand",
+            "follow the man s instruction",
+            "pathway for trains",
+            "protected area"
+        ],
+        "answer": "it kicks up sand"
+    },
+    {
+        "video": "2527361748.mp4",
+        "question": "why does the black dog walk around with its tongue sticking out?",
+        "candidates": [
+            "snatched the bone",
+            "very cold",
+            "panting",
+            "black dog takes away its toy",
+            "identification"
+        ],
+        "answer": "panting"
+    },
+    {
+        "video": "4769483978.mp4",
+        "question": "why was the black cat stretching its paws out so vigorously at the end of the video?",
+        "candidates": [
+            "trying to catch toy",
+            "make cat feel comfortable",
+            "waiting for food",
+            "to drink water",
+            "watching it"
+        ],
+        "answer": "trying to catch toy"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why does the dog pull its head back when biting the toy?",
+        "candidates": [
+            "to stretch",
+            "to beg for the toy",
+            "tear out meat",
+            "playing with it by biting",
+            "intimidating other dogs"
+        ],
+        "answer": "tear out meat"
+    },
+    {
+        "video": "3339159151.mp4",
+        "question": "why does the cat move away from the girl?",
+        "candidates": [
+            "getting her attention",
+            "defend itself",
+            "go near camera",
+            "try to catch cap",
+            "switch attention"
+        ],
+        "answer": "go near camera"
+    },
+    {
+        "video": "8697708107.mp4",
+        "question": "why did the cat move to the green sofa when the person walks over?",
+        "candidates": [
+            "to sleep there",
+            "scared",
+            "following the food",
+            "hide",
+            "to take something"
+        ],
+        "answer": "following the food"
+    },
+    {
+        "video": "5609003294.mp4",
+        "question": "why is the dog standing on two legs?",
+        "candidates": [
+            "getting attracted by people",
+            "jump and fight",
+            "dance performance",
+            "wants camera s attention",
+            "begging for food"
+        ],
+        "answer": "jump and fight"
+    },
+    {
+        "video": "3515562099.mp4",
+        "question": "why did the cat in the front look up at the beginning of the video?",
+        "candidates": [
+            "referring to cat",
+            "sawvcamera",
+            "ball rolling away",
+            "wants to catch something in tv",
+            "baby threw comb"
+        ],
+        "answer": "sawvcamera"
+    },
+    {
+        "video": "7517856842.mp4",
+        "question": "why do the dogs run after the toy?",
+        "candidates": [
+            "cat wants to attact it",
+            "to show him where to go",
+            "want to eat it",
+            "want to play with it",
+            "detect what it is"
+        ],
+        "answer": "want to play with it"
+    },
+    {
+        "video": "6159095415.mp4",
+        "question": "why is the brown dog wagging its tail?",
+        "candidates": [
+            "scared",
+            "snatched the bone",
+            "happy",
+            "smelling flowers",
+            "wants to play"
+        ],
+        "answer": "scared"
+    },
+    {
+        "video": "5899552167.mp4",
+        "question": "why are the birds not flying?",
+        "candidates": [
+            "tired",
+            "injured",
+            "to eat food in water",
+            "restricted environment",
+            "raining"
+        ],
+        "answer": "restricted environment"
+    },
+    {
+        "video": "6324607259.mp4",
+        "question": "why are the smaller elephants walk behind the larger elephant on the trail?",
+        "candidates": [
+            "follow",
+            "brush dust off",
+            "show dominance",
+            "scratch older panda",
+            "protect from the sun"
+        ],
+        "answer": "follow"
+    },
+    {
+        "video": "9578365556.mp4",
+        "question": "why did the black dog climbed over the white dog?",
+        "candidates": [
+            "limited space",
+            "wants to play",
+            "protect other dogs",
+            "make dog clap",
+            "go somewhere"
+        ],
+        "answer": "go somewhere"
+    },
+    {
+        "video": "2699087442.mp4",
+        "question": "why did the bigger cat hold the smaller cat s head and body when it turned around?",
+        "candidates": [
+            "drink from it when thirsty",
+            "try to catch cap",
+            "stop playing with other cat",
+            "show dominance",
+            "likes the person"
+        ],
+        "answer": "show dominance"
+    },
+    {
+        "video": "5620767697.mp4",
+        "question": "why do the dogs run back the other side near the end?",
+        "candidates": [
+            "pass ball to lady",
+            "get food",
+            "catching balloon",
+            "playing with each other",
+            "because of lady s gesture"
+        ],
+        "answer": "playing with each other"
+    },
+    {
+        "video": "3326712901.mp4",
+        "question": "why did the dog try to follow the vehicle after it drove off?",
+        "candidates": [
+            "sniff ground",
+            "follow owner",
+            "to bite it back",
+            "pretend to park car",
+            "wants to play more"
+        ],
+        "answer": "follow owner"
+    },
+    {
+        "video": "11019586455.mp4",
+        "question": "why are the dogs heads raised up?",
+        "candidates": [
+            "controlled by owner",
+            "getting fed",
+            "to see who pet it",
+            "happy and excited",
+            "looking in the camera"
+        ],
+        "answer": "looking in the camera"
+    },
+    {
+        "video": "4063352694.mp4",
+        "question": "why did the dog move away near the middle?",
+        "candidates": [
+            "scratching himself",
+            "intimidated",
+            "it is being chased",
+            "because of lady s gesture",
+            "excited to play"
+        ],
+        "answer": "because of lady s gesture"
+    },
+    {
+        "video": "3515562099.mp4",
+        "question": "why are the cats all huddled together?",
+        "candidates": [
+            "watching the adult",
+            "domesticated",
+            "playing",
+            "resting together",
+            "getting her attention"
+        ],
+        "answer": "resting together"
+    },
+    {
+        "video": "9578365556.mp4",
+        "question": "why did the black dog try to bite the white dog?",
+        "candidates": [
+            "playing",
+            "protect his food",
+            "hungry",
+            "excited to eat",
+            "practicing boxing"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "9070425868.mp4",
+        "question": "why is the girl touching the dog?",
+        "candidates": [
+            "balance dog",
+            "untangle the leash",
+            "playing with baby",
+            "walking",
+            "grooming the dog"
+        ],
+        "answer": "grooming the dog"
+    },
+    {
+        "video": "8995779759.mp4",
+        "question": "why do the dogs constantly approach the door of the cage?",
+        "candidates": [
+            "want to get food",
+            "wants person s attention",
+            "playing",
+            "scare away the dog",
+            "want to get out of cage"
+        ],
+        "answer": "want to get out of cage"
+    },
+    {
+        "video": "5120998454.mp4",
+        "question": "why is the dog keeping a distance from the metal toy?",
+        "candidates": [
+            "searching food",
+            "playing",
+            "unfamiliar object",
+            "hold in place",
+            "guide the dog the direction"
+        ],
+        "answer": "unfamiliar object"
+    },
+    {
+        "video": "4789497818.mp4",
+        "question": "why is the horse in front of the person bending down?",
+        "candidates": [
+            "for the rider to control",
+            "smelling person's foot",
+            "looking for food",
+            "to look at the camera",
+            "eat grass"
+        ],
+        "answer": "eat grass"
+    },
+    {
+        "video": "3240194841.mp4",
+        "question": "why does the big bird lift its wings before entering the water?",
+        "candidates": [
+            "water activity",
+            "force by boat",
+            "following each other",
+            "stretch the wings",
+            "the boy lost control"
+        ],
+        "answer": "stretch the wings"
+    },
+    {
+        "video": "4480383711.mp4",
+        "question": "why did the dog have a collar on his neck?",
+        "candidates": [
+            "air from the tube",
+            "show it s domestic",
+            "owner put it",
+            "playing with leaves",
+            "domesticated"
+        ],
+        "answer": "owner put it"
+    },
+    {
+        "video": "4503497193.mp4",
+        "question": "why is the cat moving with only two legs?",
+        "candidates": [
+            "playing with cat",
+            "injured",
+            "playing with human s foot",
+            "to catch his hand",
+            "change playing position"
+        ],
+        "answer": "injured"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why is the dog biting the toy?",
+        "candidates": [
+            "eating the meat",
+            "to keep him close",
+            "playing with the toy",
+            "wang to play with one another",
+            "wants person s attention"
+        ],
+        "answer": "eating the meat"
+    },
+    {
+        "video": "8740542758.mp4",
+        "question": "why is the fish at the rod moving rapidly?",
+        "candidates": [
+            "swimming",
+            "in pain",
+            "waves",
+            "find food",
+            "play with the lady"
+        ],
+        "answer": "in pain"
+    },
+    {
+        "video": "3013777566.mp4",
+        "question": "why does the small white dog go towards the ball?",
+        "candidates": [
+            "learn to walk",
+            "balance dog",
+            "eating",
+            "having fun",
+            "chasing it"
+        ],
+        "answer": "chasing it"
+    },
+    {
+        "video": "8477009482.mp4",
+        "question": "why did the dog stopped once in a while throughout the video?",
+        "candidates": [
+            "find another dog",
+            "to sniff",
+            "rest",
+            "letting her pat him",
+            "watch the man"
+        ],
+        "answer": "to sniff"
+    },
+    {
+        "video": "5609003294.mp4",
+        "question": "why does the cat keep sticking out its paw?",
+        "candidates": [
+            "getting dog s attention",
+            "want to get food",
+            "fight with dog",
+            "go near camera",
+            "to bite the dog"
+        ],
+        "answer": "fight with dog"
+    },
+    {
+        "video": "4824132481.mp4",
+        "question": "why did the cat jump back and forth?",
+        "candidates": [
+            "avoid person s hands from petting it",
+            "follow toy",
+            "watching the adult",
+            "trying to reach the height",
+            "getting her attention"
+        ],
+        "answer": "follow toy"
+    },
+    {
+        "video": "6302828147.mp4",
+        "question": "why ca nt the dog get to the side of the cattle going over to the cattle side?",
+        "candidates": [
+            "rope tied on the dog",
+            "dog was leashed",
+            "a lady was trimming the brown dog",
+            "the ground had mud",
+            "string fence in between"
+        ],
+        "answer": "string fence in between"
+    },
+    {
+        "video": "4354621230.mp4",
+        "question": "why do the birds look to the ground?",
+        "candidates": [
+            "moves with the body",
+            "food to fall off",
+            "searching for food",
+            "pathway for trains",
+            "crawling"
+        ],
+        "answer": "searching for food"
+    },
+    {
+        "video": "3013777566.mp4",
+        "question": "why does the small white dog give the ball back to the lady after grabbing it?",
+        "candidates": [
+            "play with him",
+            "to throw it again",
+            "tackle the man",
+            "get the dog s attention",
+            "for her to try"
+        ],
+        "answer": "to throw it again"
+    },
+    {
+        "video": "4172209288.mp4",
+        "question": "why were the dogs trying to jump onto the person?",
+        "candidates": [
+            "hard to bite",
+            "catch the snowball",
+            "want to chew the ball",
+            "show excitement",
+            "to get ball back"
+        ],
+        "answer": "want to chew the ball"
+    },
+    {
+        "video": "6972796508.mp4",
+        "question": "why is the dog lying on the ground at the start of the video?",
+        "candidates": [
+            "fell off",
+            "get its attention",
+            "acting dead",
+            "black dog pushed it down",
+            "resting"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "5377659742.mp4",
+        "question": "why did the cat wag its tail?",
+        "candidates": [
+            "defend itself",
+            "trying to balance",
+            "excited",
+            "hit the bird",
+            "it is scared"
+        ],
+        "answer": "excited"
+    },
+    {
+        "video": "5595306504.mp4",
+        "question": "why did one of the duck open its yellow beak?",
+        "candidates": [
+            "swim",
+            "try to catch food",
+            "clean head",
+            "stretch",
+            "hungry"
+        ],
+        "answer": "stretch"
+    },
+    {
+        "video": "6412928509.mp4",
+        "question": "why did the bird have step over the food bowl to move from one side to the other?",
+        "candidates": [
+            "to drink the water",
+            "no space",
+            "find food",
+            "baby can not reach the table",
+            "pretend to take food"
+        ],
+        "answer": "no space"
+    },
+    {
+        "video": "8152470819.mp4",
+        "question": "why does the cat look across the room before jumping off the mattress?",
+        "candidates": [
+            "woman plays fetch with it",
+            "resting",
+            "to check for others in room",
+            "lady throw the rope there",
+            "follow toy"
+        ],
+        "answer": "to check for others in room"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why does the dog use its paws to hold onto the toy while playing with it?",
+        "candidates": [
+            "catch constantly rolling ball",
+            "domesticated",
+            "want to play with one another",
+            "hold in place",
+            "to bite more"
+        ],
+        "answer": "hold in place"
+    },
+    {
+        "video": "5631808303.mp4",
+        "question": "why do the dogs have a buckle on them?",
+        "candidates": [
+            "for identification",
+            "wants person s attention",
+            "playing with the toy",
+            "prevent escape",
+            "wants to go out"
+        ],
+        "answer": "prevent escape"
+    },
+    {
+        "video": "2533421055.mp4",
+        "question": "why are the horses having their head pointing towards the ground as they walked?",
+        "candidates": [
+            "guide the horse",
+            "army attire",
+            "to practice",
+            "looking for food",
+            "chase fleas"
+        ],
+        "answer": "looking for food"
+    },
+    {
+        "video": "6595410921.mp4",
+        "question": "why are the dogs wearing tags?",
+        "candidates": [
+            "good play mate",
+            "show ownership",
+            "wants person s attention",
+            "stay within a distance",
+            "domestic dogs"
+        ],
+        "answer": "domestic dogs"
+    },
+    {
+        "video": "8651274358.mp4",
+        "question": "why does the dog place its paws on the bed?",
+        "candidates": [
+            "eating",
+            "wants to get on the bed",
+            "looking for food",
+            "try to stand",
+            "bark at cat"
+        ],
+        "answer": "wants to get on the bed"
+    },
+    {
+        "video": "5841926063.mp4",
+        "question": "why is the horse running slower and slower in the ring?",
+        "candidates": [
+            "instructor pull the rope",
+            "space slowly shrink",
+            "to check for people",
+            "to get ready for competition",
+            "tired"
+        ],
+        "answer": "tired"
+    },
+    {
+        "video": "4379169063.mp4",
+        "question": "why does the cat put its paw on the lady s arm at the beginning of the video?",
+        "candidates": [
+            "to play",
+            "touching her clothes",
+            "go somewhere",
+            "lick its tail",
+            "chase the tail of the toy"
+        ],
+        "answer": "touching her clothes"
+    },
+    {
+        "video": "5382512601.mp4",
+        "question": "why are the dogs on the floor?",
+        "candidates": [
+            "fell down",
+            "food bowl",
+            "resting",
+            "playing",
+            "waiting for toy"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "4563745007.mp4",
+        "question": "why is the dog on the table?",
+        "candidates": [
+            "check the cleaning parts",
+            "touch the dog",
+            "comfortable",
+            "taking a bath",
+            "getting fur shaved"
+        ],
+        "answer": "getting fur shaved"
+    },
+    {
+        "video": "8477009482.mp4",
+        "question": "why are the dogs bending forward to the ground as they walk?",
+        "candidates": [
+            "wants to get pet",
+            "guide the dog the direction",
+            "pat the other dog",
+            "sniffing",
+            "the man stops"
+        ],
+        "answer": "sniffing"
+    },
+    {
+        "video": "9989968153.mp4",
+        "question": "why is the white dog following the woman in black the whole time?",
+        "candidates": [
+            "dog is being trained",
+            "throw away something",
+            "the girl is holding the leash",
+            "support baby",
+            "to look at camera and something"
+        ],
+        "answer": "dog is being trained"
+    },
+    {
+        "video": "2699087442.mp4",
+        "question": "why did the bigger cat lick the smaller kitten when it got hold of it?",
+        "candidates": [
+            "snuggle",
+            "prevent it from falling",
+            "play",
+            "ticklish as cat licking it",
+            "show affection"
+        ],
+        "answer": "show affection"
+    },
+    {
+        "video": "2723196432.mp4",
+        "question": "why did the bird land on the plate?",
+        "candidates": [
+            "seek attention",
+            "feed the bird",
+            "check for predator",
+            "to drink the water",
+            "having lunch"
+        ],
+        "answer": "to drink the water"
+    },
+    {
+        "video": "3605714471.mp4",
+        "question": "why did the white dog shake its body after rolling on the ground?",
+        "candidates": [
+            "shake sand off",
+            "want more caress",
+            "dog ran the wrong way",
+            "playing",
+            "running towards the camera man"
+        ],
+        "answer": "shake sand off"
+    },
+    {
+        "video": "4384950310.mp4",
+        "question": "why are the dogs free to roam around the backyard?",
+        "candidates": [
+            "no leash",
+            "find food",
+            "curious",
+            "protected by fence",
+            "like the grass land"
+        ],
+        "answer": "protected by fence"
+    },
+    {
+        "video": "5252056583.mp4",
+        "question": "why do the dogs need to jump to move?",
+        "candidates": [
+            "wants to play with toy",
+            "thick snow",
+            "playing with leaves",
+            "wang to play with one another",
+            "leash"
+        ],
+        "answer": "thick snow"
+    },
+    {
+        "video": "8954271057.mp4",
+        "question": "why does the cat keep turning its head while looking at the screen?",
+        "candidates": [
+            "playing with human s foot",
+            "fight with dog",
+            "found it interesting",
+            "engrossed in watching the dot move",
+            "playing with it"
+        ],
+        "answer": "engrossed in watching the dot move"
+    },
+    {
+        "video": "6595410921.mp4",
+        "question": "why is the small dog wagging its tails in the middle?",
+        "candidates": [
+            "natural tendency",
+            "because of lady s gesture",
+            "excited",
+            "catch the snowball",
+            "playing with each other"
+        ],
+        "answer": "excited"
+    },
+    {
+        "video": "5903263737.mp4",
+        "question": "why is the dog watching the man in red and the woman at the start of the video?",
+        "candidates": [
+            "want to play",
+            "waiting to fetch ball",
+            "curious",
+            "looking around for food",
+            "look at the ball"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "8115079130.mp4",
+        "question": "why do the dogs move their heads so much?",
+        "candidates": [
+            "play with each other",
+            "excited to play",
+            "attract for food",
+            "gathering",
+            "feel comfortable"
+        ],
+        "answer": "play with each other"
+    },
+    {
+        "video": "6137698705.mp4",
+        "question": "why are the pigs sniffing on the ground under the tree?",
+        "candidates": [
+            "find worms",
+            "to find egg shell",
+            "waiting instructions from man",
+            "for food",
+            "to pass time"
+        ],
+        "answer": "for food"
+    },
+    {
+        "video": "6302828147.mp4",
+        "question": "why was the black cattle doing on the field?",
+        "candidates": [
+            "standing and resting",
+            "riding",
+            "sleeping",
+            "eating",
+            "protecting the black lamb"
+        ],
+        "answer": "standing and resting"
+    },
+    {
+        "video": "5150571378.mp4",
+        "question": "why are the dogs repeatedly rolling against the carpet on the floor?",
+        "candidates": [
+            "get dirt off",
+            "scratching himself",
+            "relax",
+            "finding toys",
+            "playing"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "8954271057.mp4",
+        "question": "why does the cat lift up its body a bit at the end of the video?",
+        "candidates": [
+            "to brush at the right spot",
+            "adjust sitting position",
+            "ready to attack screen",
+            "waiting for owner",
+            "the cat is careless"
+        ],
+        "answer": "adjust sitting position"
+    },
+    {
+        "video": "6302828147.mp4",
+        "question": "why did the dog stare at the cattle after it did not manage to reach to the cattle s side?",
+        "candidates": [
+            "observe the reaction",
+            "admiring the cattle",
+            "to check if something was there",
+            "get the cattle s attention",
+            "feeling bored"
+        ],
+        "answer": "observe the reaction"
+    },
+    {
+        "video": "5620767697.mp4",
+        "question": "why do the dogs come towards the other direction?",
+        "candidates": [
+            "follows the cameraman",
+            "trying to bite",
+            "because of lady s gesture",
+            "playing with leaves",
+            "playing with each other"
+        ],
+        "answer": "playing with each other"
+    },
+    {
+        "video": "5120998454.mp4",
+        "question": "why is the dog barking at the metal toy?",
+        "candidates": [
+            "detect what it is",
+            "happy",
+            "interested",
+            "feels wary",
+            "controlled by owner"
+        ],
+        "answer": "feels wary"
+    },
+    {
+        "video": "8634740778.mp4",
+        "question": "why are the dogs outside?",
+        "candidates": [
+            "sniffing around",
+            "peeing",
+            "playing with water",
+            "playing with snow",
+            "walk together"
+        ],
+        "answer": "sniffing around"
+    },
+    {
+        "video": "8115079130.mp4",
+        "question": "why are the dogs trying to bite each other?",
+        "candidates": [
+            "angry with one another",
+            "wants person s attention",
+            "playing with leaves",
+            "prevent the other dogs from snatching their ball",
+            "play with each other"
+        ],
+        "answer": "play with each other"
+    },
+    {
+        "video": "8084906017.mp4",
+        "question": "why does the black dog go towards the person?",
+        "candidates": [
+            "interested in the toy",
+            "laughing",
+            "was travelling",
+            "get food",
+            "prevent it from going anywhere"
+        ],
+        "answer": "get food"
+    },
+    {
+        "video": "5374381004.mp4",
+        "question": "why did the dog continue biting on the toy after catching it when thrown to him?",
+        "candidates": [
+            "wants to pass to woman",
+            "light from toy is blinking",
+            "play with it",
+            "to eat it",
+            "want to chew the ball"
+        ],
+        "answer": "play with it"
+    },
+    {
+        "video": "2637595500.mp4",
+        "question": "why is the dog swinging its tail?",
+        "candidates": [
+            "identity",
+            "play with it",
+            "he is happy",
+            "natural tendency",
+            "playing"
+        ],
+        "answer": "natural tendency"
+    },
+    {
+        "video": "8040040139.mp4",
+        "question": "why did the dogs run after the person threw the ball?",
+        "candidates": [
+            "to throw to another side",
+            "put it in a better place",
+            "catch the ball",
+            "interested to play ball",
+            "wants to continue playing catch"
+        ],
+        "answer": "catch the ball"
+    },
+    {
+        "video": "4458207675.mp4",
+        "question": "why did the white and brown dogs put their legs on the step on the van?",
+        "candidates": [
+            "fighting with dog",
+            "curious what inside",
+            "want to drink",
+            "get dirt off",
+            "want to get up"
+        ],
+        "answer": "want to get up"
+    },
+    {
+        "video": "4959773843.mp4",
+        "question": "why did the black dog ran into the corridor at the end of the video?",
+        "candidates": [
+            "play somewhere else",
+            "rest",
+            "waiting to fetch ball",
+            "play with ball",
+            "lie on floor"
+        ],
+        "answer": "play with ball"
+    },
+    {
+        "video": "8549638298.mp4",
+        "question": "why is there a blue string tied to the dog s neck?",
+        "candidates": [
+            "owner put it on",
+            "ensure dog do not get away",
+            "identify domestication",
+            "keep warm",
+            "protection from cold"
+        ],
+        "answer": "ensure dog do not get away"
+    },
+    {
+        "video": "10271616853.mp4",
+        "question": "why are the pigs digging their face into the muddy field?",
+        "candidates": [
+            "smelling",
+            "hungry",
+            "dig their face into the mud",
+            "finding food",
+            "as it is playing with the other dog"
+        ],
+        "answer": "finding food"
+    },
+    {
+        "video": "9070425868.mp4",
+        "question": "why does the dog start looking at it s feet?",
+        "candidates": [
+            "sniffing the ground",
+            "get attention",
+            "curious",
+            "move it",
+            "take photo"
+        ],
+        "answer": "sniffing the ground"
+    },
+    {
+        "video": "10274034226.mp4",
+        "question": "why is the dog with collar wondering around?",
+        "candidates": [
+            "controlled by owner",
+            "check the cleaning parts",
+            "used to dry the dog",
+            "looking for food",
+            "dometicated"
+        ],
+        "answer": "looking for food"
+    },
+    {
+        "video": "2990913920.mp4",
+        "question": "why does one of the dogs come towards the man?",
+        "candidates": [
+            "blocking child s path",
+            "to play with him",
+            "curious",
+            "ensure the dog s on right path",
+            "man touches it"
+        ],
+        "answer": "to play with him"
+    },
+    {
+        "video": "7239780364.mp4",
+        "question": "why does the dog wear a collar?",
+        "candidates": [
+            "it is owned",
+            "stay put",
+            "decoration",
+            "prevent it from running away",
+            "happy and excited"
+        ],
+        "answer": "it is owned"
+    },
+    {
+        "video": "4959773843.mp4",
+        "question": "why did the black dog raised its head near the end of the video?",
+        "candidates": [
+            "to look at something above",
+            "react to the lady",
+            "they smell of the food",
+            "talk to boy",
+            "look around"
+        ],
+        "answer": "to look at something above"
+    },
+    {
+        "video": "6610681021.mp4",
+        "question": "why is the bird unable to escape from the man s grip?",
+        "candidates": [
+            "tired",
+            "man held tightly",
+            "tied with rope",
+            "chained to man",
+            "wings injured"
+        ],
+        "answer": "man held tightly"
+    },
+    {
+        "video": "8634740778.mp4",
+        "question": "why did the brown dog pant as it walks away from the field?",
+        "candidates": [
+            "tired",
+            "pee",
+            "not interested",
+            "wants to play",
+            "observe it"
+        ],
+        "answer": "tired"
+    },
+    {
+        "video": "6908276603.mp4",
+        "question": "why did the dog approach the hand when it is stretched towards the dog?",
+        "candidates": [
+            "wants to get pet",
+            "eat",
+            "prevent it from running away",
+            "ca nt run away",
+            "chew on cookie"
+        ],
+        "answer": "wants to get pet"
+    },
+    {
+        "video": "3920693521.mp4",
+        "question": "why did the brown dog jump onto the black dog from behind?",
+        "candidates": [
+            "interested in playing with",
+            "catch bubbles",
+            "play with it",
+            "excited",
+            "chasing"
+        ],
+        "answer": "play with it"
+    },
+    {
+        "video": "4480383711.mp4",
+        "question": "why did the dog move his head upwards towards the hand?",
+        "candidates": [
+            "catch the snowball",
+            "breathe",
+            "want to move around",
+            "get food",
+            "show excitement"
+        ],
+        "answer": "get food"
+    },
+    {
+        "video": "4429343253.mp4",
+        "question": "why does the larger black dog try to snatch the ball from the smaller dog in the middle of the video?",
+        "candidates": [
+            "get ball from man in red",
+            "playing fetch",
+            "boy in green threw wrongly",
+            "wants to play with it",
+            "sniffing the snow"
+        ],
+        "answer": "wants to play with it"
+    },
+    {
+        "video": "6952126784.mp4",
+        "question": "why does the person press the yellow toy in front of the dogs?",
+        "candidates": [
+            "move dogs away",
+            "keep it near him",
+            "get the dog s attention",
+            "want to get child s attention",
+            "hear the sound toy makes"
+        ],
+        "answer": "get the dog s attention"
+    },
+    {
+        "video": "6133785008.mp4",
+        "question": "why is the grey and black dog in the background lying on the ground?",
+        "candidates": [
+            "being dried",
+            "dead",
+            "reading",
+            "eating",
+            "rest"
+        ],
+        "answer": "rest"
+    },
+    {
+        "video": "8651274358.mp4",
+        "question": "why does the dog stand on its feet?",
+        "candidates": [
+            "to keep him close",
+            "used to dry the dog",
+            "take the food",
+            "wants camera s attention",
+            "sniffing the ground"
+        ],
+        "answer": "wants camera s attention"
+    },
+    {
+        "video": "11019586455.mp4",
+        "question": "why are the dogs gathered in the kitchen?",
+        "candidates": [
+            "to check it",
+            "to get their food",
+            "eager to get treat",
+            "celebrate girl s birthday",
+            "to lick it"
+        ],
+        "answer": "to get their food"
+    },
+    {
+        "video": "3974658916.mp4",
+        "question": "why did the black dog stop tilting its head up to the sky halfway through the video?",
+        "candidates": [
+            "bark",
+            "play with it",
+            "concentrated on working",
+            "distracted",
+            "to eat the food"
+        ],
+        "answer": "distracted"
+    },
+    {
+        "video": "8023690612.mp4",
+        "question": "why do the cats look at the adult?",
+        "candidates": [
+            "resting together",
+            "go near camera",
+            "getting her attention",
+            "interested",
+            "change playing position"
+        ],
+        "answer": "interested"
+    },
+    {
+        "video": "5012762688.mp4",
+        "question": "why do the birds poke into the net?",
+        "candidates": [
+            "try to catch fishes",
+            "walking around",
+            "to feed",
+            "moves with the body",
+            "following each other"
+        ],
+        "answer": "to feed"
+    },
+    {
+        "video": "11106167914.mp4",
+        "question": "why did the bird keep breaking on the ground?",
+        "candidates": [
+            "walking around",
+            "walk back to the hut",
+            "find food",
+            "playing with each other",
+            "resting inside cage"
+        ],
+        "answer": "find food"
+    },
+    {
+        "video": "4772810451.mp4",
+        "question": "why does the dog sniff the ground after looking at the chair?",
+        "candidates": [
+            "looking at food",
+            "curious",
+            "to rest",
+            "waiting for toy",
+            "wants to play"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "3932783395.mp4",
+        "question": "why did the dog bark after a person s hand stopped rubbing its head?",
+        "candidates": [
+            "to rest",
+            "to pet it",
+            "salivating to food",
+            "wants some more rubs",
+            "wipe off the saliva"
+        ],
+        "answer": "wants some more rubs"
+    },
+    {
+        "video": "6159095415.mp4",
+        "question": "why did the dogs jump when the waves come up to the shore?",
+        "candidates": [
+            "play",
+            "scared",
+            "return the ball",
+            "move together with the motion of waves",
+            "jump into the pool"
+        ],
+        "answer": "scared"
+    },
+    {
+        "video": "3710731159.mp4",
+        "question": "why does the tail of one horse keep shaking for most of the video?",
+        "candidates": [
+            "reaches the fence",
+            "keeping vigilant",
+            "dry face",
+            "show affection",
+            "attracted to her"
+        ],
+        "answer": "show affection"
+    },
+    {
+        "video": "6335144338.mp4",
+        "question": "why did the elephants stand up on their feet after rolling for quite some time?",
+        "candidates": [
+            "finding edible food",
+            "finding their group",
+            "playing",
+            "clean themselves",
+            "remove water from face"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "8336004242.mp4",
+        "question": "why did the cat constantly look at the string?",
+        "candidates": [
+            "fight with dog",
+            "follow toy",
+            "chase the tail of the toy",
+            "attracted to it",
+            "fight with the dog"
+        ],
+        "answer": "attracted to it"
+    },
+    {
+        "video": "5595306504.mp4",
+        "question": "why are there some ducks extending their necks up and down?",
+        "candidates": [
+            "looking for the lake",
+            "look for food",
+            "find food themselves",
+            "checking",
+            "algae block their view"
+        ],
+        "answer": "checking"
+    },
+    {
+        "video": "2723196432.mp4",
+        "question": "why did the bird flew away in the middle of the video?",
+        "candidates": [
+            "distracted by the other bird",
+            "done with drill",
+            "scared of rabbit",
+            "greeting",
+            "felt the person s hand"
+        ],
+        "answer": "distracted by the other bird"
+    },
+    {
+        "video": "8336004242.mp4",
+        "question": "why is the cat head s moving left to right?",
+        "candidates": [
+            "try to catch cap",
+            "follow the person",
+            "finished peeing",
+            "following the string",
+            "playing with human s foot"
+        ],
+        "answer": "following the string"
+    },
+    {
+        "video": "3055520900.mp4",
+        "question": "why does the brown cat look into the cupboard after the grey cat comes out of the cupboard?",
+        "candidates": [
+            "to lick its body",
+            "check out what s inside",
+            "lady throw the rope there",
+            "touch the paper inside",
+            "curious"
+        ],
+        "answer": "check out what s inside"
+    },
+    {
+        "video": "5120998454.mp4",
+        "question": "why did the dog lean backwards?",
+        "candidates": [
+            "intimidated",
+            "hits the curbside",
+            "to drink",
+            "scratch more",
+            "check the cleaning parts"
+        ],
+        "answer": "intimidated"
+    },
+    {
+        "video": "4780185309.mp4",
+        "question": "why did the brownish dog leave with the toy after he got hold of it?",
+        "candidates": [
+            "play elsewhere",
+            "cat paws at the dog",
+            "detect what it is",
+            "get the brown dog s attention",
+            "copy whatever he sees"
+        ],
+        "answer": "play elsewhere"
+    },
+    {
+        "video": "4931493992.mp4",
+        "question": "why does the cat push the person s hand away?",
+        "candidates": [
+            "let it sleep again",
+            "to remove water from his body",
+            "scared of the dog",
+            "prevent from touching its head",
+            "focus on guitar"
+        ],
+        "answer": "prevent from touching its head"
+    },
+    {
+        "video": "3515562099.mp4",
+        "question": "why are the cats lying down beside the toilet?",
+        "candidates": [
+            "cleaning the toilet bowl",
+            "ambush the black cat",
+            "domesticated",
+            "playing with white cat",
+            "getting ready to shower"
+        ],
+        "answer": "getting ready to shower"
+    },
+    {
+        "video": "5377659742.mp4",
+        "question": "why did the cat stand so close to the person?",
+        "candidates": [
+            "waiting for pat",
+            "trying to bite person",
+            "paw at the dog",
+            "curious",
+            "to adjust toy"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "2699087442.mp4",
+        "question": "why did the third cat just looking from the side?",
+        "candidates": [
+            "waiting for the time",
+            "not interested",
+            "to fight with dog",
+            "for food",
+            "comfortable"
+        ],
+        "answer": "not interested"
+    },
+    {
+        "video": "9394673735.mp4",
+        "question": "why did the black pigs try to stick their mouth outside of the fence?",
+        "candidates": [
+            "reach for leaves",
+            "ready to hit the pinata",
+            "protecting the black lamb",
+            "want it to leave",
+            "trying to knock over fence"
+        ],
+        "answer": "reach for leaves"
+    },
+    {
+        "video": "7179762538.mp4",
+        "question": "why does the white dog have his tongue out throughout the video?",
+        "candidates": [
+            "look at its teeth",
+            "lick its belly",
+            "lick its paws",
+            "feeling the music",
+            "panting"
+        ],
+        "answer": "panting"
+    },
+    {
+        "video": "2551446323.mp4",
+        "question": "why did the bird jump towards the man when the man in white approached it?",
+        "candidates": [
+            "copy the cartoon character",
+            "want to play with man s finger",
+            "the wind was big",
+            "do nt like strangers",
+            "help him unbuckle"
+        ],
+        "answer": "want to play with man s finger"
+    },
+    {
+        "video": "2723196432.mp4",
+        "question": "why do the birds hover around the water dispenser using the water dispenser?",
+        "candidates": [
+            "paddle harder",
+            "drink water",
+            "to move and swim",
+            "get food",
+            "swim"
+        ],
+        "answer": "drink water"
+    },
+    {
+        "video": "5620767697.mp4",
+        "question": "why does the dog run intitially?",
+        "candidates": [
+            "playing with each other",
+            "follow the ball",
+            "scared by big baby",
+            "want to escape",
+            "fetch ball"
+        ],
+        "answer": "playing with each other"
+    },
+    {
+        "video": "4515138520.mp4",
+        "question": "why does the dog intentionally move on the water?",
+        "candidates": [
+            "bathing",
+            "enjoying walking on cold water",
+            "get its attention",
+            "woman asked him to do that",
+            "wants to climb onto person"
+        ],
+        "answer": "enjoying walking on cold water"
+    },
+    {
+        "video": "7766406300.mp4",
+        "question": "why are the elephants sniffing from the field?",
+        "candidates": [
+            "trying to touch each other",
+            "to cross",
+            "making tourists happy",
+            "finding edible food",
+            "fight with dog"
+        ],
+        "answer": "finding edible food"
+    },
+    {
+        "video": "4761634747.mp4",
+        "question": "why does one of the ducks go close to another duck in the beginning?",
+        "candidates": [
+            "stretch",
+            "follow the other duck",
+            "compete for food",
+            "looking around",
+            "helps them swim"
+        ],
+        "answer": "compete for food"
+    },
+    {
+        "video": "4825249972.mp4",
+        "question": "why did the cat ran away?",
+        "candidates": [
+            "to brush at the right spot",
+            "scared of dog",
+            "occluded by the car",
+            "annoyed",
+            "surprised"
+        ],
+        "answer": "scared of dog"
+    },
+    {
+        "video": "3339364524.mp4",
+        "question": "why did the grey dog climb up to the height of the camera?",
+        "candidates": [
+            "for identification",
+            "reach for food",
+            "show excitement",
+            "reach for treat",
+            "wants to play"
+        ],
+        "answer": "reach for food"
+    },
+    {
+        "video": "8697708107.mp4",
+        "question": "why did the cat jump up when the person holds up the bowl?",
+        "candidates": [
+            "curious",
+            "person moved the toy off couch",
+            "go near camera",
+            "to drink",
+            "to catch it"
+        ],
+        "answer": "to catch it"
+    },
+    {
+        "video": "6595410921.mp4",
+        "question": "why do some of the dogs sit down in between?",
+        "candidates": [
+            "tired",
+            "playing",
+            "man pet it down",
+            "both want to play with it",
+            "want belly rubbed"
+        ],
+        "answer": "tired"
+    },
+    {
+        "video": "2408892013.mp4",
+        "question": "why are the dogs organised in rows of two?",
+        "candidates": [
+            "uniform",
+            "both want to play with it",
+            "identity",
+            "stay put",
+            "trying to bite"
+        ],
+        "answer": "uniform"
+    },
+    {
+        "video": "2579822208.mp4",
+        "question": "why is the dog on a leash?",
+        "candidates": [
+            "prevent dogs from escaping",
+            "to keep him close",
+            "can not run away",
+            "prevent dog from escaping",
+            "prevent it from running away"
+        ],
+        "answer": "to keep him close"
+    },
+    {
+        "video": "5377659742.mp4",
+        "question": "why did the cat scratch the jeans of the person?",
+        "candidates": [
+            "angry",
+            "wants attention",
+            "to rest",
+            "trying to reach the height",
+            "prevent jeans from getting wet"
+        ],
+        "answer": "wants attention"
+    },
+    {
+        "video": "2408892013.mp4",
+        "question": "why are the dogs held together by leashes?",
+        "candidates": [
+            "stay put",
+            "to keep him close",
+            "good play mate",
+            "pets",
+            "owner put it on"
+        ],
+        "answer": "stay put"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why is the dog lying on a mat?",
+        "candidates": [
+            "to play with dog",
+            "play with him",
+            "eating",
+            "to move pillow",
+            "seek comfort"
+        ],
+        "answer": "eating"
+    },
+    {
+        "video": "9561963944.mp4",
+        "question": "why does the dog turn its head down in the middle of the video?",
+        "candidates": [
+            "kiss it",
+            "panting",
+            "lick its paws",
+            "tired",
+            "enjoy the ball"
+        ],
+        "answer": "lick its paws"
+    },
+    {
+        "video": "4354621230.mp4",
+        "question": "why did the bird look around while it wonder around the beach?",
+        "candidates": [
+            "observe the sea",
+            "scared",
+            "look for food",
+            "looking at dolphins",
+            "feed bird"
+        ],
+        "answer": "look for food"
+    },
+    {
+        "video": "4772810451.mp4",
+        "question": "why does the dog try to jump on the cameraman s leg?",
+        "candidates": [
+            "so that it could grab it",
+            "wants to play",
+            "try to drag dog",
+            "keep the dog close to him",
+            "follows the cameraman"
+        ],
+        "answer": "wants to play"
+    },
+    {
+        "video": "8715893813.mp4",
+        "question": "why are the white dog and the brown dog wearing collars?",
+        "candidates": [
+            "keep the dog close to him",
+            "show that they are domesticated",
+            "for beauty",
+            "to mount him",
+            "bite the dog"
+        ],
+        "answer": "show that they are domesticated"
+    },
+    {
+        "video": "6324607259.mp4",
+        "question": "why do these elephants move as a group and not individually?",
+        "candidates": [
+            "they are afraid of the weather",
+            "it is dangerous to move as a group",
+            "for food",
+            "to save time",
+            "follow specific trail"
+        ],
+        "answer": "follow specific trail"
+    },
+    {
+        "video": "4149191108.mp4",
+        "question": "why are the dogs turning in circles?",
+        "candidates": [
+            "fake dance",
+            "because of lady s gesture",
+            "check the cleaning parts",
+            "following the hand gesture",
+            "excited to play"
+        ],
+        "answer": "following the hand gesture"
+    },
+    {
+        "video": "8152470819.mp4",
+        "question": "why does the cat jump onto the blue mattress?",
+        "candidates": [
+            "gave birth to a baby",
+            "comfortable",
+            "to reach other cat",
+            "trying to reach the height",
+            "peeing"
+        ],
+        "answer": "to reach other cat"
+    },
+    {
+        "video": "8854283528.mp4",
+        "question": "why is the dog bending down in the middle of the video?",
+        "candidates": [
+            "person throw toy to ground",
+            "trying to move it",
+            "bit the ball",
+            "sniffing",
+            "sniff something"
+        ],
+        "answer": "trying to move it"
+    },
+    {
+        "video": "2465842956.mp4",
+        "question": "why is the mummy dog standing still?",
+        "candidates": [
+            "cautious",
+            "feed the puppies",
+            "excited to eat",
+            "cleaning it",
+            "sniff the stone"
+        ],
+        "answer": "feed the puppies"
+    },
+    {
+        "video": "3055520900.mp4",
+        "question": "why does the brown cat approach the white bowl?",
+        "candidates": [
+            "waiting for cat to come out",
+            "ambush the black cat",
+            "check for food",
+            "to fight with dog",
+            "playing with plush toy"
+        ],
+        "answer": "check for food"
+    },
+    {
+        "video": "3841894188.mp4",
+        "question": "why did the dog go to the shore after he bit onto the ball?",
+        "candidates": [
+            "play with it",
+            "playing with it",
+            "give to dog",
+            "return the ball",
+            "playing catch"
+        ],
+        "answer": "return the ball"
+    },
+    {
+        "video": "5875494562.mp4",
+        "question": "why did the cat lie on its back in the middle of the rubbing?",
+        "candidates": [
+            "for back support",
+            "let adult put ointment",
+            "sleeping",
+            "uncomfortable",
+            "to scratch"
+        ],
+        "answer": "uncomfortable"
+    },
+    {
+        "video": "6828183774.mp4",
+        "question": "why does the dog jump in the air?",
+        "candidates": [
+            "man is playing with it",
+            "trying to catch balloon",
+            "trying to bite bird",
+            "to fight with cat",
+            "catch the snowball"
+        ],
+        "answer": "catch the snowball"
+    },
+    {
+        "video": "6974457528.mp4",
+        "question": "why does the dog continue to look to the ground after eating the food?",
+        "candidates": [
+            "play with to car",
+            "searching for something",
+            "being caressed",
+            "ensure the puppy is on right path",
+            "wants to play with bone toy"
+        ],
+        "answer": "searching for something"
+    },
+    {
+        "video": "2995795910.mp4",
+        "question": "why did the cat stick out its tongue in the middle of the video?",
+        "candidates": [
+            "chase the tail of the toy",
+            "to cuddle with the cat",
+            "to drink water",
+            "clean itself",
+            "adjust sitting position"
+        ],
+        "answer": "to drink water"
+    },
+    {
+        "video": "9070425868.mp4",
+        "question": "why the dog change its direction?",
+        "candidates": [
+            "playing in the water",
+            "catch constantly rolling ball",
+            "want to move around",
+            "hesitating",
+            "sniff the ground"
+        ],
+        "answer": "want to move around"
+    },
+    {
+        "video": "5318938983.mp4",
+        "question": "why is the dog wearing a collar?",
+        "candidates": [
+            "air from the tube",
+            "owner put it on",
+            "show that they are domesticated",
+            "stay put",
+            "for the leash"
+        ],
+        "answer": "owner put it on"
+    },
+    {
+        "video": "2694001531.mp4",
+        "question": "why is the small elephant moving its body in the water?",
+        "candidates": [
+            "camera taking photos",
+            "soak themselves",
+            "rest",
+            "playing",
+            "stay alert"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "8697708107.mp4",
+        "question": "why does the cat move around?",
+        "candidates": [
+            "follow toy",
+            "chase the dog",
+            "try to catch cap",
+            "for food",
+            "chase the toy"
+        ],
+        "answer": "for food"
+    },
+    {
+        "video": "3515562099.mp4",
+        "question": "why does one of the cats move out from the cots?",
+        "candidates": [
+            "for food",
+            "to check for others in room",
+            "playing",
+            "domesticated",
+            "just woke up"
+        ],
+        "answer": "just woke up"
+    },
+    {
+        "video": "4825249972.mp4",
+        "question": "why did the dog chase after the cat?",
+        "candidates": [
+            "try to intimidate dog",
+            "fun",
+            "it was chased",
+            "playing fetch",
+            "dog wants to play with ball"
+        ],
+        "answer": "fun"
+    },
+    {
+        "video": "2995795910.mp4",
+        "question": "why is the cat in the sink?",
+        "candidates": [
+            "cleaning the toilet bowl",
+            "sleeping",
+            "playing with plush toy",
+            "drinking tap water",
+            "resting"
+        ],
+        "answer": "drinking tap water"
+    },
+    {
+        "video": "4112159581.mp4",
+        "question": "why are the birds bending over the puddles of water?",
+        "candidates": [
+            "eating food",
+            "searching for food",
+            "food net",
+            "familiar place",
+            "washing themselves"
+        ],
+        "answer": "searching for food"
+    },
+    {
+        "video": "6406759411.mp4",
+        "question": "why does the cat decide to get into the bag at the end of the video?",
+        "candidates": [
+            "go near camera",
+            "interested in it",
+            "to catch the torchlight",
+            "drink water",
+            "change clothes"
+        ],
+        "answer": "interested in it"
+    },
+    {
+        "video": "11819455135.mp4",
+        "question": "why is the white dog sitting upright when the lady started scooping from the pan?",
+        "candidates": [
+            "ready for a dog stunt",
+            "to check it",
+            "putting food on the plate",
+            "trying to see what the lady is doing",
+            "playing"
+        ],
+        "answer": "trying to see what the lady is doing"
+    },
+    {
+        "video": "3690598673.mp4",
+        "question": "why is the white dog behind the black dog all the time?",
+        "candidates": [
+            "to catch the rule",
+            "guide direction",
+            "bite the dog",
+            "following",
+            "excited"
+        ],
+        "answer": "following"
+    },
+    {
+        "video": "6595410921.mp4",
+        "question": "why do all the dogs run to one direction in between?",
+        "candidates": [
+            "make the other fall",
+            "because of lady s gesture",
+            "following the hand gesture",
+            "catch the snowball",
+            "to fetch the ball"
+        ],
+        "answer": "to fetch the ball"
+    },
+    {
+        "video": "8152470819.mp4",
+        "question": "why does the cat jump off the blue mattress after climbing it?",
+        "candidates": [
+            "ready to go off",
+            "to catch it",
+            "touch the paper inside",
+            "annoyed",
+            "cats are playing"
+        ],
+        "answer": "cats are playing"
+    },
+    {
+        "video": "6249077230.mp4",
+        "question": "why are the two birds interested in the paper?",
+        "candidates": [
+            "thought its food",
+            "thrown by man",
+            "to give it back to owner",
+            "to separate paper",
+            "to show affection"
+        ],
+        "answer": "thought its food"
+    },
+    {
+        "video": "10622567214.mp4",
+        "question": "why did the dogs constantly look in the direction of the humans?",
+        "candidates": [
+            "playing with man",
+            "wants to play more",
+            "grab attention",
+            "to play with him",
+            "play with each other"
+        ],
+        "answer": "grab attention"
+    },
+    {
+        "video": "3932783395.mp4",
+        "question": "why is the dog in somebody s bed?",
+        "candidates": [
+            "sniffing present",
+            "changing diaper",
+            "hungry",
+            "shy",
+            "resting place"
+        ],
+        "answer": "resting place"
+    },
+    {
+        "video": "4006245844.mp4",
+        "question": "why is the pig wagging it s tail?",
+        "candidates": [
+            "trying to bite",
+            "enjoying in snow",
+            "catch the snowball",
+            "happy",
+            "find more food"
+        ],
+        "answer": "happy"
+    },
+    {
+        "video": "3960090482.mp4",
+        "question": "why does the dog towards the left turn to another direction towards the end?",
+        "candidates": [
+            "attack",
+            "distracted",
+            "to guide the baby",
+            "cover jets",
+            "wave pushed him"
+        ],
+        "answer": "distracted"
+    },
+    {
+        "video": "2533421055.mp4",
+        "question": "why is there a dark coloured horse behind the fence on the other side?",
+        "candidates": [
+            "night",
+            "on another farm",
+            "training it",
+            "controlled by lady",
+            "resting and eating"
+        ],
+        "answer": "on another farm"
+    },
+    {
+        "video": "9394673735.mp4",
+        "question": "why did the black pig wag its tail at the beginning of the video?",
+        "candidates": [
+            "look at chicken",
+            "to look at something above",
+            "playing with the cameraman",
+            "look back",
+            "excited"
+        ],
+        "answer": "excited"
+    },
+    {
+        "video": "5682853832.mp4",
+        "question": "why is brown dog scared and black dog chasing the remote controlled car?",
+        "candidates": [
+            "wants to play with it",
+            "defense",
+            "car runs fast",
+            "fighting for food",
+            "the car is hitting the dog"
+        ],
+        "answer": "car runs fast"
+    },
+    {
+        "video": "3339364524.mp4",
+        "question": "why did the brown dog approach the man after the grey dog got its treat?",
+        "candidates": [
+            "pick up dog more easily",
+            "allow it to run free",
+            "want more food",
+            "caressing for dog",
+            "copy whatever he sees"
+        ],
+        "answer": "want more food"
+    },
+    {
+        "video": "6335144338.mp4",
+        "question": "why is the elephant in front rolling in the makeshift pool?",
+        "candidates": [
+            "exhibition for people to see",
+            "playing with water",
+            "create balance for themselves",
+            "cleaning the leaves",
+            "taking a bath"
+        ],
+        "answer": "taking a bath"
+    },
+    {
+        "video": "13486822104.mp4",
+        "question": "why did the black pigeon bend its back down when the brown pigeon approaches it?",
+        "candidates": [
+            "ready to hit the pinata",
+            "lamb",
+            "scared at the black dog",
+            "tired",
+            "to protect his neck"
+        ],
+        "answer": "to protect his neck"
+    },
+    {
+        "video": "2776803136.mp4",
+        "question": "why did the dog stood up at the end of the video?",
+        "candidates": [
+            "chase the ball",
+            "walk away",
+            "take pictures",
+            "react to the lady",
+            "chased down by the man"
+        ],
+        "answer": "walk away"
+    },
+    {
+        "video": "3240194841.mp4",
+        "question": "why does the smaller bird swim while the bigger bird walks across the water?",
+        "candidates": [
+            "shape of the pool",
+            "their habitat",
+            "do not want to get wet",
+            "too short",
+            "get to the other side"
+        ],
+        "answer": "too short"
+    },
+    {
+        "video": "13515443525.mp4",
+        "question": "why are the dogs outdoors?",
+        "candidates": [
+            "catch the snowball",
+            "owner bring outdoors",
+            "playground",
+            "carried by man",
+            "ca nt run away"
+        ],
+        "answer": "owner bring outdoors"
+    },
+    {
+        "video": "5682853832.mp4",
+        "question": "why does the black dog run after the car?",
+        "candidates": [
+            "the car is hitting the dog",
+            "someone instructed the black dog to do so",
+            "want to stamp on the toy car",
+            "to catch the toy car",
+            "competing with the toy car"
+        ],
+        "answer": "to catch the toy car"
+    },
+    {
+        "video": "2955299637.mp4",
+        "question": "why is the horse moving in circle?",
+        "candidates": [
+            "controlled by lady",
+            "hold by man",
+            "for the rider to control",
+            "baby moving it",
+            "training it"
+        ],
+        "answer": "controlled by lady"
+    },
+    {
+        "video": "4180731134.mp4",
+        "question": "why did the white smaller dog jump onto the bench in the end?",
+        "candidates": [
+            "balance dog",
+            "sit down and rest",
+            "play with him",
+            "trying to get its attention",
+            "trying to get away"
+        ],
+        "answer": "sit down and rest"
+    },
+    {
+        "video": "3661046559.mp4",
+        "question": "why is the cat excited by the item?",
+        "candidates": [
+            "want to get it",
+            "for food",
+            "to catch the torchlight",
+            "to catch his hand",
+            "affectionate"
+        ],
+        "answer": "want to get it"
+    },
+    {
+        "video": "8115079130.mp4",
+        "question": "why does the brown dog tilt his head sideways at the end?",
+        "candidates": [
+            "tired",
+            "to bite the white dog",
+            "excited",
+            "fidgeting",
+            "take the food"
+        ],
+        "answer": "to bite the white dog"
+    },
+    {
+        "video": "6952126784.mp4",
+        "question": "why do the dogs approach the mop after the child puts the mop on the blue bed?",
+        "candidates": [
+            "playing",
+            "want to pass mop to child",
+            "want to clean floor",
+            "smell it",
+            "lost balance"
+        ],
+        "answer": "smell it"
+    },
+    {
+        "video": "6828183774.mp4",
+        "question": "why does the dog go towards the man again?",
+        "candidates": [
+            "playing with each other",
+            "awaiting another snowball to be thrown",
+            "want food from man",
+            "watching man ski",
+            "follows the cameraman"
+        ],
+        "answer": "awaiting another snowball to be thrown"
+    },
+    {
+        "video": "3714169972.mp4",
+        "question": "why was the black cat moving its head and paw at the start?",
+        "candidates": [
+            "clean itself",
+            "to rest",
+            "feels good",
+            "catch toy",
+            "eat food from baby hand"
+        ],
+        "answer": "catch toy"
+    },
+    {
+        "video": "4429343253.mp4",
+        "question": "why is the smaller dog running around after getting the ball in the middle of the video?",
+        "candidates": [
+            "chase the boy",
+            "find the tiger under the tree",
+            "return the ball to man",
+            "get chased by larger dog",
+            "chased down by the man"
+        ],
+        "answer": "get chased by larger dog"
+    },
+    {
+        "video": "6474943743.mp4",
+        "question": "why does the white dog run towards the brown dog at the end of the video?",
+        "candidates": [
+            "playing",
+            "play with white dog",
+            "chase the brown dog",
+            "to play with the dogs",
+            "dog ran the wrong way"
+        ],
+        "answer": "chase the brown dog"
+    },
+    {
+        "video": "2527361748.mp4",
+        "question": "why are the dogs lying on the grass?",
+        "candidates": [
+            "searching food",
+            "relaxing",
+            "like the grass land",
+            "smelling",
+            "waiting instructions to rear sheep"
+        ],
+        "answer": "relaxing"
+    },
+    {
+        "video": "3960090482.mp4",
+        "question": "why are the dogs walking beside each other?",
+        "candidates": [
+            "ca nt run away",
+            "domesticated",
+            "walk together",
+            "excited",
+            "controlled by owner"
+        ],
+        "answer": "walk together"
+    },
+    {
+        "video": "3339159151.mp4",
+        "question": "why is the cat on the bed?",
+        "candidates": [
+            "look at black cat",
+            "play with dog",
+            "go near camera",
+            "to play with its owner",
+            "resting"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "4170536877.mp4",
+        "question": "why is dog wearing a collar around his neck?",
+        "candidates": [
+            "ca nt run away",
+            "protection from cold",
+            "show ownership",
+            "prevent it from running away",
+            "owned by ownder"
+        ],
+        "answer": "show ownership"
+    },
+    {
+        "video": "3076015013.mp4",
+        "question": "why are the fish moving on the ground?",
+        "candidates": [
+            "for the boy to catch",
+            "like each others company",
+            "feed the bird",
+            "watch it swim",
+            "to prevent babies from drowning"
+        ],
+        "answer": "for the boy to catch"
+    },
+    {
+        "video": "2699087442.mp4",
+        "question": "why are the cats wagging their tails when lying on the ground?",
+        "candidates": [
+            "just woke up",
+            "play fighting",
+            "resting",
+            "excited",
+            "getting ready to shower"
+        ],
+        "answer": "excited"
+    },
+    {
+        "video": "6302902395.mp4",
+        "question": "why did the bird try to peck on the person s hand after it felt water on its body?",
+        "candidates": [
+            "want to smell hand",
+            "look back",
+            "to drink water from his hand",
+            "fly away",
+            "want to cause pain"
+        ],
+        "answer": "to drink water from his hand"
+    },
+    {
+        "video": "8615954968.mp4",
+        "question": "why are the dogs staying on the grass area?",
+        "candidates": [
+            "fenced up in grass area",
+            "catch the ball",
+            "sniffing",
+            "dog shop",
+            "like the grass land"
+        ],
+        "answer": "like the grass land"
+    },
+    {
+        "video": "4932801175.mp4",
+        "question": "why is the horse running in the field?",
+        "candidates": [
+            "training it",
+            "eat",
+            "controlled by lady",
+            "on a ride",
+            "chase big horse"
+        ],
+        "answer": "on a ride"
+    },
+    {
+        "video": "2527361748.mp4",
+        "question": "why does the black dog go to the metal bowl?",
+        "candidates": [
+            "protect other dogs",
+            "lights not on",
+            "drink water",
+            "playing",
+            "eating"
+        ],
+        "answer": "drink water"
+    },
+    {
+        "video": "4805300295.mp4",
+        "question": "why was the dog walking towards the direction in the video?",
+        "candidates": [
+            "chase the ball",
+            "to reach towards the woman",
+            "sniffing",
+            "walk together",
+            "smelt something"
+        ],
+        "answer": "chase the ball"
+    },
+    {
+        "video": "3240194841.mp4",
+        "question": "why do the birds cross the water body in a line?",
+        "candidates": [
+            "drink water",
+            "following each other",
+            "showing support",
+            "curious",
+            "resting"
+        ],
+        "answer": "following each other"
+    },
+    {
+        "video": "6133785008.mp4",
+        "question": "why do the dogs interact with each other in this manner?",
+        "candidates": [
+            "they are angry with each other",
+            "they dislike each other",
+            "they want to show animosity",
+            "trying to bite",
+            "playing"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why did the dog pull the toy closer to it when biting?",
+        "candidates": [
+            "air from the tube",
+            "to bite more",
+            "eating the meat",
+            "toy too far away",
+            "play with each other"
+        ],
+        "answer": "to bite more"
+    },
+    {
+        "video": "6302828147.mp4",
+        "question": "why did the dog bark at the cattle after making eye contact with it?",
+        "candidates": [
+            "scared",
+            "annoyed",
+            "fearful",
+            "get the cattle s attention",
+            "alert danger"
+        ],
+        "answer": "get the cattle s attention"
+    },
+    {
+        "video": "8651274358.mp4",
+        "question": "why does the dog keep barking?",
+        "candidates": [
+            "to keep him close",
+            "scared by the tiger",
+            "playing with cat",
+            "scared by lions",
+            "wants person s attention"
+        ],
+        "answer": "wants person s attention"
+    },
+    {
+        "video": "6249077230.mp4",
+        "question": "why are the birds bending down?",
+        "candidates": [
+            "want the space",
+            "show their affection",
+            "being fed",
+            "pecking",
+            "search for food"
+        ],
+        "answer": "pecking"
+    },
+    {
+        "video": "2856992427.mp4",
+        "question": "why did the dog lick the man s hand?",
+        "candidates": [
+            "caressing for dog",
+            "scratch more",
+            "want to play with it",
+            "smell the food",
+            "man touches it"
+        ],
+        "answer": "man touches it"
+    },
+    {
+        "video": "5524795960.mp4",
+        "question": "why is the black cat licking the baby s hand?",
+        "candidates": [
+            "play with baby",
+            "clean itself",
+            "bring hand close to her",
+            "caressing baby hand",
+            "eat food from baby hand"
+        ],
+        "answer": "eat food from baby hand"
+    },
+    {
+        "video": "3832966100.mp4",
+        "question": "why does the fish shake its body vigorously after being taken out of the water?",
+        "candidates": [
+            "swim",
+            "wind blowing",
+            "out of breathe",
+            "help them swim",
+            "fish biting on it"
+        ],
+        "answer": "out of breathe"
+    },
+    {
+        "video": "2800751485.mp4",
+        "question": "why are the fishes not approaching the creature?",
+        "candidates": [
+            "movement",
+            "pet birds",
+            "taking aim",
+            "to eat food in water",
+            "scared"
+        ],
+        "answer": "scared"
+    },
+    {
+        "video": "4772810451.mp4",
+        "question": "why does the white dog run after the black and white dog near the end?",
+        "candidates": [
+            "playing",
+            "escape from black dog",
+            "leave away from the black dog",
+            "to keep the green toy",
+            "obstacle course"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "6249077230.mp4",
+        "question": "why are the two birds not flying away?",
+        "candidates": [
+            "picking up food",
+            "raining",
+            "busy poking papers",
+            "indoors",
+            "snowing"
+        ],
+        "answer": "busy poking papers"
+    },
+    {
+        "video": "6302828147.mp4",
+        "question": "why does the dog constantly look at the cattle?",
+        "candidates": [
+            "wants to climb on the cattle",
+            "wants to stay together",
+            "curious",
+            "show his affection",
+            "want to play with it"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "2856992427.mp4",
+        "question": "why did the dog turn to the man in front?",
+        "candidates": [
+            "for food",
+            "man touches it",
+            "show love",
+            "lift it stand up",
+            "play with it"
+        ],
+        "answer": "man touches it"
+    },
+    {
+        "video": "3316035784.mp4",
+        "question": "why does the guinea pig move a lot when the cameraman try to caress it?",
+        "candidates": [
+            "wants to sleep",
+            "playing",
+            "to pet them",
+            "grab attention of dog",
+            "to fight with cat"
+        ],
+        "answer": "wants to sleep"
+    },
+    {
+        "video": "6133785008.mp4",
+        "question": "why do the dogs move from the plants to the patio?",
+        "candidates": [
+            "playing",
+            "someone called them in",
+            "catching the ball",
+            "to get their food",
+            "because someone chased them "
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "2694001531.mp4",
+        "question": "why is the small elephant splashing the water?",
+        "candidates": [
+            "zoo",
+            "eating food",
+            "keep his shirt clean",
+            "support",
+            "playing"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "3240194841.mp4",
+        "question": "why do the birds enter the water?",
+        "candidates": [
+            "moves with the body",
+            "washing themselves",
+            "looking for food",
+            "get to the other side",
+            "for food"
+        ],
+        "answer": "get to the other side"
+    },
+    {
+        "video": "6610681021.mp4",
+        "question": "why did the bird stretch out its neck in between the video?",
+        "candidates": [
+            "tired",
+            "to sniff",
+            "try to get out",
+            "blue bird hit it away",
+            "to bite toy"
+        ],
+        "answer": "try to get out"
+    },
+    {
+        "video": "8615954968.mp4",
+        "question": "why do the dogs run around the pool?",
+        "candidates": [
+            "fetching ball",
+            "part of the adventure activity",
+            "food bowl",
+            "playing",
+            "get ready to swimming"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "4789497818.mp4",
+        "question": "why are two horses on the right swinging their tails?",
+        "candidates": [
+            "to practice",
+            "swat other horses",
+            "to fan themselves",
+            "swat flies",
+            "to move it"
+        ],
+        "answer": "swat flies"
+    },
+    {
+        "video": "2774585614.mp4",
+        "question": "why does the girl constantly look at the fish?",
+        "candidates": [
+            "follow the girl",
+            "to dip the brush conveniently",
+            "interested",
+            "take the plush fish away",
+            "too short"
+        ],
+        "answer": "interested"
+    },
+    {
+        "video": "5620767697.mp4",
+        "question": "why does one dog run slower than the others?",
+        "candidates": [
+            "the floor is hot",
+            "walking casually",
+            "make room for dogs",
+            "it is injured",
+            "train baby dog"
+        ],
+        "answer": "walking casually"
+    },
+    {
+        "video": "5609003294.mp4",
+        "question": "why does the dog start jumping again after he has stopped?",
+        "candidates": [
+            "begging for food",
+            "cat paws at the dog",
+            "looking at ball",
+            "play with man",
+            "chasing his tail"
+        ],
+        "answer": "cat paws at the dog"
+    },
+    {
+        "video": "8995779759.mp4",
+        "question": "why does one of the dogs consistently attempt to stand on its hind legs?",
+        "candidates": [
+            "want to get food",
+            "sniffing the ground",
+            "lady to control dog",
+            "reach higher",
+            "wants to climb onto person"
+        ],
+        "answer": "reach higher"
+    },
+    {
+        "video": "4825249972.mp4",
+        "question": "why did the cat ran onto the table in the end of the video?",
+        "candidates": [
+            "curious",
+            "attracted towards something",
+            "get away from dog",
+            "to get licked by the black cat",
+            "adjust sitting position"
+        ],
+        "answer": "get away from dog"
+    },
+    {
+        "video": "13486822104.mp4",
+        "question": "why was the brown pigeon on top of the black pigeon?",
+        "candidates": [
+            "excited to eat",
+            "exert dominance",
+            "to stabilize itself",
+            "offspring",
+            "want it to leave"
+        ],
+        "answer": "exert dominance"
+    },
+    {
+        "video": "4931493992.mp4",
+        "question": "why is the cat wearing the plastic thing around its neck?",
+        "candidates": [
+            "drink water",
+            "peeing",
+            "protection",
+            "was tired",
+            "happy"
+        ],
+        "answer": "protection"
+    },
+    {
+        "video": "4090707616.mp4",
+        "question": "why does the dog not move after the man shows the toy?",
+        "candidates": [
+            "show affection",
+            "make room for dogs",
+            "comfortable",
+            "clueless of what to do",
+            "done with meal"
+        ],
+        "answer": "clueless of what to do"
+    },
+    {
+        "video": "3702189213.mp4",
+        "question": "why did the dog have sharp nails?",
+        "candidates": [
+            "eating the meat",
+            "protect against predator in clip",
+            "domestic dogs",
+            "to hold food",
+            "take the toy"
+        ],
+        "answer": "to hold food"
+    },
+    {
+        "video": "2579822208.mp4",
+        "question": "why did the dog keep walking in the water?",
+        "candidates": [
+            "play in the waves",
+            "show affection",
+            "taking a bath",
+            "for the dog to lick",
+            "movement"
+        ],
+        "answer": "play in the waves"
+    },
+    {
+        "video": "5338735328.mp4",
+        "question": "why is the fishing rod shaking in the middle?",
+        "candidates": [
+            "wind blowing",
+            "kid stand and sit",
+            "about to break",
+            "baby pulling it",
+            "fish biting on it"
+        ],
+        "answer": "fish biting on it"
+    },
+    {
+        "video": "5620767697.mp4",
+        "question": "why is the smaller dog sprinting so quickly?",
+        "candidates": [
+            "chase big horse",
+            "guide direction",
+            "playing",
+            "catch ball",
+            "racing"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "3339364524.mp4",
+        "question": "why does the grey dog constantly move its legs while climbing up?",
+        "candidates": [
+            "keep balance",
+            "black dog takes away its toy",
+            "walking in the snow",
+            "playing",
+            "get the toy"
+        ],
+        "answer": "keep balance"
+    },
+    {
+        "video": "3334424180.mp4",
+        "question": "why does the dog keep coming back to the man?",
+        "candidates": [
+            "controlled by owner",
+            "ca nt run away",
+            "check the cleaning parts",
+            "wants to play more",
+            "carried by man"
+        ],
+        "answer": "wants to play more"
+    },
+    {
+        "video": "3565727684.mp4",
+        "question": "why did the black monkey kept moving back to the position in front of the glass?",
+        "candidates": [
+            "swinging",
+            "taste good",
+            "playing",
+            "ensure safety",
+            "waiting for his turn"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "5682853832.mp4",
+        "question": "why are the dogs running around the ground?",
+        "candidates": [
+            "feeling bored",
+            "owner bring outdoors",
+            "wanted to play in the water",
+            "trying to catch ball",
+            "chasing the car"
+        ],
+        "answer": "chasing the car"
+    },
+    {
+        "video": "8715893813.mp4",
+        "question": "why is the black dog constantly barking fiercely?",
+        "candidates": [
+            "bite the man",
+            "resting",
+            "to catch the toy car",
+            "lie down",
+            "bark for food"
+        ],
+        "answer": "bark for food"
+    },
+    {
+        "video": "2621079735.mp4",
+        "question": "why do some of the ducks have their beaks on the leaves at the side of the pond?",
+        "candidates": [
+            "for people to cross",
+            "to eat another thrown bread",
+            "checking",
+            "searching from crumbs",
+            "clumsy"
+        ],
+        "answer": "searching from crumbs"
+    },
+    {
+        "video": "3714169972.mp4",
+        "question": "why did the grey cat jump forward at the end?",
+        "candidates": [
+            "follow toy",
+            "get caressed",
+            "distracted by something else",
+            "to attack toy",
+            "annoyed"
+        ],
+        "answer": "to attack toy"
+    },
+    {
+        "video": "10271616853.mp4",
+        "question": "why are the pigs face black and dirty?",
+        "candidates": [
+            "inexperience in eating",
+            "dig their face into the mud",
+            "to feed",
+            "want to join in",
+            "cold"
+        ],
+        "answer": "dig their face into the mud"
+    },
+    {
+        "video": "3916729882.mp4",
+        "question": "why did the cat pounce on the moving toy?",
+        "candidates": [
+            "play with spoon",
+            "play with it",
+            "fight with dog",
+            "comfortable",
+            "licking"
+        ],
+        "answer": "play with it"
+    },
+    {
+        "video": "4780185309.mp4",
+        "question": "why are the two dogs biting onto the same toy?",
+        "candidates": [
+            "hold in place",
+            "try to bite each other",
+            "both want to play with it",
+            "showing affection",
+            "share toy with baby"
+        ],
+        "answer": "both want to play with it"
+    },
+    {
+        "video": "2995795910.mp4",
+        "question": "why does the cat move her head down when the man turn on the tap?",
+        "candidates": [
+            "licking",
+            "distracted",
+            "drink water",
+            "peeing",
+            "playing with plush toy"
+        ],
+        "answer": "drink water"
+    },
+    {
+        "video": "8715893813.mp4",
+        "question": "why are all the dogs constantly sniffing the floor?",
+        "candidates": [
+            "eager to get treat",
+            "looking for something",
+            "search for food",
+            "playing with each other",
+            "playing around the toys"
+        ],
+        "answer": "search for food"
+    },
+    {
+        "video": "5343144349.mp4",
+        "question": "why is the dog roaming around the kitchen?",
+        "candidates": [
+            "waiting for food",
+            "bored",
+            "wants camera s attention",
+            "touch the dog",
+            "resting place"
+        ],
+        "answer": "bored"
+    },
+    {
+        "video": "3207722621.mp4",
+        "question": "why does one of the dogs look elsewhere towards the end?",
+        "candidates": [
+            "want to move around",
+            "distracted",
+            "eating",
+            "playing with the toy",
+            "looking at camera"
+        ],
+        "answer": "distracted"
+    },
+    {
+        "video": "4429343253.mp4",
+        "question": "why does the smaller dog suddenly start to run at the start of the video?",
+        "candidates": [
+            "scared of larger dog",
+            "look at the trolley",
+            "to pat the dog",
+            "catch ball",
+            "find the tiger under the tree"
+        ],
+        "answer": "catch ball"
+    },
+    {
+        "video": "6159095415.mp4",
+        "question": "why are the dogs so interested in the crab?",
+        "candidates": [
+            "show its affection",
+            "create a hole to trap crabs",
+            "curious",
+            "able to eat it",
+            "annoyed with crabs"
+        ],
+        "answer": "curious"
+    },
+    {
+        "video": "5387288470.mp4",
+        "question": "why did the dog run after the toy that was thrown?",
+        "candidates": [
+            "for treats",
+            "play fetch",
+            "the man pulling the leash",
+            "to go through the course",
+            "to catch it for baby"
+        ],
+        "answer": "play fetch"
+    },
+    {
+        "video": "3093622138.mp4",
+        "question": "why did the white and black and white cat walk in and step on the girl near the end?",
+        "candidates": [
+            "prevent it from falling",
+            "wants to be stroked",
+            "to lick its body",
+            "nothing appeals to it at the ledge",
+            "enjoyed it"
+        ],
+        "answer": "wants to be stroked"
+    },
+    {
+        "video": "3447876447.mp4",
+        "question": "why did the cat move under the blankets after girl lifts it up?",
+        "candidates": [
+            "snuggle with girl",
+            "getting her attention",
+            "play with it",
+            "relaxed",
+            "switch attention"
+        ],
+        "answer": "snuggle with girl"
+    },
+    {
+        "video": "13486822104.mp4",
+        "question": "why did the black pigeon lay on the ground at the start?",
+        "candidates": [
+            "catch bubbles",
+            "blow the boat",
+            "resting",
+            "put in properly",
+            "enjoying the view"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "4172209288.mp4",
+        "question": "why is one dog strung to the wire while the other dog is nt?",
+        "candidates": [
+            "the other one bites the ball",
+            "to play with him",
+            "wants to run away",
+            "identity",
+            "to check it"
+        ],
+        "answer": "the other one bites the ball"
+    },
+    {
+        "video": "2694001531.mp4",
+        "question": "why is the big elephant swinging its tail?",
+        "candidates": [
+            "happy",
+            "picture on wall",
+            "eating food",
+            "get the toy",
+            "fanning itself"
+        ],
+        "answer": "happy"
+    },
+    {
+        "video": "5317259686.mp4",
+        "question": "why does the dog moves away when the man in white shirt approaches him?",
+        "candidates": [
+            "to look for food",
+            "get to the other side",
+            "to look for toys",
+            "do nt like strangers",
+            "trying to pick up ball"
+        ],
+        "answer": "do nt like strangers"
+    },
+    {
+        "video": "3316035784.mp4",
+        "question": "why does the guinea pig rest on the cameraman s lap?",
+        "candidates": [
+            "play",
+            "massage",
+            "to feed",
+            "sleepy",
+            "play piano"
+        ],
+        "answer": "sleepy"
+    },
+    {
+        "video": "6434469849.mp4",
+        "question": "why did the dog face the baby?",
+        "candidates": [
+            "look at the baby",
+            "prevent scratching",
+            "wants to play with toy",
+            "looking for food",
+            "wants to get pet"
+        ],
+        "answer": "look at the baby"
+    },
+    {
+        "video": "10622567214.mp4",
+        "question": "why did the dog stand on his feet and mimic a praying action?",
+        "candidates": [
+            "smelling the ground",
+            "ensure the dog s on right path",
+            "grab attention",
+            "play with dog",
+            "wants to get pet"
+        ],
+        "answer": "grab attention"
+    },
+    {
+        "video": "3339159151.mp4",
+        "question": "why does the cat stop to look at the controller?",
+        "candidates": [
+            "found it interesting",
+            "to check cat is comfortable",
+            "getting her attention",
+            "chase the tail of the toy",
+            "to catch his hand"
+        ],
+        "answer": "found it interesting"
+    },
+    {
+        "video": "8748339924.mp4",
+        "question": "why does the pigs keep bending their head to the ground as they walk around?",
+        "candidates": [
+            "eating",
+            "waiting for instructions",
+            "sniffing",
+            "to feed",
+            "finding food"
+        ],
+        "answer": "finding food"
+    },
+    {
+        "video": "4888273655.mp4",
+        "question": "why did the dog want to enter the canal?",
+        "candidates": [
+            "catch the ball",
+            "avoid being hit by the dog",
+            "fun",
+            "playing catch",
+            "woman asked him to do that"
+        ],
+        "answer": "woman asked him to do that"
+    },
+    {
+        "video": "3207722621.mp4",
+        "question": "why are the dogs licking each other?",
+        "candidates": [
+            "want to lick man",
+            "want to play",
+            "smell the food",
+            "trying to bite",
+            "showing affection"
+        ],
+        "answer": "showing affection"
+    },
+    {
+        "video": "8651274358.mp4",
+        "question": "why is the dog near the person s leg?",
+        "candidates": [
+            "ensure the dog s on right path",
+            "lick the leg",
+            "prevent dog from escaping",
+            "bite the leg",
+            "wants person s attention"
+        ],
+        "answer": "wants person s attention"
+    },
+    {
+        "video": "10274034226.mp4",
+        "question": "why did the dog with collar wag its tail while walking towards the fence?",
+        "candidates": [
+            "he is happy",
+            "carry dog up",
+            "controlled by owner",
+            "identity",
+            "playing with leaves"
+        ],
+        "answer": "he is happy"
+    },
+    {
+        "video": "4354621230.mp4",
+        "question": "why does the bird move hurriedly away from the waves?",
+        "candidates": [
+            "prevent getting washed away",
+            "get to the paper",
+            "cleaning itself",
+            "clean itself",
+            "find food"
+        ],
+        "answer": "prevent getting washed away"
+    },
+    {
+        "video": "10271616853.mp4",
+        "question": "why did the nearest pig decide to move away after digging for sometimes?",
+        "candidates": [
+            "can not find food",
+            "shocked from the clap",
+            "chase after ball",
+            "change direction",
+            "to go elsewhere"
+        ],
+        "answer": "can not find food"
+    },
+    {
+        "video": "11917822456.mp4",
+        "question": "why does the dog approach the baby in the beginning?",
+        "candidates": [
+            "to play with him",
+            "to pat it",
+            "controlled by owner",
+            "to see him throw the ball",
+            "ensure the dog s on right path"
+        ],
+        "answer": "to play with him"
+    },
+    {
+        "video": "3974658916.mp4",
+        "question": "why are the two dog raising their heads up in the sky while moving their mouths at the start of the video?",
+        "candidates": [
+            "to get the food",
+            "bark",
+            "show support",
+            "felt the carpet moving",
+            "smelt something"
+        ],
+        "answer": "bark"
+    },
+    {
+        "video": "9394673735.mp4",
+        "question": "why did the pigs walk away after trying to eat the leaves outside the fence but failed?",
+        "candidates": [
+            "excited to eat",
+            "pigs are full",
+            "for food",
+            "wating instructions to rear sheep",
+            "gave up"
+        ],
+        "answer": "gave up"
+    },
+    {
+        "video": "2990913920.mp4",
+        "question": "why are all the dogs able to move freely?",
+        "candidates": [
+            "playing",
+            "no leash",
+            "focused on tv",
+            "owner bring outdoors",
+            "follows the cameraman"
+        ],
+        "answer": "no leash"
+    },
+    {
+        "video": "4761634747.mp4",
+        "question": "why do the ducks keep putting their head down?",
+        "candidates": [
+            "look at the side",
+            "to eat food in water",
+            "washing themselves",
+            "swim",
+            "like each others company"
+        ],
+        "answer": "to eat food in water"
+    },
+    {
+        "video": "7239780364.mp4",
+        "question": "why does the dog look around when the woman in brown carries it?",
+        "candidates": [
+            "caress dog",
+            "curious about new surroundings",
+            "judge",
+            "dog does nt eat something",
+            "rest"
+        ],
+        "answer": "curious about new surroundings"
+    },
+    {
+        "video": "4429343253.mp4",
+        "question": "why does the smaller dog lie down at the end of the video?",
+        "candidates": [
+            "play with larger dog",
+            "watch the man",
+            "lick the ball",
+            "look at pebbles",
+            "itchy"
+        ],
+        "answer": "lick the ball"
+    },
+    {
+        "video": "4431340219.mp4",
+        "question": "why did the bigger dog bend down in the middle of the video?",
+        "candidates": [
+            "sniffing the snow",
+            "retrieve ball",
+            "feed it",
+            "felt the carpet moving",
+            "tired"
+        ],
+        "answer": "sniffing the snow"
+    },
+    {
+        "video": "8103895526.mp4",
+        "question": "why does the dog touch the woman s head?",
+        "candidates": [
+            "feel the beat",
+            "look and talk to dog",
+            "pat it",
+            "playing",
+            "show love"
+        ],
+        "answer": "playing"
+    },
+    {
+        "video": "5382512601.mp4",
+        "question": "why is the small dog overturned on the ground?",
+        "candidates": [
+            "fell backwards",
+            "resting",
+            "rest",
+            "playing with big dog",
+            "smelling the ground"
+        ],
+        "answer": "playing with big dog"
+    },
+    {
+        "video": "9561963944.mp4",
+        "question": "why is the dog lying on the chair?",
+        "candidates": [
+            "resting",
+            "playing",
+            "scratching himself",
+            "getting fur shaved",
+            "want belly rubbed"
+        ],
+        "answer": "resting"
+    },
+    {
+        "video": "2872500033.mp4",
+        "question": "why did the brown cat jumped at the end of the video?",
+        "candidates": [
+            "follow the dig cat",
+            "get up the chair",
+            "keep it calm",
+            "follow the toy",
+            "drink water"
+        ],
+        "answer": "get up the chair"
+    },
+    {
+        "video": "6302902395.mp4",
+        "question": "why did the bird move away after it touched the human hand?",
+        "candidates": [
+            "look around",
+            "bored of water",
+            "afraid of the splash",
+            "walked forward",
+            "lose balance"
+        ],
+        "answer": "afraid of the splash"
+    },
+    {
+        "video": "3696483717.mp4",
+        "question": "why did the bird walk forward nearing the end?",
+        "candidates": [
+            "entrance from the back",
+            "get to the paper",
+            "does nt want to go in pool",
+            "get another ball",
+            "finish speech"
+        ],
+        "answer": "get to the paper"
+    }
+]

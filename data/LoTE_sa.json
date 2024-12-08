@@ -1,0 +1,5412 @@
+[
+    {
+        "video": "Aggregation/MacacaThibetana3938.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Grooming/RhinopithecusRoxellana2904.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur663.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DrinkWater/AilurusFulgens6169.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1580.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7252.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4923.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8122.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3048.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/RusaUnicolor8692.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4694.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1517.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3863.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4928.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7240.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4834.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4912.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3050.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1626.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3978.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/AiluropodaMelanoleuca4991.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3993.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1534.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RhinopithecusRoxellana8190.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3769.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3878.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1536.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4825.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3762.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3825.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1630.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor2225.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4843.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1543.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2820.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor2321.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur907.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1598.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7383.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1508.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana3662.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4830.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "DrinkWater/AilurusFulgens6301.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1527.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3791.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3361.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/RusaUnicolor9366.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1836.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3894.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur594.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4839.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5346.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1501.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3793.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3902.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5822.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor8715.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2842.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1205.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5840.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2849.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1528.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4867.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4870.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/ElaphodusCephalophus7678.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Grooming/PseudoisNayaur6814.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3953.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3942.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/CapricornisMilneedwardsii96.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4863.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3901.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Foraging/MacacaThibetana3702.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4960.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4931.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur466.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/AilurusFulgens6434.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3865.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/SusScrofa9644.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5697.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii160.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4832.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1293.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3890.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5695.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4670.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1599.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5223.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3893.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6678.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3771.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6614.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3884.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1577.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4966.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5659.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/AilurusFulgens6419.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1468.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3044.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3049.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5411.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4537.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/MacacaThibetana4487.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6529.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4828.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3886.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii8410.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4897.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1584.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4759.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4841.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3522.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6519.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3952.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3766.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3891.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4925.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4944.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3864.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/AiluropodaMelanoleuca5062.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7475.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7360.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1546.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1664.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3737.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1550.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1588.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1557.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4755.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2843.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1556.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1660.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5324.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/SusScrofa9957.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1472.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3055.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8140.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1799.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/SusScrofa9631.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/MacacaThibetana4467.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur980.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca3079.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8323.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1671.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3772.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3857.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5687.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5971.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5862.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/MacacaThibetana3293.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7441.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4881.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor8948.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii134.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur420.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii114.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/SusScrofa9937.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3958.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/AiluropodaMelanoleuca5099.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3876.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/RhinopithecusRoxellana2816.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4903.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/SusScrofa9890.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3758.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3775.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3981.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus2481.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3045.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/AiluropodaMelanoleuca5548.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Exploratory/PseudoisNayaur1722.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3877.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur395.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/SusScrofa9713.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/MacacaThibetana3412.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus2691.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1571.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3764.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2831.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3745.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9051.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4771.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3922.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9160.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana3656.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Exploratory/PseudoisNayaur1730.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3880.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9098.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4780.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2846.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1610.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3025.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1475.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1644.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3024.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1218.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1966.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7172.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3820.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Grooming/PseudoisNayaur6784.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1028.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3924.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3855.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7160.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1315.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5924.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4895.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5341.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1892.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1575.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus7561.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1592.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4241.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3999.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3845.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1637.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9455.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2826.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4810.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2855.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9315.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4754.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2859.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4824.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3461.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DrinkWater/AilurusFulgens6175.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/RusaUnicolor8939.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1589.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor2283.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4879.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1446.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4880.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Trotting/MartesFlavigula7960.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1440.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3997.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus2466.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1903.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4264.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor2370.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3960.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9181.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6760.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4907.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/HystrixBrachyura7759.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1581.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/AiluropodaMelanoleuca5463.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3979.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii8433.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4860.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5744.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1593.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3799.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1936.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4918.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3966.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3988.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4940.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1125.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1482.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8318.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/RusaUnicolor9477.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur703.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Grooming/PseudoisNayaur6810.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/AilurusFulgens6037.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3806.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4904.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3941.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5946.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4855.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1522.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/AiluropodaMelanoleuca5461.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur2175.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur458.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4887.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4954.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur482.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4882.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3776.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3840.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1506.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3051.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3828.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4884.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3041.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1576.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4876.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8119.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8304.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1542.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9049.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4845.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4908.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8145.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1889.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1444.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/MacacaThibetana4165.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1505.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3948.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1521.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3493.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1480.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1488.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3307.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/RusaUnicolor9284.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8138.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1459.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4941.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/AiluropodaMelanoleuca5559.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/MacacaThibetana3396.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3961.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/HystrixBrachyura7879.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor8700.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7142.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3838.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9224.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/AilurusFulgens6393.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4905.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3746.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1349.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/CapricornisMilneedwardsii13.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8131.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1953.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4891.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus2683.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3854.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1567.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Grooming/PseudoisNayaur6817.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1643.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5207.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1655.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana3658.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3013.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1443.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5251.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3933.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4929.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1652.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8128.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/AilurusFulgens6392.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/SusScrofa9837.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/SusScrofa9743.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/HystrixBrachyura7935.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3943.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/ElaphodusCephalophus7727.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus2536.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3866.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca2960.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/MacacaThibetana4484.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DrinkWater/AilurusFulgens6202.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6956.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8136.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4916.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4920.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/SusScrofa9778.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3801.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9231.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/MacacaThibetana3557.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1456.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4902.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3946.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6944.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3768.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9354.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1449.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1959.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1612.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5370.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3760.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1538.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur307.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4962.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3925.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1524.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor2282.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/MacacaThibetana4135.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7436.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/SusScrofa9963.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1585.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2867.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6999.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4927.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7126.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/CapricornisMilneedwardsii8544.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3743.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7128.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1530.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/HystrixBrachyura7869.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4762.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1531.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/RusaUnicolor8865.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1647.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7409.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4811.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2864.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4763.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RhinopithecusRoxellana8163.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1636.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3804.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4915.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5877.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3012.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1661.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4849.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4775.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9116.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1654.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5693.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1672.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1566.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4964.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/CapricornisMilneedwardsii8238.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6987.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3744.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1484.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9344.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1651.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3811.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3019.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4808.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3950.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7080.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3756.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur7026.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3023.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1572.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii8449.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4817.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3286.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1881.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur313.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur531.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/CapricornisMilneedwardsii202.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/MacacaThibetana4463.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4883.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4893.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3945.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus2514.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3931.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2819.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1520.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2848.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4805.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/RusaUnicolor8809.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2824.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7144.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2851.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8337.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8273.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5893.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/SusScrofa9671.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6623.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3875.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4781.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4948.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1558.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3956.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1564.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3870.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "DrinkWater/AilurusFulgens6328.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/MacacaThibetana4406.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2835.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4910.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/RusaUnicolor8900.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/PseudoisNayaur7182.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1544.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/MacacaThibetana4525.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3837.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3005.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/PseudoisNayaur1714.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur511.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9033.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4890.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4815.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3842.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3813.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8139.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3037.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Resting/PseudoisNayaur1869.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/AiluropodaMelanoleuca5553.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3016.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/RusaUnicolor9483.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3755.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3849.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/SusScrofa9781.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/MacacaThibetana3495.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8124.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/CapricornisMilneedwardsii163.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2863.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1460.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7369.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor2395.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3984.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1509.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1642.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2838.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6892.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/ElaphodusCephalophus7468.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1491.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1147.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor8881.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1582.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4844.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor9121.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca4950.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6887.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4896.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3987.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4769.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3816.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/RusaUnicolor8931.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana8146.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3909.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3944.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus7488.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1518.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Exploratory/CapricornisMilneedwardsii8324.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6613.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur1123.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1453.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur802.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca3022.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus7604.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2862.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5704.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur754.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UrineSigning/AiluropodaMelanoleuca3052.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/MacacaThibetana4212.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1629.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5762.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1489.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/PseudoisNayaur1930.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1658.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/AiluropodaMelanoleuca5336.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/SusScrofa9975.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RusaUnicolor8732.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/PseudoisNayaur286.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Feeding/MacacaThibetana4187.avi",
+        "question": "Is the animal in this video having urine signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/PseudoisNayaur1638.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/PseudoisNayaur6558.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CircumanalGlandSigning/AiluropodaMelanoleuca4806.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Aggregation/MacacaThibetana3860.avi",
+        "question": "Is the animal in this video having circumanal gland signing behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Aggregation/RhinopithecusRoxellana2869.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Smelling/AiluropodaMelanoleuca5683.avi",
+        "question": "Is the animal in this video having aggregation behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    }
+]
