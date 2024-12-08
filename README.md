@@ -22,6 +22,12 @@ various realistic scenarios, and encompasses 13 different tasks.
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/1ea8bfd2-e128-42be-a638-d23be37519bf">
 
 ## Evaluation on Animal-Bench
-Data: You can access and download the [MammalNet](https://github.com/Vision-CAIR/MammalNet), [Animal Kingdom](https://github.com/sutdcv/Animal-Kingdom), [LoTE-Animal](https://github.com/LoTE-Animal/LoTE-Animal.github.io), [MSRVTT-QA](https://github.com/xudejing/video-question-answering?tab=readme-ov-file), [TGIF-QA](https://github.com/YunseokJANG/tgif-qa), [NExT-QA](https://github.com/doc-doc/NExT-QA)  dataset to obtain the data used in the paper or you can use your own data.
+**Data:** You can access and download the [MammalNet](https://github.com/Vision-CAIR/MammalNet), [Animal Kingdom](https://github.com/sutdcv/Animal-Kingdom), [LoTE-Animal](https://github.com/LoTE-Animal/LoTE-Animal.github.io), [MSRVTT-QA](https://github.com/xudejing/video-question-answering?tab=readme-ov-file), [TGIF-QA](https://github.com/YunseokJANG/tgif-qa), [NExT-QA](https://github.com/doc-doc/NExT-QA)  dataset to obtain the data used in the paper or you can use your own data.
 
-Annotations: You can find our question-answer pair annotation files in /data.
+**Annotations:** You can find our question-answer pair annotation files in /data.
+
+**Models:** We mainly referred to [MVBench](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2) to write the test code. You can refer to the structure of several model files in the /model folder to test your own model. 
+
+## Acknowledgement
+Thanks to the open source of the following projects:
+[Chat-UniVi](https://github.com/PKU-YuanGroup/Chat-UniVi), [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl), [Valley](https://valley-vl.github.io/), [VideoChat](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat), [VideoChat2](https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat2), [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT), [Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA), [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA).
