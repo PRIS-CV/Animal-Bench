@@ -1,0 +1,132 @@
+[
+    {
+        "video": "Parental/MacacaThibetana3732.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Parental/MacacaThibetana3730.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/ElaphodusCephalophus7485.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Parental/PseudoisNayaur1674.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Feeding/PseudoisNayaur6856.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Walking/HystrixBrachyura7755.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Parental/MacacaThibetana3733.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Parental/PseudoisNayaur1673.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Miscellaneous/MacacaThibetana4237.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Resting/RhinopithecusRoxellana8056.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Parental/MacacaThibetana3731.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Walking/MacacaThibetana3424.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Parental/MacacaThibetana3735.avi",
+        "question": "Is the animal in this video having parental behavior?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    }
+]

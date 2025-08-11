@@ -1,0 +1,1102 @@
+[
+    {
+        "video": "DEICKKOU.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "KWQHFFUP.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "AXHWQNMW.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "AMEAJIFB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ALGHZAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RNVYMAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "GGWVBRJS.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ABAJFAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LTVUXNPL.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "AXGJKAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "MXGDWDFC.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "KMLRFSVW.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CEPRLOIP.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "EKOGXXDB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "JUGEUNQN.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FODWUGHE.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YAQNHHEB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "XTBKANPL.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "SQBCBAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RUWQHPTK.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NOTCGWMK.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "HKNNJNPL.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "JRNMAXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "KMMVNLKY.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "KWHFSPTK.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "BPEGEDAL.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DGSPIHFB.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "BUCBKVEI.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "WBDUDATH.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "MTDUMEOD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "HZMXINPL.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FTUHOFFP.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "KIJQGDAL.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "KAJUZPZC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NXKJKNCR.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "ECYUQAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ZHENLHEB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "GAGRUAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RXEPYAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "MAOAIJYD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ASRFKBXG.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "JYCELJYD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "IFOTZMWW.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "PWUSMHAQ.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "EXRREGCS.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "OOEQUKGZ.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "IMXOLXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NGZXTFFP.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "VVYNXFAU.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "DBKDAFFP.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RMFWGQTX.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "IYEABUPH.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "KXRKXDAL.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "ZSWXOGEG.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "MPSGKCPZ.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DMXGFDFS.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "HEMGMNPL.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "AIHZXAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "SCJDSKOU.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "GMFANXAG.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "GFPWBJYD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "AHHLBAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RQIZZHEB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "QTCUNXDB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "QLNKHNPO.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "QEXWXPAB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "BZBBQAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "IIYMPDSN.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NTYBIDAL.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "AKPNRXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LSDSGXTD.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "EBRBQXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LGSHOSOM.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "LGGKHXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "WITXHAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LAZPISEK.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "UUMMNAMC.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "YIZUOAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YGQEGVEI.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "QWGHTHVR.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CSWHQAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NCNPBAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "SYPTOFGA.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "ZQHAFVCV.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "ORPIGVEI.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "OEMQXNMW.mp4",
+        "question": "Is the animal in this video hatching?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "WKWVDAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "JESMEAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "FZLUOAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "BCBUKAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NYZEFAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "BHHKTXHP.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "QMEHNGCS.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "VYTLOXDB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NLQVZPTK.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "BLQFMIFB.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "WOQZHAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ACZOXHEB.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "NZJLNHCU.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NLAFXGIW.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "EXMKVVJP.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "YPTHWXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ZAYKYPLS.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "IGBITXGD.mp4",
+        "question": "Is the animal in this video giving birth?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "TGMNPAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "HUYEVAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LSXFYLHH.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "RIRAMIOQ.mp4",
+        "question": "Is the animal in this video laying eggs?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FUONGAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LCNFOAMC.mp4",
+        "question": "Is the animal in this video showing affection?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    }
+]

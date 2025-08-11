@@ -1,0 +1,2232 @@
+[
+    {
+        "video": "6tPWxJMPHC4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "r4pnQ3zBU9M.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "XqvcnU3-HRc.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "4BJq7HM3Yy8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "E1aJ9K_II08.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "UiZ2NyRplh4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "_TJjcj-ntO4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "igGGp34srA0.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "POrAxhjRL-4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "BkRyChMjows.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "sIZSb8uiuck.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "4fxg62QqLTA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "w0see3aMphI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "JSd5lmzfkZ0.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Nqn0jJz0Wdw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "zwrYu7i_SVs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "TqemDxKMwSM_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "8U3gsyuZtj8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "nU-7278B-LY.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "cok7pVUrw2M.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "TbSTftYnbEg_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "1oHh4bwYR7U.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "MQe8qhYooLM.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "1mwmaplWYqY.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "IEtqFaGqYm4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RnDTJmkc5QI.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "0rB4VgyZvdk.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "ceu5JqzD2c8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "QLDz_FFetE8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "edpScktQ6Vo.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Mq_LdRoxPjE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "BFW-xsZiOls_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "JE6u9G7yHIA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "iWlnqEgqTsI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "SdmgBJbxSy0.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "IjH7syd-GSU.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "U52-tRFBObg_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "wAmzbnjsd70.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "awk_KLr3oRA.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "oN2n950KByU.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "lofaNlFeXAM_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "nmVcKMzCc9c.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "XVLAVgUryDU_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "vtSQA5ZScKY_2.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "qmBjKKDaByU.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YlShOP099YA_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LQ89dlGPni8.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "PIkLBk-AgX8_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "I2MafXkQ9ro.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "-Pzl2QCNCfQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "bolHAE0yteE.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "3R-d2BHK-1I.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DFe8t-wWH50.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "8WSI-aWT3lQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "MSxw6D6Wl4U.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "fqJzakjx7UU.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "f627mnWZYmA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "URiKUQb6798.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "5hJbUGm5_Kk.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "gShWcGKFVfs.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "S6_xc12OIvE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Cg_J8Q0N7Uc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "gAaShQHprG8.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "TbSTftYnbEg_2.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "txnPa92XDJk.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "yCqjBwb3r3s.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "M55SEDj-Bw4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "gGOz3xeCYOQ.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "SNM6xpQY2t8.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FVHjqZC1IJs.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "8PwpvdjoRD4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "WxgH5S_MlQY.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "kbAj3vBzAsg.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "U52-tRFBObg_2.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "hDYu8FfYmTw.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "tnrP6d68XFQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "X1h4h4dsj3c.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CT9HvykAEQs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "9izyB2Q9-P4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "JPpZGfgFYLA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "vfpVID-86g0_2.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Y3LJvKxBn0I.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "aq62FF8lRIU.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "hPnyzIZyPxo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "QUmOGehJyVo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "hltzIKOePA8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "AE_2tbuzgDQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "j1T9dn52rXs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "W_CnuTN3ixA.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "XhgpFhFKrWw.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "h8c2a50JJIc.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Lw-qUvrGUJk.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "7HG_ixhRpqs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "jUP18W50SpA.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "yBqFXK3M3Sc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "7xEvVKxwfkA.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "R1qDdBRiivo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "T0iESLtDTRc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "139ItGYlY4Y.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "kjn3xDt_GhE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "awlQJ2-Yucg.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "TgOsvhekBRQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NZNPlbY6xlE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "fWKdJi5D0lM.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "pMzuE7LDp-Q.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "-nHf4KyJJDc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "wgHARMLBed0_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6aNQrE356Wg_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "lAeiPrSU13I.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "xSPmQ3NL88c.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "9lX0BucJsmY.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "XITJBtjFhm8.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "WIHrCh_XssQ_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "O6XEdI5k55Y.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "lHuwjyl_XDw.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "uVz8wm_UFgs_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Ur6WL8UfgI0.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "2iKEoxIv1yM.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "2m51LIGBy3M.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FVurEd0YR0k.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "itqZrV9BVsM.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "U0SgMJEAk7E_2.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "46pT64NMFug.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "RTOLAtxtqt4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Bo7ILoufAtg_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "P0A676kr1-s.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "RJm63i9P0pw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "S_ZtUAqIuiw.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6qtmf39mkFs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "5H3OjRdZOsU.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "FIqdmYVUQeo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "df9quOvOnGs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "U52-tRFBObg_3.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "R9Zuf-ZcpVU.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "2mdu2yjYLOI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "9kz_DZoBY9s.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "fgOMjzy7nbY.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NIry22-Q78s.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "YGXoKTlUIzc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "GrGOt9gy0CY.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "pJYTVpj1KbQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "5cXo-HTMwqk.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "KLfz1HtQlvQ.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "ajCIQmof9cI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "w46P5N9bucc.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "lM1j2iNbqYo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "eQmceAeK2dY.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DzLCNIIQgtU.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "HUaYDvUvOtw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "YLcKSIXqtkA_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "1LAZ5jQhCU8.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "_FR-2eKfn1o.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "6PgBxcxzdtg.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "VAU1tMoZjP8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6AD-kLqgcMo.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "iVMDMK_s5l0.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "bOmJbHQQ1SE_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "5XQjEMInvK4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "jZhC_ezRpK0.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "hc3NoAT0l_I.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "QjoLIJUzYbc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "kIk1RUHnrPY.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "1SRnUAc3KgM.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NKypM-DCIlU.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "y32m37qRqQM_2.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6llb9kT-znA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "7_X_KzCLhbM.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "uy9D1smvCqY.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "kceSxTudL9w.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "r_wMtiY2wTw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "dkyrwvFAUu4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "CM4BRn7rWb8_2.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "NzVc2HPnrtI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Qoi7RKapT64.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "jYi0yjSKWuM.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "pVquha4qOa0.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Bw7WLJ9hxck_3.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "2auWCfgGn0k.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "OKR9nbsz3K4.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "pa6aZy6M75k.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "LkuBaFiIf4M.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "P72AF0NwUcQ.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "Z0thfD-GyfA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "bTzHJzEc9ok.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "QvVTslHIFak.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "G7-iwKQju1k.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "b0ooAlP7hhM_2.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "D17uC-DDwX4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "8f4JtDOFUXI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "IMaJCvWft-A.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Yska_2iLPvE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "O1fAoVLj-ao.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "JHeeIc4JpuI.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "7Ebz9rH2Fkw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "hWfcgPwK4N4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "s4nEklSVOnI.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "aqYMkog2_vA.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "VDRK9BdQMcY_1.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "3mbHeE4cOI8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "tqY07pjsSJ4_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "srFqVYSvRkY_4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6hhHrXZJLw8.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "eincs5cG0Hw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "not sure",
+            "yes"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "D72p2K_1lV4.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "761ef0UOOjs.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "gNC5THSErHc.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "Uqyin8V0odI.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "DrL9_9mBtAI.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "an0J1hkDktg.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "wzgSZgRN-pg.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "TqemDxKMwSM_2.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "riuwLHIxuAk.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "sfy3K_Ec0Rw.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "9j_VK2VMyjg.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "fv7NBEwZMds.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "gI-c8gxNdmE.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "not sure",
+            "no"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "tUqD1o2fkeA.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "not sure",
+            "no",
+            "yes"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "SxGPoNcEZ1k.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    },
+    {
+        "video": "JMk9dPzEvxA_1.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "CR0I2UejSf0.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "no",
+            "yes",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "wgHARMLBed0_2.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "not sure",
+            "yes",
+            "no"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "6rqGxQRW3m0.mp4",
+        "question": "Is the animal in this video giving birth to a baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "no"
+    },
+    {
+        "video": "yvFl-ZYMM8Y.mp4",
+        "question": "Is the animal in this video nursing or breastfeeding its baby?",
+        "candidates": [
+            "yes",
+            "no",
+            "not sure"
+        ],
+        "answer": "yes"
+    }
+]
